@@ -424,43 +424,43 @@ Priorizar y ejecutar cambios basados en la retroalimentación del cliente y las 
 **Entrevista 1 (Gerentes)**  
 Nombre: Carlo Rebagliati<br>
 Edad: 45<br>
-Residencia: Pueblo Libre, Lima<br>
-<br>![Imagen de entrevista](image.jpg)<br>  
+Residencia: Pueblo Libre, Lima<br><br>
+![Imagen de entrevista](https://i.imgur.com/039MGwN.png)<br>  
 En resumen, Carlo Rebagliati es un gerente de hotel con un largo camino de experiencia. Nos relata que los principales desafíos que tiene su hotel es el llamado a los turistas desde provincia, ya que la mayoría de clientela que tiene son turistas. Adicionalmente, mencionó que tienen una plataforma web donde los clientes realizan sus reservas, también tienen un área contable y administrativa para el seguimiento de ganancia y recursos. Finalmente, cree necesario una aplicación o software que se concentre en la gestión de un hotel, tanto para la comunicación, administración, gestión y seguimiento de recursos.
 
 **Entrevista 2 (Gerentes)**  
 Nombre: Mathias Jave<br>
 Edad: 22<br>
-Residencia: San Isidro, Lima<br> 
-<br>![Imagen de entrevista](image.jpg)<br>  
+Residencia: San Isidro, Lima<br><br>
+![Imagen de entrevista](https://i.imgur.com/4953oaZ.png)<br>  
 En resumen, Carlo Rebagliati es un gerente de hotel con un largo camino de experiencia. Nos relata que los principales desafíos que tiene su hotel es el llamado a los turistas desde provincia, ya que la mayoría de clientela que tiene son turistas. Adicionalmente, mencionó que tienen una plataforma web donde los clientes realizan sus reservas, también tienen un área contable y administrativa para el seguimiento de ganancia y recursos. Finalmente, cree necesario una aplicación o software que se concentre en la gestión de un hotel, tanto para la comunicación, administración, gestión y seguimiento de recursos.
 
 **Entrevista 3 (Gerentes)**  
 Nombre: Ariana Valdivia Alarcón<br>
 Edad: 25<br>
-Residencia: La molina, Lima<br> 
-<br>![Imagen de entrevista](image.jpg)<br>  
+Residencia: La molina, Lima<br><br> 
+![Imagen de entrevista](https://i.imgur.com/i7gbrkR.png)<br>  
 En resumen, Carlo Rebagliati es un gerente de hotel con un largo camino de experiencia. Nos relata que los principales desafíos que tiene su hotel es el llamado a los turistas desde provincia, ya que la mayoría de clientela que tiene son turistas. Adicionalmente, mencionó que tienen una plataforma web donde los clientes realizan sus reservas, también tienen un área contable y administrativa para el seguimiento de ganancia y recursos. Finalmente, cree necesario una aplicación o software que se concentre en la gestión de un hotel, tanto para la comunicación, administración, gestión y seguimiento de recursos.
 
 **Entrevista 1 (Empleados)**  
 Nombre: Juan Guarnizo<br>
 Edad: 22<br>
 Lugar donde Vive: Breña, Lima<br>  
-![Imagen de entrevista](image.jpg)<br>
+![Imagen de entrevista](https://i.imgur.com/eMRHwnn.png)<br>
 <br>En resumen, Juan Guarnizo es un trabajador del Hotel Los Delfines con un amateur camino de experiencia. Nos relata que los principales desafíos o complejidades al trabajar en los hoteles es la administración y actividades sencillas pero repetitivas; adicionalmente, nos cuenta que la mejor solución ante ello es la automatización de los procesos repetitivos fáciles de hacer. Finalmente, sí considera vital la creación de un sistema de gestión hotelero que ayude con estas tareas y organización del hotel.
 
 **Entrevista 2 (Empleados)**  
 Nombre: Juan Guarnizo<br>
 Edad: 22<br>
 Lugar donde Vive: Breña, Lima<br>  
-![Imagen de entrevista](image.jpg)<br>
+![Imagen de entrevista](https://i.imgur.com/9cIxfhz.png)<br>
 <br>En resumen, Mariacarmen Tejada es una empleada del hotel con experiencia en gestión y operaciones diarias. Destaca que sus tareas más difíciles son la limpieza de los baños y la cocina, así como la dificultad para mantener el stock de utensilios de limpieza y cocina. Está abierta a la posibilidad de nuevas tecnologías para mejorar la eficiencia laboral y la experiencia del cliente, especialmente a través de sistemas de gestión hotelera más avanzados. Además, promueve una comunicación más directa con la administración para mejorar la eficiencia y la colaboración del equipo. También, la implementación de sistemas de registro en línea y dispositivos móviles para simplificar el proceso de registro y check-in/check-out de los huéspedes. Por último, destaca la necesidad de herramientas adicionales, como sistemas de seguimiento de solicitudes de huéspedes y acceso a información local para mejorar la experiencia general en el hotel.
 
 **Entrevista 3 (Empleados)**  
 Nombre: Juan Guarnizo<br>
 Edad: 22<br>
 Lugar donde Vive: Breña, Lima<br>  
-![Imagen de entrevista](image.jpg)<br>
+![Imagen de entrevista](https://i.imgur.com/uBryHxg.png)<br>
 <br>En resumen, Catalina Bustamante, quien trabaja en el Hotel Royal Inca en Cuzco, menciona que las tareas más desafiantes incluyen la limpieza y mantener el orden debido a la constante afluencia de huéspedes. Destaca también la dificultad en la gestión de check-in y check-out, especialmente con horarios variados de llegada y salida. Identifica la falta de comunicación eficiente entre departamentos como un obstáculo para resolver problemas de manera efectiva.
 Propone mejoras en el sistema de gestión hotelera para facilitar la comunicación y el acceso a la información entre el personal. Además comentó una capacitación continua para mejorar las habilidades del equipo. Sugiere la automatización de procesos de registro de huéspedes para ahorrar tiempo y evitar errores, así como la implementación de herramientas adicionales, como sistemas de seguimiento de solicitudes de huéspedes, para mejorar la experiencia general en el hotel.
 
@@ -468,11 +468,11 @@ Propone mejoras en el sistema de gestión hotelera para facilitar la comunicaci�
 ### 2.2.3. Análisis de entrevistas.
 
 **Segmento de gerentes**  
-![Imagen User Persona 1](https://i.imgur.com/SYDv3CT.png)<br>
-![Imagen User Persona 1](https://i.imgur.com/4dczXCF.png)<br>
+![Analisis 1](https://i.imgur.com/SYDv3CT.png)<br>
+![Analisis 2](https://i.imgur.com/4dczXCF.png)<br>
 **Segmento de trabajadores**<br>
-![Imagen User Persona 1](https://i.imgur.com/oTUVvys.png)<br>
-![Imagen User Persona 1](https://i.imgur.com/puQWTwg.png)
+![Analisis 3](https://i.imgur.com/oTUVvys.png)<br>
+![Analisis 4](https://i.imgur.com/puQWTwg.png)
 
 ## 2.3. Needfinding.
 
@@ -488,10 +488,24 @@ Para tener una mejor idea de cómo será la experiencia del usuario con nuestro 
 
 ### 2.3.2. User Task Matrix.
 
-| ---  | ------  | Segmento 1  | ------/----- | Segmento 2  | ---------- |
-| ---- | ------- | ----------- | ------------ | ----------- | ---------- |
-| ID   | Titulo  | Importancia | Frecuencia   | Importancia | Frecuencia |
-| U01X | {Texto} | Alta        | Alta         | Media       | Baja       |
+| Tarea                                  | Gerente (Frecuencia / Importancia) | Empleado (Frecuencia / Importancia) |
+|----------------------------------------|------------------------------------|-------------------------------------|
+| Crear una cuenta                      | Alta - Alta                        | Alta - Alta                         |
+| Seguimiento de ingresos y gastos      | Media - Alta                       | Baja - Media                        |
+| Gestión de inventarios                | Media - Alta                       | Alta - Alta                         |
+| Coordinación con proveedores          | Alta - Alta                        | Baja - Baja                         |
+| Capacitación del personal             | Alta - Alta                        | Media - Alta                        |
+| Evaluación de desempeño del personal | Alta - Alta                        | Alta - Alta                         |
+| Preparación de informes y análisis de datos | Media - Alta              | Alta - Alta                         |
+| Recibir notificaciones de baja en el inventario | Alta - Alta             | Baja - Media                        |
+| Asignar tareas a empleados            | Alta - Alta                        | Alta - Alta                         |
+| Visualizar la ocupación de habitaciones en tiempo real | Alta - Alta          | Media - Media                       |
+| Administrar permisos de los empleados | Alta - Alta                        | Baja - Alta                         |
+| Programar turnos de trabajo           | Alta - Alta                        | Alta - Alta                         |
+| Notificaciones de cambio de agenda    | Media - Alta                       | Baja - Baja                         |
+| Reportar problemas a la gerencia      | Alta - Alta                        | Media - Alta                        |
+| Registrar el check-in y check-out del huésped | Alta - Alta                  | Alta - Alta                         |
+| Notificaciones de comentarios         | Media - Alta                       | Baja - Alta                         |
 
 Tareas con mayor frecuencia e importancia:<br><br>
 Crear una cuenta: Esta tarea es crucial tanto para el gerente como para el empleado, ya que implica establecer una identidad en el sistema y acceso a las herramientas.<br><br>
@@ -509,59 +523,41 @@ Coincidencias:<br>
 Tanto el gerente como el empleado participan en la evaluación del desempeño del personal, lo que destaca la importancia compartida de garantizar un equipo bien capacitado y motivado para brindar un servicio de calidad.<br><br>
 La preparación de informes y análisis de datos es una tarea de alta importancia para ambos roles, lo que resalta la necesidad de tomar decisiones basadas en datos para mejorar la eficiencia operativa y la experiencia del cliente.
 
-
 ### 2.3.3. User Journey Mapping.
 
-**Registration:**
-Why would they trust us?
+User Journey Map - Carlos Rebagliati - Gerente (As-Is):<br><br>
+Inicio del día: El gerente comienza el día revisando los informes financieros y preparando la agenda para el día. Se siente estresado por la cantidad de tareas pendientes y la presión para garantizar que todo funcione sin problemas.<br><br>
+Gestión de inventarios: El gerente se enfrenta a la tarea de revisar el inventario y hacer pedidos a los proveedores según sea necesario. Se siente frustrado por la falta de un sistema integrado que facilite esta tarea, y aburrido por la tarea en sí.<br><br>
+Coordinación del personal: El gerente asigna tareas al personal y revisa los horarios. Se siente abrumado por la cantidad de comunicación necesaria para coordinar a todos los empleados.<br><br>
+Comunicación con proveedores: El gerente se comunica con los proveedores para hacer seguimiento de los pedidos y resolver cualquier problema de entrega. Se siente frustrado por la falta de eficiencia en la comunicación.<br><br>
+Análisis de datos y toma de decisiones: El gerente revisa los informes y datos disponibles para tomar decisiones informadas para el hotel. Se siente satisfecho cuando encuentra información útil, pero también preocupado por la falta de herramientas para un análisis más profundo, terminando con una sensación de aceptación por ser la última tarea del día.
 
-- s
-- s
-- s
+![Journey Map Gerente](https://i.imgur.com/CDlhVY7.jpeg)
 
-**Onboarding and first use:**
-How can they feel successful?
+User Journey Map - Juan Guarnizo - Empleado (As-Is):<br><br>
+Inicio del turno: El empleado comienza su turno revisando los horarios y recibiendo instrucciones del gerente. Se siente preparado para comenzar su jornada laboral.<br><br>
+Atención al Cliente: El empleado atiende a los clientes, toma pedidos y proporciona asistencia según sea necesario. Se esfuerza por brindar un servicio amable y eficiente, pero termina sintiéndose aburrido o frustrado.<br><br>
+Realización de tareas asignadas: El empleado completa las tareas asignadas, como limpieza de habitaciones, reposición de suministros o preparación de alimentos. Termina furioso cuando no obtiene una idea clara de los suministros y recursos faltantes.<br><br>
+Comunicación con el Equipo: El empleado se comunica con otros miembros del equipo para coordinar actividades o resolver problemas. Se esfuerza por mantener una comunicación clara y efectiva con sus colegas, pero se frustra cuando ocurren malentendidos.<br><br>
+Final del día: El empleado finaliza su turno, informa al gerente sobre cualquier problema o tarea pendiente, y se prepara para partir. Se siente resignado al terminar, especialmente cuando faltan tareas por completar y es a causa de la mala organización de recursos o suministros.
 
-- s
-- s
-- s
-
-**Sharing:**
-Why would they invite others?
-
-- s
-- s
-- s
+![Journey Map Empleado](https://i.imgur.com/CDlhVY7.jpeg)
 
 ### 2.3.4. Empathy Mapping.
 
-**Segmento 1:**
-![Empathy Map Segmento1](image.jpg)
+**Segmento gerente:**
+![Empathy Map Segmento1](https://i.imgur.com/572jtIM.png)
 
-**Segmento 2:**
-![Empathy Map Segmento1](image.jpg)
+**Segmento trabajador:**
+![Empathy Map Segmento1](https://i.imgur.com/ega3pUi.png)
 
 ### 2.3.5. As-is Scenario Mapping.
 
-**Segmento 1**  
-Escenario: {escenario}
+**Segmento gerente:**
+![Empathy Map Segmento1](https://i.imgur.com/ADOfClT.png)
 
-As Is:
-| Fases    | Fase 1 | Fase 2 | Fase 3 | Fase 4 |
-| -------- | ------ | ------ | ------ | ------ |
-| Doing    | texto  | texto  | texto  | texto  |
-| Thinking | texto  | texto  | texto  | texto  |
-| Feeling  | texto  | texto  | texto  | texto  |
-
-**Segmento 2**  
-Escenario: Dificultad para entender Matemáticas
-
-As Is:
-| Fases    | Fase 1 | Fase 2 | Fase 3 | Fase 4 |
-| -------- | ------ | ------ | ------ | ------ |
-| Doing    | texto  | texto  | texto  | texto  |
-| Thinking | texto  | texto  | texto  | texto  |
-| Feeling  | texto  | texto  | texto  | texto  |
+**Segmento trabajador:**
+![Empathy Map Segmento1](https://i.imgur.com/OMbTkW5.png)
 
 ## 2.4. Ubiquitous Language.
 
