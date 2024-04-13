@@ -657,19 +657,52 @@ Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, is
 
 ## 5.1. Software Configuration Management.
 
+Durante el desarrollo del proyecto utilizaremos las siguientes convenciones o reglas para mantener consistencia en todo momento:
+| Contexto | Convencion |
+|-----------|-----------|
+| El nombre de archivos creados en el proyecto | El nombre de los archivos serán en minúscula y también le pondremos el tipo de archivo con un”.”. |
+| Convenciones de Nomenclatura | Las propiedades de un objeto se trabajará en PascalCase, el nombre de las funciones será en lowerCamelCase, el nombre de las clases es en PascalCase, el nombre de las variables será en lowerCamelCase. 0 |
+| Convenciones de estructura de código  | Agregar distintas carpetas para separar módulos de la aplicación de manera consistente.  |
+| Convenciones de estilos de codificación| Seguir las convenciones de codificación de Microsoft C#, es decir usar espacios en blanco para mejorar legibilidad, convenciones de nombre para clases, funciones, constantes; y también usar nombres claros o lógicos para variables.|
+|Convenciones de documentación| Utilizar comentarios claros y concisos para explicar el propósito del código, tanto en códigos complejos como en la creación de clases, etc. Adicionalmente, mantener los comentarios actualizados para documentar la evolución del código.|
+| Convenciones de control de versiones| Utilizar mensajes de commits muy descriptivos y significativos que expliquen claramente los cambios realizados en cada confirmación. Utilizar un formato consistente para los mensajes de commits como: verbo en presente seguido de frase corta. Utilizar ramas separadas para desarrollar nuevas características, corregir errores y realizar cambios de mantenimiento. Finalmente usar flujo de trabajo Github Flow. |
+| Convenciones de gestión de dependencia | En el caso de C# usaremos el administrador de paquetes NuGet. Para el caso de Javascript usaremos Node.JS.|
+| Convenciones de prueba | Utilizar comentarios descriptivos y claros para explicar el propósito del test y codigo.|
+| Convenciones de seguridad | Encriptar las contraseñas de los usuarios con distintos algoritmos. Implementar sistema de autenticación seguro para proteger el acceso al sistema. Instalar librerías para validar la información ingresada por el usuario en los formularios. |
+| Convenciones de colaboración y comunicación | Utilizar Discord como herramienta de colaboración en conjunto para llamadas o reuniones. Reunirnos seguido para mantenernos actualizados de las versiones y del proyecto. Apoyarnos en conjunto, aprender de nuestros errores y dar feedbacks mutuamente. |
+
 ### 5.1.1. Software Development Environment Configuration.
 
-Especificaciones de donde vamos a hacer el proyecto (vscode supongo)
-extensiones tmbn? nose bn q quieren aca
+| Nombre de Producto | Descripcion | Propósito de Uso | Ruta Descarga o Link |
+|-----------|-----------|-----------|-----------|
+| Rider JetBrains |Rider es un entorno de desarrollo integrado (IDE) desarrollado por JetBrains, conocido por su enfoque en la productividad y la eficiencia en el desarrollo de software. Está diseñado específicamente para el desarrollo de aplicaciones .NET y .NET Core, incluyendo aplicaciones de escritorio, web y móviles. | Nuestro propósito de uso de Rider gira en torno al desarrollo  de aplicaciones web, específicamente de WebServices, a base de código C#, tecnología .NET. Puesto que .NET es recomendado para el desarrollo de servicios web o backend debido a su rendimiento, escalabilidad, seguridad, productividad y compatibilidad multiplataforma, así como su amplio soporte para diversos tipos de servicios. | Link de descarga: https://www.jetbrains.com/es-es/toolbox-app/. Se descarga Toolbox JetBrains donde se encuentran distintos frameworks de muchos lenguajes, entre ellos Rider.|
+| MySql | MySQL es un sistema de gestión de bases de datos relacional (RDBMS) de código abierto y ampliamente utilizado. Desarrollado originalmente por MySQL AB (adquirido por Sun Microsystems y luego por Oracle Corporation), MySQL está disponible bajo una licencia de código abierto dual, lo que significa que se puede utilizar tanto en aplicaciones de código abierto como en aplicaciones comerciales. | Nuestro propósito de uso de MySql es proporcionar una plataforma robusta y confiable para el almacenamiento, gestión y recuperación de datos en aplicaciones de software.| Link de Servicio: [Sql Server](https://www.mysql.com/) Link de Descarga: [Link de Descarga](https://dev.mysql.com/downloads/installer/) . MySql se puede descargar o también se puede usar su servicio en la nube, por lo tanto se puede usar de ambas maneras.|
+| WebStorm JetBrains | WebStorm es un entorno de desarrollo integrado (IDE) creado por JetBrains, diseñado específicamente para el desarrollo web front-end y back-end. Es conocido por su robustez, eficiencia y amplia gama de características orientadas al desarrollo web. | Nuestro propósito de uso de WebStorm es porque tiene características o herramientas avanzadas, un entorno eficiente y completo para el desarrollo Web, desde la edición de código hasta la depuración y la gestión de proyectos. | Link de descarga: [Jet Brains](https://www.jetbrains.com/es-es/toolbox-app/) Se descarga Toolbox JetBrains donde se encuentran distintos frameworks de muchos lenguajes, entre ellos WebStorm.|
+| Postman | Postman es una plataforma de colaboración para el desarrollo de API (Interfaz de Programación de Aplicaciones) que permite diseñar, probar, documentar y compartir API de manera eficiente.| Nuestro propósito de uso de Postman es simplificar y mejorar el proceso de desarrollo, prueba y documentación de las API. Consideramos que es una herramienta esencial para  desarrollar, probar y colaborar en torno a las APIs. | Link de Descarga: [Link Descarga](https://www.postman.com/downloads/) Link de Servicio: [Link Servicio](https://identity.getpostman.com/login) . Postman es una aplicación de escritorio y también es un Saas. Por lo tanto, se puede descargar para escritorio o se puede ingresar a su página web para su servicio.|
+| Git |Git es un sistema de control de versiones distribuido ampliamente utilizado en el desarrollo de software. Fue creado por Linus Torvalds en 2005 para el desarrollo del kernel de Linux y desde entonces se ha convertido en una herramienta fundamental para el control de versiones en proyectos de software de todo tipo y tamaño. |  Nuestro propósito de uso de Git es proporcionar un sistema de control de versiones flexible, confiable y colaborativo para que facilite el desarrollo de software eficiente y la colaboración de  equipos de desarrollo, mediante sus herramientas y funcionalidades avanzadas.| Link de Descarga: [Link Descarga](https://git-scm.com/downloads). Git es un control de versiones local, se instala localmente y puedes administrar tus repositorios locales.|
+| Github | GitHub es una plataforma de desarrollo colaborativo de software que utiliza el sistema de control de versiones Git. Permite a los desarrolladores trabajar juntos en proyectos, facilitando la gestión y colaboración en el código fuente. Los usuarios pueden cargar su código, realizar seguimientos de cambios, proponer modificaciones (mediante solicitudes de extracción), realizar revisiones de código, y gestionar problemas y tareas, entre otras funciones. Adicionalmente, también permite alojar documentación.  | Nuestro propósito de uso de Github (Web) es facilitar la colaboración en proyectos de desarrollo de software. Utilizaremos GitHub para mantener un control de versiones efectivo de mi código, lo que nos permite realizar un seguimiento de los cambios a lo largo del tiempo y revertirlos si es necesario. Además, aprovecharemos las funciones de GitHub para trabajar en equipo de manera eficiente, creando ramas para desarrollar nuevas características o corregir errores sin interferir con el código principal. También valoramos la capacidad de revisión de código que ofrece GitHub, ya que me permite colaborar con mis compañeros de equipo, revisar sus cambios y proporcionar retroalimentación para mejorar la calidad del código. | Link de Servicio: [Github link](https://github.com/) Github es un Software de escritorio y Saas. En este caso nosotros no instalaremos el Github Desktop, por lo tanto usaremos su aplicación de la Web.|
 
 ### 5.1.2. Source Code Management.
 
-El gitjab donde tengamos el proyecto
+Link Repositorio Web Services Proyecto: [Link Web Services](https://github.com/Los-No-Se-Quienes-y-Los-No-Se-CuantosSweetManager-WebServices)
+
+Link Repositorio Landing Page Proyecto: [Link Landing Page](https://github.com/Los-No-Se-Quienes-y-Los-No-Se-Cuantos/SweetManager-LandingPage)
+
+Link Repositorio Front - End Web Proyecto: [Link Front End](https://github.com/Los-No-Se-Quienes-y-Los-No-Se-Cuantos/SweetManager-FrontEndWeb)
+
+**¿Cómo implementaremos GitFlow?**
+Nosotros crearemos una rama para cada capítulo, es decir una rama para Chapter 1, Chapter 2, Chapter 3, Chapter 4 y Chapter 5. Por el cual, consideraremos las siguientes convenciones para el nombre de las features branch: el nombre de las branchs serán en PascalCase. Adicionalmente, daremos una descripción sólida para todos los commits implementados durante el desarrollo de los branchs. No omitiremos la creación de una rama llamada “Development” donde haremos todos los cambios que queramos hacer al main, para posteriormente hacer ‘merg’. Cabe recalcar que también usaremos “FeatureBranches” en donde se desarrollará distintos cambios para posteriormente en el futuro implementarlo a “Development”.
+
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
-Que usamos con css (en caso usemos software para SASS)
-supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para comunicarse entre comments
+**Lenguaje C#**
+
+| Columna 1 | Columna 2 |
+|-----------|-----------|
+| Fila 1, C1 | Fila 1, C2 |
+| Fila 2, C1 | Fila 2, C2 |
+
 
 ### 5.1.4. Software Deployment Configuration.
 
