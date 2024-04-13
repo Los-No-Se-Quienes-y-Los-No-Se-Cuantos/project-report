@@ -304,154 +304,277 @@ Texto
 
 ## 2.1. Competidores.
 
+Facebook (Indirecto): <br>
+En Facebook, los usuarios pueden crear perfiles personales, agregar amigos, publicar actualizaciones de estado, compartir fotos y videos, unirse a grupos y páginas, enviar mensajes privados, participar en eventos, jugar juegos y muchas otras actividades. La plataforma se ha expandido enormemente con el tiempo, integrando funciones como Facebook Marketplace (un mercado en línea), Facebook Watch (una plataforma de vídeo), y Facebook Messenger (una aplicación de mensajería instantánea). Lo cual implica que los gerentes de hoteles busquen empresas que brinden soluciones por medio de publicaciones en dicha plataforma.
+
+Mercado Libre (Indirecto): <br>
+Siendo la plataforma líder de comercio electrónico de América Latina, Mercado libre ofrece la compra y venta de artículos a precio fijo. La gestión hotelera también entra en la lista puesto que se promocionan venta de sistemas y código fuente que ayudan y facilitan a buen precio la gestión hotelera.
+
+Xafiro (Directo): <br>
+Xafiro es un software hotelero, que ahorra tiempo y optimiza la gestión de las operaciones diarias como registro de clientes, reservas, checkin y checkout de habitaciones, venta de productos, entre otros. Dicha empresa es competencia directa porque brinda la solución que ofrecemos como empresa.
+
+Binz 360 (Directo): <br>
+Binz 360 es una empresa que se encarga de la gestión de los recursos hoteleros, control de clientes y reportes de ingresos a un buen precio. Dicha empresa es competencia directa porque brinda la solución que planteamos a un precio económico.
+
+
 ### 2.1.1. Análisis competitivo.
 
-| Competitive Analysis Landscape        |     |
-| ------------------------------------- | --- |
-| ¿Por qué llevar a cabo este análisis? | --  |
-
-|                     |                                                       | (Nosotros)                                                                                                                     | Competidor                                                                  | Comptdor                                             |
-| ------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- | ---------------------------------------------------- |
-| PERFIL              | Overview                                              | lorem                                                                                                                          | ipsum                                                                       | lorem                                                |
-|                     | Ventaja competitiva ¿Qué valor ofrece a los clientes? | ipsu                                                                                                                           | impuz                                                                       |
-|                     | Mercado Objetivo                                      | Jeda                                                                                                                           | asa                                                                         | asa2                                                 |
-| Perfil de marketing | Estrategia de Marketing                               | Redes Sociales                                                                                                                 | Redes Sociales                                                              | Televisión, Redes Sociales                           |
-| Perfil del producto | Productos y servicios                                 | Elementos Gráficos Interactivos Enseñanza de Matemáticas Lúdica y Autodidacta Educación matemática interactiva Ámbito Freemium | Educación matemática interactiva Mas de 100 cursos en 28 idiomas diferentes | Educación general interactiva Contratos con Movistar |
-|                     | Precios y costos                                      | Freemium (Cuenta Premium permite personalizar los juegos) Gratis                                                               | Gratuito                                                                    | Gratuito                                             |
-|                     | Canales de distribución (Web y/o Móvil)               | Web y Móvil Web                                                                                                                | Móvil Web                                                                   | Web y móvil Web                                      |
+| ¿Por qué llevar a cabo este análisis? | Nosotros | Cloudbeds | SiteMinder | estr 1 | sets2 |
+|---------------------------------------|----------|-----------|------------|------------|------------|
+| **Overview**                          | text1 | text2 | tex3. | tet4 | text 5 |
+| **Ventaja Competitiva**               | text1 | text2 | tex3. | tet4 | text 5 |
+| **Mercado Objetivo**                  | text1 | text2 | tex3. | tet4 | text 5 |
+| **Perfil de Marketing**               | text1 | text2 | tex3. | tet4 | text 5 |
+| **Perfil del Producto**               | text1 | text2 | tex3. | tet4 | text 5 |
+| **Precios**                           | text1 | text2 | tex3. | tet4 | text 5 |
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
-| Competidores -> |               | Nosotros | Competidor2 | Competidor3 |
-| --------------- | ------------- | -------- | ----------- | ----------- |
-| Análisis SWOT   | Fortalezas    | lorem    | Lorem       | lorem       |
-|                 | Debilidades   | lorem    | lorem       | lorem       | lorem |
-|                 | Oportunidades | lorem    | lorem       | lorem       | lorem |
-|                 | Amenazas      | lorem    | lorem       | lorem       | lorem |
+Luego de realizar los análisis respectivos, las principales estrategias contra competidores son:
+
+A) Diferenciación de Servicios:<br>
+Estrategia: Identificar y desarrollar características únicas que hagan que Sweet Manager se destaque de otras soluciones en el mercado.<br>
+Tácticas:<br>
+Realizar investigaciones de mercado para comprender las necesidades y deseos no satisfechos de los clientes en la gestión hotelera.<br>
+Desarrollar nuevas funciones o servicios innovadores que aborden estas necesidades de manera efectiva.<br>
+Promover activamente estas características diferenciadoras a través de campañas de marketing y comunicación.
+
+B) Calidad Consistente:<br>
+Estrategia: Garantizar altos estándares de calidad en todos los aspectos de la aplicación y su servicio.<br>
+Tácticas:<br>
+Implementar rigurosos controles de calidad durante el desarrollo y la implementación de la aplicación.<br>
+Ofrecer capacitación y soporte continuo a los clientes para garantizar un uso óptimo de Sweet Manager.<br>
+Recopilar y analizar regularmente retroalimentación de los clientes para identificar áreas de mejora en la calidad y tomar medidas correctivas.
+
+C) Precios Competitivos:<br>
+Estrategia: Ofrecer una propuesta de valor atractiva que justifique el precio de Sweet Manager en comparación con otras soluciones en el mercado.<br>
+Tácticas:<br>
+Realizar análisis de precios comparativos para asegurarse de que los precios de Sweet Manager sean competitivos pero también rentables.<br>
+Ofrecer opciones de precios flexibles y personalizadas para adaptarse a las necesidades y presupuestos de diferentes tipos de hoteles.<br>
+Destacar el retorno de la inversión (ROI) y los beneficios adicionales que ofrece Sweet Manager para justificar su precio.
+
+D) Atención al Cliente de Calidad:<br>
+Estrategia: Priorizar la satisfacción del cliente y establecer relaciones sólidas con los usuarios de Sweet Manager.<br>
+Tácticas:<br>
+Ofrecer un servicio de atención al cliente receptivo y accesible, con tiempos de respuesta rápidos y soluciones efectivas.<br>
+Implementar programas de fidelización y recompensas para premiar la lealtad de los clientes. Fomentar una cultura interna centrada en el cliente y capacitar al equipo para entender y satisfacer las necesidades de los usuarios.
+
+E) Marketing y Publicidad Inteligente:<br>
+Estrategia: Utilizar estratégicamente los canales de marketing y publicidad para aumentar la visibilidad y la demanda de Sweet Manager.<br>
+Tácticas:<br>
+Segmentar el mercado y dirigir las campañas de marketing a los segmentos de clientes más relevantes y receptivos.<br>
+Utilizar tácticas de marketing digital como SEO, publicidad en redes sociales y marketing de contenidos para llegar a una audiencia más amplia.<br>
+Colaborar con influencers y líderes de opinión en la industria hotelera para respaldar y promocionar Sweet Manager.
+
+F) Alianzas Estratégicas:<br>
+Estrategia: Establecer asociaciones con otras empresas o proveedores complementarios para expandir el alcance y la funcionalidad de Sweet Manager.<br>
+Tácticas:<br>
+Identificar y establecer relaciones con empresas que ofrezcan servicios o productos que puedan integrarse con Sweet Manager de manera sinérgica.<br>
+Colaborar en eventos de la industria y programas de co-marketing para aumentar la visibilidad de la aplicación y sus socios.<br>
+Negociar acuerdos mutuamente beneficiosos que agreguen valor tanto para Sweet Manager como para sus socios.
+
+G) Innovación Continua:<br>
+Estrategia: Mantenerse a la vanguardia de la innovación en tecnología y gestión hotelera para ofrecer constantemente nuevas soluciones y mejoras.<br>
+Tácticas:<br>
+Establecer un equipo de investigación y desarrollo dedicado a la exploración de nuevas tecnologías y tendencias en la industria hotelera.<br>
+Fomentar una cultura de innovación dentro de la empresa, donde se valoren las ideas y se promueva la experimentación.<br>
+Mantenerse en contacto cercano con los clientes y la retroalimentación del mercado para identificar oportunidades de mejora y áreas de necesidad no satisfechas.
+
+H) Recopilación de Comentarios y Mejora Continua:<br>
+Estrategia: Utilizar comentarios de los clientes y datos analíticos para impulsar mejoras continuas en Sweet Manager.<br>
+Tácticas:<br>
+Implementar sistemas de retroalimentación y encuestas para recopilar comentarios de los usuarios de manera regular.<br>
+Analizar datos y métricas clave para identificar tendencias y áreas de oportunidad para la mejora.<br>
+Priorizar y ejecutar cambios basados en la retroalimentación del cliente y las necesidades del mercado, manteniendo un enfoque en la evolución constante de la aplicación.
 
 ## 2.2. Entrevistas.
 
 ### 2.2.1. Diseño de entrevistas.
 
-**Preguntas generales:**
+**Entrevistas usuario segmento 1: Gerentes**
 
-1. ¿Cuál es su nombre?
-2. ¿Qué edad tiene?
-3. ¿A qué se dedica?
-4. ¿[Opinion de idea de propuesta]?
+¿Cuáles son los principales desafíos que enfrentan en la gestión diaria de su hotel?<br>
+¿Qué características o funcionalidades consideraría más útiles para mejorar la eficiencia de su hotel?<br>
+¿Cómo gestionan actualmente las reservas de habitaciones y el seguimiento de ingresos y gastos en su hotel?<br>
+¿Qué herramientas o software utilizan actualmente para la gestión hotelera y qué aspectos les gustaría mejorar de esas herramientas?<br>
+¿Cuál es su opinión sobre la importancia de la movilidad y la accesibilidad en las soluciones de gestión hotelera?<br>
+¿Qué aspectos valoran más al evaluar nuevas soluciones de software para su hotel?<br>
+¿Cómo creen que podríamos mejorar la comunicación y la colaboración entre el personal del hotel y los gerentes?<br>
+¿Qué desafíos enfrentan al gestionar proveedores y controlar los inventarios en su hotel?<br>
+¿Cómo gestionan actualmente la satisfacción y las preferencias de los clientes en su hotel?<br>
+¿Cómo ve conveniente un sistema hotelero dedicado a la gestión de recursos, comunicación con proveedores, seguimiento de ganancias, etc?
 
-**Entrevistas usuario segmento 2**
 
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?
+**Entrevistas usuario segmento 2: Trabajdores**
 
-**Entrevistas usuario segmento 2**
+¿Cuáles son las tareas o procesos diarios que considera más tediosos o que consumen más tiempo en su trabajo?<br>
+¿Qué herramientas o sistemas utilizan actualmente para realizar su trabajo y qué aspectos les resultan más difíciles o menos eficientes?<br>
+¿Cómo describiría la interacción y la comunicación entre los diferentes departamentos y miembros del personal del hotel?<br>
+¿Qué características adicionales le gustaría ver en un sistema de gestión hotelera para facilitar su trabajo diario?<br>
+¿Cómo se sienten acerca de la adopción de nuevas tecnologías en el lugar de trabajo y cómo creen que podría mejorar su experiencia laboral?<br>
+¿Qué desafíos enfrenta al gestionar las solicitudes de los huéspedes y asegurarse de que se cumplan sus expectativas durante su estancia?<br>
+¿Cómo manejan actualmente la capacitación y el desarrollo profesional en su hotel?<br>
+¿Qué medidas tomarían para mejorar la eficiencia y la colaboración dentro del equipo de trabajo?<br>
+¿Cómo creen que podríamos simplificar los procesos de registro de huéspedes y check-in/check-out en su hotel?<br>
+¿Qué herramientas o recursos adicionales les ayudarán a ofrecer un mejor servicio a los huéspedes y mejorar su experiencia general en el hotel?
 
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?
 
 ### 2.2.2. Registro de entrevistas.
 
-**Segmento 1**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
+**Entrevista 1 (Gerentes)**  
+Nombre: Carlo Rebagliati<br>
+Edad: 45<br>
+Residencia: Pueblo Libre, Lima<br><br>
+![Imagen de entrevista](https://i.imgur.com/039MGwN.png)<br>  
+En resumen, Carlo Rebagliati es un gerente de hotel con un largo camino de experiencia. Nos relata que los principales desafíos que tiene su hotel es el llamado a los turistas desde provincia, ya que la mayoría de clientela que tiene son turistas. Adicionalmente, mencionó que tienen una plataforma web donde los clientes realizan sus reservas, también tienen un área contable y administrativa para el seguimiento de ganancia y recursos. Finalmente, cree necesario una aplicación o software que se concentre en la gestión de un hotel, tanto para la comunicación, administración, gestión y seguimiento de recursos.
 
-**Segmento 2**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
+**Entrevista 2 (Gerentes)**  
+Nombre: Mathias Jave<br>
+Edad: 22<br>
+Residencia: San Isidro, Lima<br><br>
+![Imagen de entrevista](https://i.imgur.com/4953oaZ.png)<br>  
+En resumen, Carlo Rebagliati es un gerente de hotel con un largo camino de experiencia. Nos relata que los principales desafíos que tiene su hotel es el llamado a los turistas desde provincia, ya que la mayoría de clientela que tiene son turistas. Adicionalmente, mencionó que tienen una plataforma web donde los clientes realizan sus reservas, también tienen un área contable y administrativa para el seguimiento de ganancia y recursos. Finalmente, cree necesario una aplicación o software que se concentre en la gestión de un hotel, tanto para la comunicación, administración, gestión y seguimiento de recursos.
+
+**Entrevista 3 (Gerentes)**  
+Nombre: Ariana Valdivia Alarcón<br>
+Edad: 25<br>
+Residencia: La molina, Lima<br><br> 
+![Imagen de entrevista](https://i.imgur.com/i7gbrkR.png)<br>  
+En resumen, Carlo Rebagliati es un gerente de hotel con un largo camino de experiencia. Nos relata que los principales desafíos que tiene su hotel es el llamado a los turistas desde provincia, ya que la mayoría de clientela que tiene son turistas. Adicionalmente, mencionó que tienen una plataforma web donde los clientes realizan sus reservas, también tienen un área contable y administrativa para el seguimiento de ganancia y recursos. Finalmente, cree necesario una aplicación o software que se concentre en la gestión de un hotel, tanto para la comunicación, administración, gestión y seguimiento de recursos.
+
+**Entrevista 1 (Empleados)**  
+Nombre: Juan Guarnizo<br>
+Edad: 22<br>
+Lugar donde Vive: Breña, Lima<br>  
+![Imagen de entrevista](https://i.imgur.com/eMRHwnn.png)<br>
+<br>En resumen, Juan Guarnizo es un trabajador del Hotel Los Delfines con un amateur camino de experiencia. Nos relata que los principales desafíos o complejidades al trabajar en los hoteles es la administración y actividades sencillas pero repetitivas; adicionalmente, nos cuenta que la mejor solución ante ello es la automatización de los procesos repetitivos fáciles de hacer. Finalmente, sí considera vital la creación de un sistema de gestión hotelero que ayude con estas tareas y organización del hotel.
+
+**Entrevista 2 (Empleados)**  
+Nombre: Juan Guarnizo<br>
+Edad: 22<br>
+Lugar donde Vive: Breña, Lima<br>  
+![Imagen de entrevista](https://i.imgur.com/9cIxfhz.png)<br>
+<br>En resumen, Mariacarmen Tejada es una empleada del hotel con experiencia en gestión y operaciones diarias. Destaca que sus tareas más difíciles son la limpieza de los baños y la cocina, así como la dificultad para mantener el stock de utensilios de limpieza y cocina. Está abierta a la posibilidad de nuevas tecnologías para mejorar la eficiencia laboral y la experiencia del cliente, especialmente a través de sistemas de gestión hotelera más avanzados. Además, promueve una comunicación más directa con la administración para mejorar la eficiencia y la colaboración del equipo. También, la implementación de sistemas de registro en línea y dispositivos móviles para simplificar el proceso de registro y check-in/check-out de los huéspedes. Por último, destaca la necesidad de herramientas adicionales, como sistemas de seguimiento de solicitudes de huéspedes y acceso a información local para mejorar la experiencia general en el hotel.
+
+**Entrevista 3 (Empleados)**  
+Nombre: Juan Guarnizo<br>
+Edad: 22<br>
+Lugar donde Vive: Breña, Lima<br>  
+![Imagen de entrevista](https://i.imgur.com/uBryHxg.png)<br>
+<br>En resumen, Catalina Bustamante, quien trabaja en el Hotel Royal Inca en Cuzco, menciona que las tareas más desafiantes incluyen la limpieza y mantener el orden debido a la constante afluencia de huéspedes. Destaca también la dificultad en la gestión de check-in y check-out, especialmente con horarios variados de llegada y salida. Identifica la falta de comunicación eficiente entre departamentos como un obstáculo para resolver problemas de manera efectiva.
+Propone mejoras en el sistema de gestión hotelera para facilitar la comunicación y el acceso a la información entre el personal. Además comentó una capacitación continua para mejorar las habilidades del equipo. Sugiere la automatización de procesos de registro de huéspedes para ahorrar tiempo y evitar errores, así como la implementación de herramientas adicionales, como sistemas de seguimiento de solicitudes de huéspedes, para mejorar la experiencia general en el hotel.
+
 
 ### 2.2.3. Análisis de entrevistas.
 
-**Segmento 1:**
-{texto}
-**Segmento 2:**
-{texto}
+**Segmento de gerentes**  
+![Analisis 1](https://i.imgur.com/SYDv3CT.png)<br>
+![Analisis 2](https://i.imgur.com/4dczXCF.png)<br>
+**Segmento de trabajadores**<br>
+![Analisis 3](https://i.imgur.com/oTUVvys.png)<br>
+![Analisis 4](https://i.imgur.com/puQWTwg.png)
 
 ## 2.3. Needfinding.
 
+Para tener una mejor idea de cómo será la experiencia del usuario con nuestro producto, utilizaremos las herramientas de User Persona, User Task Matrix, User Journey Mapping, Empathy Mapping y As-is Scenario Mapping.
+
 ### 2.3.1. User Personas.
 
-**Segmento 1:**  
-![Imagen User Persona 1](image.jpg)
+**Segmento de gerentes:**  
+![Imagen User Persona 1](https://i.imgur.com/68GDcWN.png)
 
-**Segmento 2:**
-![Imagen User Persona 1](image.jpg)
+**Segmento de trabajadores:**  
+![Imagen User Persona 1](https://i.imgur.com/R5GiS1R.png)
 
 ### 2.3.2. User Task Matrix.
 
-| ---  | ------  | Segmento 1  | ------/----- | Segmento 2  | ---------- |
-| ---- | ------- | ----------- | ------------ | ----------- | ---------- |
-| ID   | Titulo  | Importancia | Frecuencia   | Importancia | Frecuencia |
-| U01X | {Texto} | Alta        | Alta         | Media       | Baja       |
+| Tarea                                  | Gerente (Frecuencia / Importancia) | Empleado (Frecuencia / Importancia) |
+|----------------------------------------|------------------------------------|-------------------------------------|
+| Crear una cuenta                      | Alta - Alta                        | Alta - Alta                         |
+| Seguimiento de ingresos y gastos      | Media - Alta                       | Baja - Media                        |
+| Gestión de inventarios                | Media - Alta                       | Alta - Alta                         |
+| Coordinación con proveedores          | Alta - Alta                        | Baja - Baja                         |
+| Capacitación del personal             | Alta - Alta                        | Media - Alta                        |
+| Evaluación de desempeño del personal | Alta - Alta                        | Alta - Alta                         |
+| Preparación de informes y análisis de datos | Media - Alta              | Alta - Alta                         |
+| Recibir notificaciones de baja en el inventario | Alta - Alta             | Baja - Media                        |
+| Asignar tareas a empleados            | Alta - Alta                        | Alta - Alta                         |
+| Visualizar la ocupación de habitaciones en tiempo real | Alta - Alta          | Media - Media                       |
+| Administrar permisos de los empleados | Alta - Alta                        | Baja - Alta                         |
+| Programar turnos de trabajo           | Alta - Alta                        | Alta - Alta                         |
+| Notificaciones de cambio de agenda    | Media - Alta                       | Baja - Baja                         |
+| Reportar problemas a la gerencia      | Alta - Alta                        | Media - Alta                        |
+| Registrar el check-in y check-out del huésped | Alta - Alta                  | Alta - Alta                         |
+| Notificaciones de comentarios         | Media - Alta                       | Baja - Alta                         |
+
+Tareas con mayor frecuencia e importancia:<br><br>
+Crear una cuenta: Esta tarea es crucial tanto para el gerente como para el empleado, ya que implica establecer una identidad en el sistema y acceso a las herramientas.<br><br>
+Seguimiento de ingresos y gastos: Esta tarea es de alta importancia para el gerente, ya que implica la supervisión de la salud financiera del hotel y la toma de decisiones informadas. Para el empleado, aunque puede no estar directamente involucrado en esta tarea a diario, entender los ingresos y gastos del hotel puede ayudar en la planificación y ejecución de sus responsabilidades.<br><br>
+Gestión de inventarios: Tanto el gerente como el empleado realizan esta tarea con alta frecuencia e importancia, ya que asegura que el hotel tenga los suministros necesarios para operar sin problemas. La falta de inventario puede afectar negativamente la experiencia del cliente y la eficiencia del hotel.<br><br>
+Coordinación con proveedores: Esta tarea es de alta importancia para el gerente, ya que garantiza la disponibilidad oportuna de suministros esenciales. Aunque para el empleado puede tener una frecuencia menor, sigue siendo crucial para mantener la continuidad operativa.<br><br>
+Asignar tareas a empleados: Esta tarea es fundamental para ambos usuarios, ya que garantiza que el trabajo se distribuya de manera eficiente y que todas las actividades necesarias para el funcionamiento del hotel se completen a tiempo.<br><br>
+Programar turnos de trabajo: La programación de turnos es esencial para garantizar una cobertura adecuada en todas las áreas del hotel, lo que contribuye a la satisfacción del cliente y al funcionamiento fluido del negocio.<br><br>
+Registrar el check-in y el check-out del huésped: Estas tareas son cruciales para ambos usuarios, ya que afectan directamente la experiencia del cliente y la gestión de la ocupación de las habitaciones del hotel.<br><br>
+Principales diferencias y coincidencias entre lo realizado por los User Personas:<br><br>
+Diferencias:<br>
+La coordinación con proveedores es una tarea de alta importancia para el gerente pero de baja importancia para el empleado. Esto refleja el nivel de responsabilidad y la naturaleza estratégica de las decisiones que el gerente toma en comparación con las tareas más operativas del empleado.<br><br>
+La capacitación del personal es una tarea de alta importancia para el gerente, ya que influye en la calidad del servicio y la satisfacción del cliente, pero es de media importancia para el empleado, que puede recibir la capacitación pero no necesariamente esté involucrado en su planificación y ejecución.<br><br>
+Coincidencias:<br>
+Tanto el gerente como el empleado participan en la evaluación del desempeño del personal, lo que destaca la importancia compartida de garantizar un equipo bien capacitado y motivado para brindar un servicio de calidad.<br><br>
+La preparación de informes y análisis de datos es una tarea de alta importancia para ambos roles, lo que resalta la necesidad de tomar decisiones basadas en datos para mejorar la eficiencia operativa y la experiencia del cliente.
 
 ### 2.3.3. User Journey Mapping.
 
-**Registration:**
-Why would they trust us?
+User Journey Map - Carlos Rebagliati - Gerente (As-Is):<br><br>
+Inicio del día: El gerente comienza el día revisando los informes financieros y preparando la agenda para el día. Se siente estresado por la cantidad de tareas pendientes y la presión para garantizar que todo funcione sin problemas.<br><br>
+Gestión de inventarios: El gerente se enfrenta a la tarea de revisar el inventario y hacer pedidos a los proveedores según sea necesario. Se siente frustrado por la falta de un sistema integrado que facilite esta tarea, y aburrido por la tarea en sí.<br><br>
+Coordinación del personal: El gerente asigna tareas al personal y revisa los horarios. Se siente abrumado por la cantidad de comunicación necesaria para coordinar a todos los empleados.<br><br>
+Comunicación con proveedores: El gerente se comunica con los proveedores para hacer seguimiento de los pedidos y resolver cualquier problema de entrega. Se siente frustrado por la falta de eficiencia en la comunicación.<br><br>
+Análisis de datos y toma de decisiones: El gerente revisa los informes y datos disponibles para tomar decisiones informadas para el hotel. Se siente satisfecho cuando encuentra información útil, pero también preocupado por la falta de herramientas para un análisis más profundo, terminando con una sensación de aceptación por ser la última tarea del día.
 
-- s
-- s
-- s
+![Journey Map Gerente](https://i.imgur.com/CDlhVY7.jpeg)
 
-**Onboarding and first use:**
-How can they feel successful?
+User Journey Map - Juan Guarnizo - Empleado (As-Is):<br><br>
+Inicio del turno: El empleado comienza su turno revisando los horarios y recibiendo instrucciones del gerente. Se siente preparado para comenzar su jornada laboral.<br><br>
+Atención al Cliente: El empleado atiende a los clientes, toma pedidos y proporciona asistencia según sea necesario. Se esfuerza por brindar un servicio amable y eficiente, pero termina sintiéndose aburrido o frustrado.<br><br>
+Realización de tareas asignadas: El empleado completa las tareas asignadas, como limpieza de habitaciones, reposición de suministros o preparación de alimentos. Termina furioso cuando no obtiene una idea clara de los suministros y recursos faltantes.<br><br>
+Comunicación con el Equipo: El empleado se comunica con otros miembros del equipo para coordinar actividades o resolver problemas. Se esfuerza por mantener una comunicación clara y efectiva con sus colegas, pero se frustra cuando ocurren malentendidos.<br><br>
+Final del día: El empleado finaliza su turno, informa al gerente sobre cualquier problema o tarea pendiente, y se prepara para partir. Se siente resignado al terminar, especialmente cuando faltan tareas por completar y es a causa de la mala organización de recursos o suministros.
 
-- s
-- s
-- s
-
-**Sharing:**
-Why would they invite others?
-
-- s
-- s
-- s
+![Journey Map Empleado](https://i.imgur.com/CDlhVY7.jpeg)
 
 ### 2.3.4. Empathy Mapping.
 
-**Segmento 1:**
-![Empathy Map Segmento1](image.jpg)
+**Segmento gerente:**
+![Empathy Map Segmento1](https://i.imgur.com/572jtIM.png)
 
-**Segmento 2:**
-![Empathy Map Segmento1](image.jpg)
+**Segmento trabajador:**
+![Empathy Map Segmento1](https://i.imgur.com/ega3pUi.png)
 
 ### 2.3.5. As-is Scenario Mapping.
 
-**Segmento 1**  
-Escenario: {escenario}
+**Segmento gerente:**
+![Empathy Map Segmento1](https://i.imgur.com/ADOfClT.png)
 
-As Is:
-| Fases    | Fase 1 | Fase 2 | Fase 3 | Fase 4 |
-| -------- | ------ | ------ | ------ | ------ |
-| Doing    | texto  | texto  | texto  | texto  |
-| Thinking | texto  | texto  | texto  | texto  |
-| Feeling  | texto  | texto  | texto  | texto  |
-
-**Segmento 2**  
-Escenario: Dificultad para entender Matemáticas
-
-As Is:
-| Fases    | Fase 1 | Fase 2 | Fase 3 | Fase 4 |
-| -------- | ------ | ------ | ------ | ------ |
-| Doing    | texto  | texto  | texto  | texto  |
-| Thinking | texto  | texto  | texto  | texto  |
-| Feeling  | texto  | texto  | texto  | texto  |
+**Segmento trabajador:**
+![Empathy Map Segmento1](https://i.imgur.com/OMbTkW5.png)
 
 ## 2.4. Ubiquitous Language.
 
-```
-Texto ubiquo: Definicion de este
-```
+Sweet Manager :<br>
+Definición: La aplicación de gestión de recursos es la herramienta principal utilizada por el hotel para organizar, controlar y optimizar todos los recursos disponibles, incluyendo habitaciones, personal, suministros y servicios.<br><br>
+Hotel Manager:<br>
+Definición: El gerente de hotel es el responsable general de la operación del hotel y el principal usuario de la aplicación Sweet Manager, encargado de supervisar su implementación y asegurar su eficacia en la gestión diaria.<br><br>
+Hotel Worker:<br>
+Definición: El trabajador de hotel es cualquier miembro del personal encargado de realizar tareas operativas en el hotel, como limpieza, mantenimiento, recepción, etc., y que utiliza la aplicación Sweet Manager para recibir asignaciones y reportar su progreso.<br><br>
+Resource Allocation:<br>
+Definición: La asignación de recursos se refiere al proceso de distribuir de manera efectiva los recursos disponibles, como habitaciones, personal y suministros, para cumplir con las necesidades operativas y las expectativas de los huéspedes.<br><br>
+Control Panel:<br>
+Definición: El panel de control es la interfaz principal de la aplicación Sweet Manager que proporciona una visión general en tiempo real de la disponibilidad de recursos, las tareas pendientes y otros datos relevantes para la operación del hotel.<br><br>
+Data Analysis:<br>
+Definición: El análisis de datos se refiere al proceso de recopilación, procesamiento y evaluación de datos generados por la aplicación Sweet Manager para identificar tendencias, patrones y oportunidades de mejora en la gestión de recursos del hotel.<br><br>
+Process Optimization:<br>
+Definición: La optimización de procesos implica la identificación y aplicación de mejoras continuas en los procedimientos y prácticas de gestión de recursos del hotel, utilizando datos y análisis obtenidos a través de la aplicación Sweet Manager para aumentar la eficiencia y la calidad del servicio.
 
 ---
 
