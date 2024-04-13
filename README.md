@@ -755,30 +755,24 @@ Segmento 1:
                                                                     
 ### 4.1.1. General Style Guidelines.
 
-Descripcion del porque estos elementos seran importantes
+|Aspecto|Directrices|
+|----|----|
+|Tipografía| Se optara por fuentes fáciles de leer y que den un aspecto profesional. Se priorizará la legibilidad del texto antes de que sea llamativo.Debería optarse por una fuente Sans Serif|
+|Colores|Los colores deben ser suaves y reconfortantes. |
+|Espaciado y diseño|Mantendremos un diseño limpio y agradable a la vista. Para crear una sensación de confiabilidad, se usarán espacios uniformes. Usaremos márgenes amplios para evitar un aspecto amontonado. El espaciado que se utilizará debe ser entre 1.5 y 2 veces el tamaño de la fuente.
 
-**Color:** (Descripcion de los colores escogidos y porque)  
-![Colores generales](image.jpg)
-
-**Tipografia:** (Descripcion de la tipografia escogida para el proyecto y porque)
-![Tipografias generales](image.jpg)
-**Branding** (Describir logotipo y porque)
-![Branding general](image.jpg)
 
 ### 4.1.2. Web Style Guidelines.
 
-Descripcion de los elementos que se utilizaran en el web app
+|Aspecto|Directrices|
+|----|----| 
+|Menú de navegación|El menú de navegación, estará desarrollado para ser adaptado a cualquier tamaño de pantalla, aprovechando cada espacio para mostrar información de manera más visible.|
+|Interacción del Ratón|Consideraremos el uso del ratón al desarrollar los elementos interactivos de la web, como menús desplegables, botones, animaciones, para lograr que el usuario tenga una buena experiencia y pueda interactuar de manera agradable con la web.|
+|Uso de imágenes|Se usarán imágenes con buena calidad para los distintos tamaños de pantalla, manteniendo la velocidad de carga. Esto ayudará en la experiencia visual del usuario.|
+|Cumplimiento de WCAG|Cumpliremos las pautas de accesibilidad al contenido web (WCAG), así el contenido será más accesible para todas las personas, se garantizará que todos puedan entender y utilizar la información que se encuentra en nuestra web.|
+|Tipo de letra|El tipo de letra seleccionado fue “Nunito” en estilos. Medium y Normal para mayor legibilidad.|
 
-**Background:** (primary, secondary, terniary)  
-![Background Preview web](image.jpg)
-**Text Styles:** (H1, H2, p, a,)  
-![Text Style Preview web](image.jpg)
-**Button Styles:** (Button, dropdowns, Switches)
-![Button Preview web](image.jpg)
-**Icons:** (Fondo blanco con los iconos que vamos a usar)
-![Icons Preview web](image.jpg)
-**Misc** (Cosas como nav var o slideshows que pensemos usar)
-![Miscellaneos preview web](image.jpg)
+
 
 ## 4.2. Information Architecture.
 La arquitectura de información que se emplea en Sweet Manager, permitirá a los dueños de hoteles poder organizar los procesos dentro de su empresa. Brinda un seguimiento de ingresos, proveedores, insumos y recursos que hay en un hotel, todo esto con la finalidad de poder facilitar la gestión interna del hotel.
@@ -905,13 +899,263 @@ Facilidad de Uso y Claridad: Se buscó que la navegación en la aplicación fuer
 
 ### 4.7.2. Class Dictionary.
 
-Inherit (ave(superclase) -> (subclase)canario )
-Polymorphism (Ej. funcion de persona hablar() -> Peruano hablar() , Gringo hablar() todos tienen una funcion que
-contiene persona y van cambiando sus formas)
-Abstraction (Ej. Solo muestra el usuario, pero esta su edad, correo y veces usada que uso app en la base de datos (fuera
-de vista))
-Encapsulation (cuando tienes tus variables y metodos en la misma clase las estas encapsulando, aun mas se encapsulan en
-Private y Public )
+### Class purchase_request_providers
+
+| Atributo                              | Tipo   | Descripción                                 |
+|---------------------------------------|--------|---------------------------------------------|
+| id_purchase_request_provider          | int    | ID de la solicitud de compra proveedor      |
+| workers_id_worker                     | int    | ID del trabajador asociado                 |
+| providers_id_provider                 | int    | ID del proveedor asociado                  |
+| name_product_purchase_request_provid  | varchar| Nombre del producto                        |
+| price_product_purchase_request_provi  | float  | Precio unitario del producto               |
+| quantity_product_purchase_request_pr  | int    | Cantidad del producto                      |
+| total_price_purchase_request_provider| float  | Precio total de la solicitud de compra proveedor|
+
+### Class support_request
+
+| Atributo                   | Tipo    | Descripción                              |
+|----------------------------|---------|------------------------------------------|
+| id_support_request         | int     | ID de la solicitud de soporte            |
+| providers_id_provider      | int     | ID del proveedor asociado a la solicitud |
+| workers_id_worker          | int     | ID del trabajador asociado a la solicitud|
+| date_support_request       | datetime| Fecha y hora de la solicitud de soporte  |
+| description_support_req    | varchar | Descripción de la solicitud de soporte   |
+| state_support_request      | varchar | Estado actual de la solicitud de soporte |
+
+### Class roles
+
+| Atributo         | Tipo | Descripción        |
+|------------------|------|--------------------|
+| id_role          | int  | ID único del rol   |
+| workers_area_id_worker_a | int  | ID del área de trabajo del trabajador asociado |
+| role             | varchar | Nombre del rol    |
+
+### Class assignments_workers
+
+| Atributo                   | Tipo | Descripción         |
+|----------------------------|------|---------------------|
+| id_assignment_worker       | int  | ID único de la asignación del trabajador |
+| roles_id_role             | int  | ID del rol asociado a la asignación |
+| workers_id_workers        | int  | ID del trabajador asociado a la asignación |
+| start_date_assignment_wo | date | Fecha de inicio de la asignación |
+| final_date_assignment_wor | date | Fecha de finalización de la asignación |
+| state_assignment_worker   | varchar | Estado de la asignación del trabajador (activo/inactivo) |
+
+### Class products
+
+| Atributo                  | Tipo | Descripción       |
+|---------------------------|------|-------------------|
+| id_product                | int  | ID único del producto |
+| providers_id_provider     | int  | ID del proveedor del producto |
+| type_products_id_type_pro| int  | ID del tipo de producto |
+| name_product              | varchar | Nombre del producto |
+| registration_date_product | date | Fecha de registro del producto |
+| due_date_product          | date | Fecha de vencimiento del producto |
+| stock_product             | int  | Cantidad en stock del producto |
+| price_product             | float | Precio del producto |
+| state_product             | varchar | Estado del producto (activo/inactivo) |
+
+### Class type_products
+
+| Atributo           | Tipo | Descripción          |
+|--------------------|------|----------------------|
+| id_type_produ      | int  | ID único del tipo de producto |
+| type_product       | varchar | Tipo de producto    |
+
+### Class providers
+
+| Atributo              | Tipo | Descripción      |
+|-----------------------|------|------------------|
+| id_provider           | int  | ID único del proveedor |
+| companies_id_company | int  | ID de la empresa del proveedor |
+| name_provider         | varchar | Nombre del proveedor |
+| surname_provider      | varchar | Apellido del proveedor |
+| age_provider          | int  | Edad del proveedor |
+| genre_provider        | varchar | Género del proveedor |
+| phone_provider        | int  | Teléfono del proveedor |
+| email_provider        | varchar | Correo electrónico del proveedor |
+| state_provider        | varchar | Estado del proveedor |
+| type_providers_id_type_prov | int | ID del tipo de proveedor |
+
+### Class type_providers
+
+| Atributo           | Tipo | Descripción         |
+|--------------------|------|---------------------|
+| id_type_provid     | int  | ID único del tipo de proveedor |
+| type_provider      | varchar | Tipo de proveedor  |
+
+### Class workers_area
+
+| Atributo          | Tipo | Descripción          |
+|-------------------|------|----------------------|
+| id_worker_area    | int  | ID único del área de trabajo del trabajador |
+| worker_area       | varchar | Área de trabajo del trabajador |
+| state_worker_a    | varchar | Estado del área de trabajo |
+
+### Class workers_access
+
+| Atributo            | Tipo | Descripción          |
+|---------------------|------|----------------------|
+| workers_id_worker  | int  | ID del trabajador    |
+| code_worker_acce   | varchar | Código de acceso del trabajador |
+| state_worker_acce  | varchar | Estado del acceso del trabajador |
+
+### Class workers
+
+| Atributo          | Tipo | Descripción         |
+|-------------------|------|---------------------|
+| id_worker         | int  | ID único del trabajador |
+| name_worker       | varchar | Nombre del trabajador |
+| surname_work      | varchar | Apellido del trabajador |
+| age_worker        | int  | Edad del trabajador |
+| genre_worker      | varchar | Género del trabajador |
+| address_worker   | varchar | Dirección del trabajador |
+| phone_worker      | int  | Teléfono del trabajador |
+| email_worker      | varchar | Correo electrónico del trabajador |
+| state_worker      | varchar | Estado del trabajador |
+
+### Class workers_contracts
+
+| Atributo                     | Tipo | Descripción          |
+|------------------------------|------|----------------------|
+| id_worker_contract           | int  | ID único del contrato del trabajador |
+| workers_id_worker           | int  | ID del trabajador    |
+| start_date_worker_contract  | date | Fecha de inicio del contrato |
+| final_date_worker_contract  | date | Fecha de finalización del contrato |
+| salary_worker_contract      | float | Salario del trabajador |
+| state_worker_contract       | varchar | Estado del contrato del trabajador |
+
+### Class companies
+
+| Atributo                | Tipo | Descripción          |
+|-------------------------|------|----------------------|
+| id_company              | int  | ID único de la empresa |
+| ruc_company             | varchar | RUC de la empresa   |
+| commercial_name_compa  | varchar | Nombre comercial de la empresa |
+| date_origin_company     | date | Fecha de origen de la empresa |
+| address_company         | varchar | Dirección de la empresa |
+| state_company           | varchar | Estado de la empresa |
+
+### Class resources
+
+| Atributo                 | Tipo | Descripción          |
+|--------------------------|------|----------------------|
+| id_resource              | int  | ID único del recurso |
+| type_resources_id_type_resou | int | ID del tipo de recurso |
+| workers_id_worker        | int  | ID del trabajador responsable |
+| name_resource            | varchar | Nombre del recurso  |
+| registration_date_resource | date | Fecha de registro del recurso |
+| due_date_resource        | date | Fecha de vencimiento del recurso |
+| stock_resource           | int  | Cantidad en stock del recurso |
+| price_resource           | float | Precio del recurso   |
+| state_resource           | varchar | Estado del recurso  |
+
+### Class type_resources
+
+| Atributo               | Tipo | Descripción         |
+|------------------------|------|---------------------|
+| id_type_resour         | int  | ID único del tipo de recurso |
+| type_resource          | varchar | Tipo de recurso    |
+
+### Class bedrooms
+
+| Atributo                  | Tipo | Descripción       |
+|---------------------------|------|-------------------|
+| id_bedroom                | int  | ID único de la habitación |
+| workers_id_worker         | int  | ID del trabajador responsable |
+| type_bedreooms_id_type_bedr | int | ID del tipo de habitación |
+| total_double_bed_bedrooms | int  | Cantidad total de camas dobles |
+| total_beds                | int  | Cantidad total de camas |
+| total_bathroom_bedrooms   | int  | Cantidad total de baños en la habitación |
+| total_television_bedrooms | int  | Cantidad total de televisores en la habitación |
+| state_bedrooms            | varchar | Estado de la habitación |
+
+### Class type_bedrooms
+
+| Atributo              | Tipo | Descripción          |
+|-----------------------|------|----------------------|
+| id_type_bedroom       | int  | ID único del tipo de habitación |
+| type_bedroom          | varchar | Tipo de habitación  |
+| description_type_bedro| varchar | Descripción del tipo de habitación |
+| price_type_bedroom    | float | Precio del tipo de habitación |
+| state_type_bedroom    | varchar | Estado del tipo de habitación |
+
+### Class type_memberships
+
+| Atributo               | Tipo | Descripción          |
+|------------------------|------|----------------------|
+| id_type_membership     | int  | ID único del tipo de membresía |
+| type_membership        | varchar | Tipo de membresía    |
+| description_type_members | varchar | Descripción del tipo de membresía |
+| price_type_membership | float | Precio del tipo de membresía |
+
+### Class admins_access
+
+| Atributo           | Tipo | Descripción           |
+|--------------------|------|-----------------------|
+| admins_id_admin    | int  | ID del administrador  |
+| code_admin_acce    | varchar | Código de acceso del administrador |
+| state_admin_acce   | varchar | Estado del acceso del administrador |
+
+### Class repository_services
+
+| Atributo                   | Tipo | Descripción            |
+|----------------------------|------|------------------------|
+| id_repository_service      | int  | ID único del servicio de repositorio |
+| title_respository_serv     | varchar | Título del servicio de repositorio |
+| value_repository_ser       | varchar | Valor del servicio de repositorio |
+
+### Class bookings
+
+| Atributo                | Tipo | Descripción             |
+|-------------------------|------|-------------------------|
+| id_booking              | int  | ID único de la reserva  |
+| clients_id_client       | int  | ID del cliente          |
+| bedrooms_id_bedro       | int  | ID de la habitación     |
+| start_date_booking      | date | Fecha de inicio de la reserva |
+| final_date_booking      | date | Fecha de finalización de la reserva |
+| total_price_booking     | float| Precio total de la reserva |
+| state_booking           | varchar | Estado de la reserva  |
+
+### Class clients
+
+| Atributo                | Tipo | Descripción             |
+|-------------------------|------|-------------------------|
+| id_client               | int  | ID único del cliente    |
+| name_client             | varchar | Nombre del cliente    |
+| surname_clie            | varchar | Apellido del cliente  |
+| age_client              | int  | Edad del cliente       |
+| genre_client            | varchar | Género del cliente     |
+| phone_client            | int  | Teléfono del cliente   |
+| email_client            | varchar | Correo electrónico del cliente |
+| state_client            | varchar | Estado del cliente     |
+
+### Class memberships_contracts
+
+| Atributo                       | Tipo | Descripción             |
+|--------------------------------|------|-------------------------|
+| id_membership contract        | int  | ID único del contrato de membresía |
+| type_membership_id_type_membe | int  | ID del tipo de membresía |
+| admins_id_admin               | int  | ID del administrador    |
+| start_date_membership_contract | date | Fecha de inicio del contrato de membresía |
+| final_date_membership_contract | date | Fecha de finalización del contrato de membresía |
+| state_membership_contract     | varchar | Estado del contrato de membresía |
+
+### Class admins
+
+| Atributo                  | Tipo | Descripción             |
+|---------------------------|------|-------------------------|
+| id_admin                  | int  | ID único del administrador |
+| companies_id_comp         | varchar | ID de la empresa      |
+| dni_admin                 | varchar | DNI del administrador |
+| document_admin            | float| Documento del administrador |
+| name_admin                | varchar | Nombre del administrador |
+| surname_admin             | varchar | Apellido del administrador |
+| age_admin                 | int  | Edad del administrador |
+| genre_admin               | varchar | Género del administrador |
+| phone_admin               | int  | Teléfono del administrador |
+| email_admin               | varchar | Correo electrónico del administrador |
+| state_admin               | varchar | Estado del administrador |
 
 ## 4.8. Database Design.
 
