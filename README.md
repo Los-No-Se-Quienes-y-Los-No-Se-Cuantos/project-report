@@ -703,18 +703,63 @@ Nosotros crearemos una rama para cada capítulo, es decir una rama para Chapter 
 | C# Coding Conventions: [convenctions C#](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions) | Consideramos en utilizar la documentación de Microsoft  para aprender buenas prácticas y sintaxis de C#, puesto que lo utilizaremos en el desarrollo del Back-end. |
 | Microsoft ASP .NET Core Coding Guidelines: [.NET guidelines](https://github.com/dotnet/aspnetcore/wiki/Engineering-guidelines#coding-guidelines) | Consideramos en utilizar la documentación de la referencia especificada para estudiar y aprender buenas prácticas, convenciones y cómo integrar código C# a ASP .NET Core, ya que lo utilizaremos en el backend de nuestros productos. |
 
+**Lenguaje Vue.JS**
+| Referencias Adoptadas | Explicación y Convenciones |
+|-----------|-----------|
+| Html Style Guide and Coding Conventions: [coding guidelines](https://www.w3schools.com/html/html5_syntax.asp)| Consideramos que será beneficioso guiarnos y aprender de la documentación de la referencia indicada, ya que contiene una gran cantidad de información sobre las etiquetas HTML. Esto es fundamental para su uso en nuestros proyectos. |
+| Google HTML/ CSS Style Guide: [Guides](https://google.github.io/styleguide/htmlcssguide.html)| Consideramos guiarnos con la documentación de Google para tener una lista de recomendaciones que nos ayude a mejorar la estructura de nuestras páginas. |Vue Style Guide: [Vue guide](https://vuejs.org/v2/style-guide/)|Consideramos guiarnos de la documentación oficial de Vue.JS para estudiar la sintaxis, buenas prácticas, recomendaciones, etc. De esta manera podremos desarrollar un mejor producto de Software.|
+
+**Lenguaje Gherkin**
+
+| Referencias Adoptadas | Explicación y Convenciones|
+|-----------|-----------|
+| Gherkin Conventions for Readable Specifications: [gherkin link](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/) | Consideramos guiarnos y aprender de la documentación situada en la referencia indicada, porque necesitamos tener ideas de cómo trabajar bajo ese lenguaje y poder usar de manera adecuada las herramientas. |
+
+
+**Lenguaje Md**
+
+| Referencias Adoptadas| Explicación y Convenciones |
+|-----------|-----------|
+| The Markdown Guide: [guide](https://www.markdownguide.org/) | Consideramos guiarnos de la guía oficial de markdown para tener mayor noción de trabajo con el uso de esta tecnología. Usaremos el archivo .md para todo lo que es descripción o información del proyecto. |
+
 
 ### 5.1.4. Software Deployment Configuration.
 
-Configuraciones de donde y como deployeamos el proyecto
+En esta sección solamente tomaremos en cuenta el despliegue para la Landing Page porque estamos en el Sprint 1 y no implementaremos aún Web Services ni Frontend Web.
+
+**Landing Page:**
+Las configuraciones para la landing page será la siguiente:
+
+1. Primero, para desplegar la Landing Page utilizando el servicio automatizado de Netlify, debemos crear el repositorio de Github de la Landing Page.
+
+[Paso 1](https://i.imgur.com/gyM13zI.jpg)
+
+2. Debemos iniciar sesión en Netlify o crear una cuenta si no tenemos una.
+[Paso 2](https://i.imgur.com/NretfI2.jpeg)
+3. Dentro de la plataforma Netlify, seleccionamos el apartado “Sites” y en “Add new site” seleccionamos “Import an existing project”.
+[Paso 3](https://i.imgur.com/HVDPkqj.jpeg)
+4. Seleccionamos “Deploy with Github” y permitimos acceder a nuestros repositorios.
+[Paso 4](https://i.imgur.com/RFFoJVk.jpeg)
+5. Seleccionamos la cuenta u organización y buscamos el repositorio de la Landing Page.
+[Paso 5](https://i.imgur.com/7Qg9mgR.jpg)
+6. Por último asignamos el nombre del proyecto y seleccionamos la branch, en este caso el branch ‘development’.
+[Paso 6](https://i.imgur.com/vTMcdGO.jpg)
+**Web Services:**
+Aún no porque estamos en el Sprint 1.
+
+**Frontend Web:**
+Aún no porque estamos en el Sprint 1.
+
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
-### 5.2.X. Sprint n
+### 5.2.1. Sprint n
 
-#### 5.2.X.1. Sprint Planning n.
+#### 5.2.1.1. Sprint Planning n.
 
 Explicar como vamos a plannear el sprint?
+
+
 
 #### 5.2.X.2. Sprint Backlog n.
 
