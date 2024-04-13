@@ -1263,18 +1263,18 @@ Las configuraciones para la landing page será la siguiente:
 
 1. Primero, para desplegar la Landing Page utilizando el servicio automatizado de Netlify, debemos crear el repositorio de Github de la Landing Page.
 
-[Paso 1](https://i.imgur.com/gyM13zI.jpg)
+![Paso 1](https://i.imgur.com/gyM13zI.jpg)
 
 2. Debemos iniciar sesión en Netlify o crear una cuenta si no tenemos una.
-[Paso 2](https://i.imgur.com/NretfI2.jpeg)
+![Paso 2](https://i.imgur.com/NretfI2.jpeg)
 3. Dentro de la plataforma Netlify, seleccionamos el apartado “Sites” y en “Add new site” seleccionamos “Import an existing project”.
-[Paso 3](https://i.imgur.com/HVDPkqj.jpeg)
+![Paso 3](https://i.imgur.com/HVDPkqj.jpeg)
 4. Seleccionamos “Deploy with Github” y permitimos acceder a nuestros repositorios.
-[Paso 4](https://i.imgur.com/RFFoJVk.jpeg)
+![Paso 4](https://i.imgur.com/RFFoJVk.jpeg)
 5. Seleccionamos la cuenta u organización y buscamos el repositorio de la Landing Page.
-[Paso 5](https://i.imgur.com/7Qg9mgR.jpg)
+![Paso 5](https://i.imgur.com/7Qg9mgR.jpg)
 6. Por último asignamos el nombre del proyecto y seleccionamos la branch, en este caso el branch ‘development’.
-[Paso 6](https://i.imgur.com/vTMcdGO.jpg)
+![Paso 6](https://i.imgur.com/vTMcdGO.jpg)
 **Web Services:**
 Aún no porque estamos en el Sprint 1.
 
@@ -1284,41 +1284,111 @@ Aún no porque estamos en el Sprint 1.
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
-### 5.2.1. Sprint n
+### 5.2.1. Sprint 1
 
-#### 5.2.1.1. Sprint Planning n.
+#### 5.2.1.1. Sprint Planning 1.
 
-Explicar como vamos a plannear el sprint?
+<table>
+    <thead>
+        <tr>
+            <th> Sprint #</th>
+            <th> Sprint 1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Planing Background</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Date</td>
+            <td> 4/04/2024 </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Time</td>
+            <td> 00:5 4am horas (GMT-5)</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Location</td>
+            <td> Lima, Reunion virtual por Discord
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Prepared By</td>
+            <td> Mauricio Abraham Rivo Rojas Sánchez
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
+            <td> Acuña Alarcon, Aaron Elías / Periche Quiroga, Piero / Avila Asto, Alex / Linares Tejada, Leonardo Félix 
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Review Summary</td>
+            <td> Sprint 1: No aplica porque estamos en el Sprint 1
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary</td>
+            <td>
+        Sprint 1: No aplica porque estamos en el Sprint 1
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint 1 Velocity</td>
+            <td> 8
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sum of Story Points</td>
+            <td> 8
+            <td>
+        </tr>
+    </tbody>
+</table>
+
+#### 5.2.1.2. Sprint Backlog 1.
+
+![SprintBacklog 1](https://i.imgur.com/5b02ahu.jpeg)
+
+
+#### 5.2.1.3. Development Evidence for Sprint Review.
 
 
 
-#### 5.2.X.2. Sprint Backlog n.
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
-![SprintBacklog n](image.jpg) Nica hago la tabla
+Al ser un landing page, no se requiere de una suite de pruebas para su desarrollo.
 
-#### 5.2.X.3. Development Evidence for Sprint Review.
+#### 5.2.1.5. Execution Evidence for Sprint Review.
 
-![Sprint review development Evidence](image.jpg)
+**Sprint 1:**
+En este entregable, hemos logrado desarrollar la Landing Page para nuestra StartUp Sweet Manager.
+El link de la Landing Page es el siguiente: [Landing Page](https://sweet-manager.netlify.app/)
 
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
-![Sprint review Testing suite Evidence](image.jpg)
+En este sprint se cumplió el objetivo de desarrollar la Landing Page; sin embargo, al ser Landing Page no requiere de documentación relacionada a Web Services.
 
-#### 5.2.X.5. Execution Evidence for Sprint Review.
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
-![Sprint review Execution Evidence](image.jpg)
+En el este sprint, se completó el desarrollo del landing page y se utilizó un conjunto de herramientas para su despliegue:
 
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
+- Git: Utilizado como sistema de control de versiones para facilitar el trabajo en equipo durante el desarrollo del landing page.
+- GitFlow: Implementado como flujo de trabajo para gestionar el progreso individual de cada miembro del equipo en el desarrollo del landing page.
+- GitHub: Empleado como plataforma colaborativa para almacenar las versiones del proyecto y facilitar el desarrollo conjunto del equipo.
+- Netlify: Utilizado como plataforma para automatizar la hospedaje y despliegue del landing page, especialmente diseñada para sitios web estáticos.
 
-![Sprint review Services Documentation Evidence](image.jpg)
 
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
 
-![Sprint review Software Deployment Evidence](image.jpg)
+El equipo construyó la página de aterrizaje utilizando ramas para cada característica. Esta estrategia permitió que cada integrante del equipo trabajara en una parte del proyecto sin afectar el trabajo de los demás. Una vez completada cada característica, se verificó que no hubiera conflictos con la rama principal y se creó una solicitud de extracción para integrarla con dicha rama. A continuación, se adjunta una imagen que ilustra la colaboración del equipo en GitHub.
 
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
+![estadisticos](https://i.imgur.com/MiSjfqr.jpeg)
 
-![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
+![network](https://i.imgur.com/sUFRirP.jpeg)
 
 ## 5.3. Validation Interviews.
 
