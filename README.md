@@ -635,6 +635,8 @@ Consistencia en el Diseño: Se mantuvo una coherencia visual en todo el diseño 
 Destacar la Información Importante: Se enfocó en mostrar únicamente la información más relevante para los usuarios del segmento objetivo, evitando la saturación de información innecesaria.
 Facilidad de Uso y Claridad: Se buscó que la navegación en la aplicación fuera intuitiva y comprensible, de manera que los usuarios puedan entender completamente cómo utilizar las funciones de la aplicación, como en la visualización de reportes estadísticos.
 
+![Landing page mockup](https://i.imgur.com/6CkwdcK.png)
+
 [Link en Figma] (https://www.figma.com/proto/ERf7rfFpjceh2VV5VSQBba/Open-Souce-TF?type=design&node-id=64-3152&t=mjbZzkRUwrqCJRNJ-1&scaling=contain&page-id=64%3A1061&mode=design)
 
 
@@ -666,6 +668,7 @@ Facilidad de Uso y Claridad: Se buscó que la navegación en la aplicación fuer
 
 ### 4.7.1. Class Diagrams.
 
+![Landing page mockup](https://i.imgur.com/gdkVJ2m.png)
 [Link en LucidChart] https://lucid.app/lucidchart/508e0d8a-92a2-4de3-8626-6b782938b13e/edit?beaconFlowId=47FEEC1E8EBED814&page=0_0&invitationId=inv_fc67e0b3-63d7-49e2-bbf1-50acd5491bd9
 
 
@@ -933,6 +936,7 @@ Facilidad de Uso y Claridad: Se buscó que la navegación en la aplicación fuer
 
 ### 4.8.1. Database Diagram.
 
+![Landing page mockup](https://i.imgur.com/IOSQez5.jpeg)
 [Link en vertabelo] (https://my.vertabelo.com/public-model-view/y5cEtJOUeF1ZM1f5dcRPEs18CAgraR1tSS5dKVobixiEcaZPlqGyj7D1GBAxQo6L?x=1371&y=1603&zoom=0.2637)
 
 # Capítulo V: Product Implementation, Validation & Deployment
