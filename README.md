@@ -252,51 +252,122 @@
 
 ## 1.1. Startup Profile
 
+La gestión eficiente de un hotel es fundamental para garantizar una experiencia excepcional para los huéspedes y maximizar los ingresos. Con este fin, presentamos “Sweet Manager”, una aplicación de gestión de procesos hoteleros diseñada para simplificar y optimizar todas las operaciones relacionadas con la administración de un hotel de tal manera que se puede brindar una estancia cómoda y de calidad a los clientes que frecuentan el hotel.
+
 ### 1.1.1. Descripción de la Startup
 
-Texto del proyecto
+Sweet Manager es una solución integral que abarca desde el seguimiento de ingresos y gastos hasta la gestión de proveedores, inventarios e incluso recursos humanos. Con una interfaz intuitiva y fácil de usar, nuestra aplicación permite a los gerentes y propietarios de hoteles tener un control total sobre todas las facetas de su negocio, desde cualquier lugar y en cualquier momento.
+
+Destacamos las siguientes características:
+- Gestión de Ingresos y Gastos: Sweet Manager ofrece un seguimiento detallado de todos los ingresos y gastos del hotel, proporcionando informes en tiempo real para una toma de decisiones informada.
+- Control de Inventarios: Con nuestra aplicación, los hoteles pueden gestionar eficientemente sus inventarios de alimentos, bebidas, artículos de tocador y más, evitando escasez y desperdicios.
+- Gestión de Proveedores: Facilitamos la comunicación y la gestión de relaciones con los proveedores, permitiendo realizar pedidos de forma rápida y eficiente.
+- Gestión de Clientes: Mejoramos la organización y control de los clientes que reserven su estancia en el hotel implementando calendarios y agendas para una mejor gestión.
 
 #### 1.1.2. Perfiles de integrantes del equipo
 
 | Miembros del equipo                             | Codigo Estudiante | Carrera                | Conocimientos / Habilidades |
 | ----------------------------------------------- | ----------------- | ---------------------- | --------------------------- |
-| Compañero 1 	![Imagen del compañero](image.jpg) | U20...            | Ingenieria de software | C++, piton .etc             |
+| Mauricio Abraham Rivo Rojas Sánchez	![Imagen del compañero](https://i.imgur.com/qQ6neUi.png) | U202211572            | Ingenieria de software | C++, C#, javascript y java            |
+| Aaron Elías Acuña Alarcón 	![Imagen del compañero](https://i.imgur.com/lMgpDeU.png) | U202211552            | Ingenieria de software | C++, C#, html, SQL server, etc.             |
+| Leonardo Félix Jesús Linares Tejada 	![Imagen del compañero](https://i.imgur.com/nWtALQi.png) | U202211168            | Ingenieria de software | C++, C#, html, css, etc.             |
+| Alex Ramon Alberto Avila Asto 	![Imagen del compañero](https://i.imgur.com/Brn231Y.png) | U20221A322            | Ingenieria de software | C++, java, Kotlin, Go, Spring Boot .etc             |
+| Piero Fernando Periche Quiroga 	![Imagen del compañero](https://i.imgur.com/ZHeiHHU.png) | U202210192            | Ingenieria de software | C++, javascript, html, .etc             |
 
 ## 1.2. Solution Profile
 
+Como se mencionó anteriormente, el objetivo de Sweet Manager es ser una aplicación que ayuda en la gestión de procesos hoteleros, específicamente, el seguimiento de ingresos, los proveedores del hotel, los insumos y los recursos disponibles.
+
+Pero, para poder prosperar y ser exitosos, necesitamos reconocer el ambiente competitivo que rodea nuestra aplicación. Por lo tanto, reconoceremos nuestros objetivos y restricciones con las siguientes secciones.
+
 ### 1.2.1 Antecedentes y problemática
 
-Investigacion (5w, 2h tbn)
+Para poder competir con nuestros competidores, debemos reconocer los antecedentes y la problemática a solucionar.
+
+En la industria hotelera, la gestión eficiente de procesos es fundamental para garantizar la rentabilidad y la satisfacción del cliente. La falta de herramientas adecuadas puede llevar a pérdidas económicas y a una experiencia deficiente para los huéspedes.
+
+**What:** Sweet Manager es una solución integral diseñada para abordar estas complejidades al proporcionar una plataforma única para la gestión de todos los aspectos de un hotel, desde las finanzas hasta los recursos humanos.
+
+**Who:** Los hoteles y establecimientos de alojamiento en todo el mundo se enfrentan a desafíos constantes en la gestión de sus operaciones diarias. Desde el seguimiento de ingresos hasta la administración de inventarios y la coordinación del personal, la gestión hotelera puede ser compleja y consumir mucho tiempo.
+
+**When:** La problemática puede surgir en cualquier momento dado, puede ser un problema diario, ya sea con problemas en la gestión del personal o administración de inventarios, o un problema que se encuentra a último segundo, como una falta de recursos de comida o agua o luz, etc.
+
+**Where:** La necesidad de una gestión eficiente se extiende a hoteles y establecimientos de alojamiento en todas partes, desde pequeñas posadas hasta grandes cadenas hoteleras, tanto en entornos urbanos como en destinos turísticos.
+
+**Why:** La gestión ineficiente puede llevar a pérdidas financieras, escasez de inventario, falta de coordinación del personal y, en última instancia, a una experiencia insatisfactoria para los huéspedes, lo que afecta la reputación y la rentabilidad del hotel.
+
+**How:** Sweet Manager aborda esta problemática al proporcionar una plataforma centralizada y fácil de usar que permite a los hoteles gestionar todos los aspectos de su negocio de manera eficiente y efectiva.
+
+**How much:** A partir de un modelo de suscripción, Sweet Manager puede llegar a ser una mera herramienta para momentos puntuales, o una herramienta que prácticamente se vuelve esencial para la sobrevivencia y prospección de un hotel.
 
 ### 1.2.2 Lean UX Process.
 
+El proceso Lean UX aborda la visión del modelo de negocio que respalda nuestro proyecto, siendo el producto principal nuestro software. A lo largo de este documento y en este capítulo, exploramos varios elementos clave de este proceso.
+
+Comenzamos con los "Problem Statements", que abarcan aspectos como el dominio, los segmentos de clientes, los puntos de dolor, las brechas, la visión/estrategia y el segmento inicial. Siguiendo la metodología Lean UX, también consideramos las "Assumptions Statements" y las "Hypothesis Statements".
+
 #### 1.2.2.1. Lean UX Problem Statements.
 
-Texto
+**Problem Statement:**
+
+La gestión eficiente de hoteles presenta desafíos significativos, incluyendo la falta de herramientas integradas que aborden todas las facetas del negocio. Los propietarios y gerentes se enfrentan a dificultades para gestionar ingresos, inventarios, proveedores y recursos humanos de manera eficaz, lo que puede resultar en pérdida de ingresos, desperdicio de recursos y experiencias insatisfactorias para los huéspedes.
+
+**Dominio:**
+
+La industria hotelera, tanto a nivel local como internacional.
+
+**Segmentos de Gerentes:**
+
+Propietarios y gerentes de hoteles de todos los tamaños, desde pequeñas posadas hasta grandes cadenas hoteleras.
+
+**Puntos de Dolor:**
+
+- Dificultad para realizar un seguimiento preciso de los ingresos y gastos del hotel.
+- Desafíos en la gestión de inventarios y relaciones con proveedores.
+- Complejidades en la gestión del personal y los recursos humanos.
+
+**Visión/Estrategia:**
+
+Proporcionar una solución integral y fácil de usar que aborde todas las necesidades de gestión de un hotel, desde las finanzas hasta los recursos humanos, mejorando la eficiencia operativa y la experiencia del cliente.
+
+**Segmento Inicial:**
+
+Hoteles independientes y pequeñas cadenas hoteleras que buscan soluciones accesibles y eficientes para optimizar sus operaciones.
+
 
 #### 1.2.2.2. Lean UX Assumptions.
 
 | Business Assumptions | User Assumptions |
 | -------------------- | ---------------- |
-| 1. - 12.             | 1. - 6.          |
+| Aumento en la eficiencia operativa de los hoteles.|Acceso conveniente a una plataforma que simplifica todas las tareas de gestión hotelera.|
+|Mejora en la rentabilidad a través de una gestión más efectiva de ingresos y recursos.|Mejora en la toma de decisiones basada en datos en tiempo real.|
+|Mayor satisfacción del cliente al ofrecer experiencias más fluidas y personalizadas.|Reducción del estrés y la carga de trabajo asociados con la gestión manual de procesos.|
+
+**Users:**
+- Propietarios y gerentes de hoteles que buscan soluciones tecnológicas para optimizar la gestión de sus establecimientos.
+- Personal de Trabajo encargado de tareas específicas dentro del hotel, como contabilidad, compras o recursos humanos.
+
+**Features:**
+- Sistema de seguimiento de ingresos y gastos en tiempo real.
+- Herramientas para la gestión de inventarios y relaciones con proveedores.
+- Módulos para la gestión de personal, incluyendo horarios, nóminas y evaluaciones de desempeño.
+- Interfaz intuitiva y personalizable para adaptarse a las necesidades específicas de cada hotel.
+- Integración con sistemas de gestión hotelera existentes para una experiencia sin fisuras.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
-Texto
+Creemos que al ofrecer una plataforma integral y fácil de usar para la gestión hotelera, aumentará la eficiencia operativa y la rentabilidad de los hoteles al simplificar las tareas de seguimiento de ingresos, gestión de inventarios y recursos humanos. Al proporcionar herramientas de análisis en tiempo real, los propietarios y gerentes podrán tomar decisiones informadas que mejoren la experiencia del cliente y optimicen los procesos internos. Nuestra hipótesis se basa en la premisa de que estas mejoras conducirán a una mayor satisfacción del cliente y una mayor eficiencia en la gestión hotelera.
 
 #### 1.2.2.4. Lean UX Canvas.
 
-(imagen con texto)
+![Lean UX Canvas](https://i.imgur.com/YjjnP91.png)
 
 ## 1.3. Segmentos objetivo.
 
-|                           | Segmento 1 | Segmento 2 |
-| ------------------------- | ---------- | ---------- |
-| Variables                 |            |            |
-| Geográfica                |            |            |
-| Demográfica               |            |            |
-| Psicológica               |            |            |
-| Función de comportamiento |            |            |
+**Usuarios:**
+
+- **Propietarios y Gerentes de Hoteles:** El objetivo principal de nuestra aplicación es asegurar que aquellos que se encargan de dirigir la dirección del hotel, tengan todas las herramientas disponibles que ofrecemos para el cuidado de sus hoteles, en cualquier momento
+- **Personal de Trabajo:** Aunque no sean aquellos que dirigen la empresa, siguen siendo igual de importantes, al ser aquellos que se encargan del cuidado y atendimiento diario del hotel.
 
 ---
 
