@@ -579,37 +579,54 @@ Te puedes desplazar y navegar por el panel de control donde podrás ver perfil, 
 
 ### 4.3.1. Landing Page Wireframe.
 
-la pagina donde te registras y ves info del web app (te manda al web app)
+[Link en Figma]https://www.figma.com/file/ERf7rfFpjceh2VV5VSQBba/Open-Souce-TF?type=design&node-id=0%3A1&mode=design&t=13Ohu9mZPHPvS0iT-1
 
-Wireframe es todo lo funcional de la pagina
-![Landing page Wireframe](image.jpg)
+
+![Landing page Wireframe](https://i.imgur.com/h8tlQQu.png)
+![Landing page mockup](https://i.imgur.com/CPAe5HR.png)
+![Landing page mockup](https://i.imgur.com/MdxPERZ.png)
+
 
 ### 4.3.2. Landing Page Mock-up.
 
-Mockup es todo lo relacionado al diseño de la pagina
-![Landing page mockup](image.jpg)
+[Link en Figma] https://www.figma.com/file/ERf7rfFpjceh2VV5VSQBba/Open-Souce-TF?type=design&node-id=0%3A1&mode=design&t=13Ohu9mZPHPvS0iT-1
+
+
+![Landing page mockup](https://i.imgur.com/V1IFBE9.png)
+![Landing page mockup](https://i.imgur.com/T6zfHP2.png)
+![Landing page mockup](https://i.imgur.com/K2KrTQi.png)
 
 ## 4.4. Web Applications UX/UI Design.
 
 ### 4.4.1. Web Applications Wireframes.
 
-lo funcional de cada aspecto del wireframe
-![Web Aplication Wireframe](image.jpg)
+[Link en Figma] https://www.figma.com/file/ERf7rfFpjceh2VV5VSQBba/Open-Souce-TF?type=design&node-id=0%3A1&mode=design&t=13Ohu9mZPHPvS0iT-1
+
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
-![Web Aplication Wireflow](image.jpg)
+[Link en Figma] https://lucid.app/lucidchart/ed4de18f-9ca6-42e9-9013-44066a70608f/edit?viewport_loc=-52639%2C-16147%2C6817%2C3453%2C0_0&invitationId=inv_0619e526-a49e-4732-8a91-a1af4008eb73
+
 
 ### 4.4.2. Web Applications Mock-ups.
 
-Diseño en todo aspecto
-![Web Aplication Mockup](image.jpg)
+![Landing page mockup](https://i.imgur.com/S4kz5k1.png)
+![Landing page mockup](https://i.imgur.com/7fwjiCt.png)
+![Landing page mockup](https://i.imgur.com/OxlbYcB.png)
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
-un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
-![Web Aplication User Flow Diagram](image.jpg)
+[Link en Figma] https://www.figma.com/file/ERf7rfFpjceh2VV5VSQBba/Open-Souce-TF?type=design&node-id=0%3A1&mode=design&t=13Ohu9mZPHPvS0iT-1
+
+
+### 4.4.4. Web Applications User Flow Diagrams
+
+
+![Landing page mockup](https://i.imgur.com/oFsrjQK.png)
+![Landing page mockup](https://i.imgur.com/NUuDHbS.png)
+![Landing page mockup](https://i.imgur.com/OiZvJZ6.png)
+![Landing page mockup](https://i.imgur.com/a0iUrPc.png)
+
 
 ## 4.5. Web Applications Prototyping.
 
@@ -649,7 +666,7 @@ Facilidad de Uso y Claridad: Se buscó que la navegación en la aplicación fuer
 
 ### 4.7.1. Class Diagrams.
 
-[Link en LucidChart] (https://lucid.app/lucidchart/508e0d8a-92a2-4de3-8626-6b782938b13e/edit?beaconFlowId=47FEEC1E8EBED814&page=0_0&invitationId=inv_fc67e0b3-63d7-49e2-bbf1-50acd5491bd9 )
+[Link en LucidChart] https://lucid.app/lucidchart/508e0d8a-92a2-4de3-8626-6b782938b13e/edit?beaconFlowId=47FEEC1E8EBED814&page=0_0&invitationId=inv_fc67e0b3-63d7-49e2-bbf1-50acd5491bd9
 
 
 ### 4.7.2. Class Dictionary.
@@ -916,7 +933,7 @@ Facilidad de Uso y Claridad: Se buscó que la navegación en la aplicación fuer
 
 ### 4.8.1. Database Diagram.
 
-Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
+[Link en vertabelo] (https://my.vertabelo.com/public-model-view/y5cEtJOUeF1ZM1f5dcRPEs18CAgraR1tSS5dKVobixiEcaZPlqGyj7D1GBAxQo6L?x=1371&y=1603&zoom=0.2637)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
