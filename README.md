@@ -561,9 +561,20 @@ Final del día: El empleado finaliza su turno, informa al gerente sobre cualquie
 
 ## 2.4. Ubiquitous Language.
 
-```
-Texto ubiquo: Definicion de este
-```
+Sweet Manager :<br>
+Definición: La aplicación de gestión de recursos es la herramienta principal utilizada por el hotel para organizar, controlar y optimizar todos los recursos disponibles, incluyendo habitaciones, personal, suministros y servicios.<br><br>
+Hotel Manager:<br>
+Definición: El gerente de hotel es el responsable general de la operación del hotel y el principal usuario de la aplicación Sweet Manager, encargado de supervisar su implementación y asegurar su eficacia en la gestión diaria.<br><br>
+Hotel Worker:<br>
+Definición: El trabajador de hotel es cualquier miembro del personal encargado de realizar tareas operativas en el hotel, como limpieza, mantenimiento, recepción, etc., y que utiliza la aplicación Sweet Manager para recibir asignaciones y reportar su progreso.<br><br>
+Resource Allocation:<br>
+Definición: La asignación de recursos se refiere al proceso de distribuir de manera efectiva los recursos disponibles, como habitaciones, personal y suministros, para cumplir con las necesidades operativas y las expectativas de los huéspedes.<br><br>
+Control Panel:<br>
+Definición: El panel de control es la interfaz principal de la aplicación Sweet Manager que proporciona una visión general en tiempo real de la disponibilidad de recursos, las tareas pendientes y otros datos relevantes para la operación del hotel.<br><br>
+Data Analysis:<br>
+Definición: El análisis de datos se refiere al proceso de recopilación, procesamiento y evaluación de datos generados por la aplicación Sweet Manager para identificar tendencias, patrones y oportunidades de mejora en la gestión de recursos del hotel.<br><br>
+Process Optimization:<br>
+Definición: La optimización de procesos implica la identificación y aplicación de mejoras continuas en los procedimientos y prácticas de gestión de recursos del hotel, utilizando datos y análisis obtenidos a través de la aplicación Sweet Manager para aumentar la eficiencia y la calidad del servicio.
 
 ---
 
