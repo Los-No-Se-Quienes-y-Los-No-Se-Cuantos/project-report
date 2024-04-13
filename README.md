@@ -737,7 +737,22 @@ Segmento 1:
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines.
+|Aspecto|Directrices|
+|----|----|
+|Nombre de la aplicación|Sweet Manager|
+|Identidad Visual|Colores suaves para representar confianza y fiabilidad en nuestra aplicación.|
+|Diseño de la Interfaz|La aplicación será fácil de navegar para usuarios de todas las edades y niveles de experiencia tecnológica. Utiliza una estructura de menú lógica y una navegación clara. Se agrupan las funciones relacionadas para simplificar la experiencia del usuario.|
+|Diseño de Usuario|Se prioriza la navegación clara. -Estructura lógica y concisa del menú|
+|Contenido|- Información precisa y actualizad. -Control de inventario sobre los insumos y recursos utilizados en el hotel.|
+|Funcionalidad|-Seguimiento de ingresos. -Control de insumos y recursos con información actualizada y precisa para evitar errores y pérdidas en la empresa.
+|Comunicación|-Funciones de chat y correo electrónico. -Formulario de contacto para comentarios|
+|Diseño Responsivo|-Compatibilidad con dispositivos móviles|
+|Seguridad y Privacidad| -Protección de datos sensibles. -Cumplimiento de regulaciones de privacidad|
+|Actualizaciones y Mantenimiento|-Actualizaciones regulares de las bases de datos principales.  -Respuestas oportunas a problemas informados|
+|Promoción|-Estrategias de marketing digital (publicidades en redes sociales).  -Colaboraciones con organizaciones hoteleras|
 
+
+                                                                    
 ### 4.1.1. General Style Guidelines.
 
 Descripcion del porque estos elementos seran importantes
@@ -766,50 +781,50 @@ Descripcion de los elementos que se utilizaran en el web app
 ![Miscellaneos preview web](image.jpg)
 
 ## 4.2. Information Architecture.
+La arquitectura de información que se emplea en Sweet Manager, permitirá a los dueños de hoteles poder organizar los procesos dentro de su empresa. Brinda un seguimiento de ingresos, proveedores, insumos y recursos que hay en un hotel, todo esto con la finalidad de poder facilitar la gestión interna del hotel.
+Estará enfocada a las personas involucradas en el sector hotelero.
+Luego del registro, las empresas pagarán una suscripción para poder acceder al servicio, en el cual podrán tener un control y seguimiento de los recursos e insumos utilizados, así como también con información actualizada de los proveedores.
 
 ### 4.2.1. Organization Systems.
 
-Descripcion corta respecto a los sistemas de organizacion que usaremos  (Escoger)
-"Hierarchical. This structures advices to present the content in a way to distinguish the level of importance by making
-use of physical differences, such as size, colour, contrast, alignment etc.
+Organización visual de contenidos
+Se desarrollará una organización visual del contenido de forma jerárquica en el Landing Page y en las secciones principales de la web para resaltar la información importante, como pueden ser la información y control de los recursos, insumos e información actualizada de los proveedores.
 
-Sequential. Guide users to follow a specific path towards their goal and provide content step-by-step based on the
-current step.
+Categorización de contenido
+Lista de proveedores: Se organiza alfabéticamente por nombre de la empresa, así se podrá ubicar a un proveedor de una manera más rápida y eficaz.
+Insumos: Se creará una lista de los insumos y se hará un control de inventario para poder ver las necesidades de la empresa.
+Recursos: Seguimiento de los recursos para poder llevar un mejor control de las finanzas dentro de ellos.
 
-Matrix. You can always give the users the option to choose the type of navigation they prefer, i.e. Alphabetical,
-Chronological, by topic."
 
 ### 4.2.2. Labeling Systems.
 
-The labeling system aims at uniting the data effectively and represent them in simple way and avoid confusing great
-amount of information. A widely adopted way to achieve this is by creating the labels which represent loads of data in
-few words.
+Claridad y simplicidad: Se emplea términos no muy complicados, los cuales puedan ser confusos para los usuarios. Sin embargo, habrá algunos términos los cuales serán más técnicos, debido a los insumos que se puedan utilizar en el hotel.
+Brevedad: Se emplea la menor cantidad de palabras para facilitar la navegación de los usuarios.
+Imágenes ilustrativas: Se emplea imágenes las cuales ayudan a la ubicación de opciones.
+Uso de iconos y símbolos: Se emplea iconos para ayudar a que los usuarios puedan reconocer una función. Esto se emplea principalmente en la barra de herramientas.
 
-Como decir "home, about us, etc" basicamente lo que iria en un nav var y asi
+
 
 ### 4.2.3. SEO Tags and Meta Tags
 
-**Meta & SEO (Search Engine Optimization) Tags:**  sirven para que la pagina web sea encontrada facilmente es lo que
-sale al encontrar la pagina en el buscador (se ponen en el <"head">)
 
-* Titulo: ```<title> ___ </title> ```
-* Descripcion: ```<meta name = "description" content = "texto descipcion"/> ```
-* Palabras Clave: ```<meta name = "keyword" content = "keyword1, 2 3"/> ```
+
+* Titulo: ```<title> El Control Que Necesitas | Software de Gestión de hoteles/hostales </title> ```
+* Descripcion: ```<meta name = "description" content = "Controla tus cuartos, empleados e inventario en un solo lugar, La solucion que buscas para cualquier tamaño"/> ```
+* Palabras Clave: ```<meta name = "keyword" content = "Gestion Hotel, Hotel Manager Software, software hotelero, software hoteleros mas utilizados, Controlar tu Hotel/Hostal, Gestion Hostal"/> ```
 
 ### 4.2.4. Searching Systems.
 
-**Que se busca?:** Que buscara el usuario  
-**Que resultados se mostraran?:** Que se mostrara  
-**Interface de busqueda:** Descripcion de como ayuda a encontrar lo deseado
-![Search interface preview web](image.jpg)
+En la página principal se incluirá una opción de búsqueda general, en donde permitirá al usuario acceder a todo el contenido de la aplicación.
+Como búsqueda avanzada se implementará en la parte proveedores e insumos, debido a que se permitirá hacer una búsqueda más específica por apartado.
+
 
 ### 4.2.5. Navigation Systems.
 
-Basicamente aqui definimos como funciona la navegacion del web app
-**Hierarchical Navigation System:** Main page a destination pages.
-**Global Navigation Systems** (Complemento del Hierachical) Movimiento vertical (te mueves por la pagina)con nav(debe
-poder regresar a la principal)
-**Local Navigation Systems** (vas a otras paginas) (complemento del global nav sistem sub-site) Usas otras paginas
+El usuario será bienvenido con una patnalla para registrar su empresa.
+Luego que el usuario inicie sesión se mostrará en la parte inferior de la aplicación una barra de herramientas para que el usuario pueda navegar por toda la aplicación de manera satisfactoria.
+Te puedes desplazar y navegar por el panel de control donde podrás ver perfil, ver empresa, ver el control del inventario, ir por la pagina de gestión de proovedores y ver la pagina de gestión de clientes, cada pagina con distintas opciones dependiendo de cada una.
+
 
 ## 4.3. Landing Page UI Design.
 
@@ -849,7 +864,13 @@ un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
 
 ## 4.5. Web Applications Prototyping.
 
-[URL del Prototipo (Hecho en figma)](https://www.example.com)
+Para crear los modelos de la interfaz de usuario, se aplicaron una serie de principios importante:
+Consistencia en el Diseño: Se mantuvo una coherencia visual en todo el diseño de la interfaz de usuario, utilizando un estilo y una paleta de colores uniformes. Esto ayuda a crear una experiencia unificada y familiar para los usuarios, facilitando la navegación y la comprensión de la aplicación.
+Destacar la Información Importante: Se enfocó en mostrar únicamente la información más relevante para los usuarios del segmento objetivo, evitando la saturación de información innecesaria.
+Facilidad de Uso y Claridad: Se buscó que la navegación en la aplicación fuera intuitiva y comprensible, de manera que los usuarios puedan entender completamente cómo utilizar las funciones de la aplicación, como en la visualización de reportes estadísticos.
+
+[Link en Figma] (https://www.figma.com/proto/ERf7rfFpjceh2VV5VSQBba/Open-Souce-TF?type=design&node-id=64-3152&t=mjbZzkRUwrqCJRNJ-1&scaling=contain&page-id=64%3A1061&mode=design)
+
 
 ## 4.6. Domain-Driven Software Architecture.
 
@@ -879,8 +900,8 @@ un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
 
 ### 4.7.1. Class Diagrams.
 
-Esta yaselasaben (diagrama de clases)
-Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributos(Correo, edad,nombre como valor, ID)
+[Link en LucidChart] (https://lucid.app/lucidchart/508e0d8a-92a2-4de3-8626-6b782938b13e/edit?beaconFlowId=47FEEC1E8EBED814&page=0_0&invitationId=inv_fc67e0b3-63d7-49e2-bbf1-50acd5491bd9 )
+
 
 ### 4.7.2. Class Dictionary.
 
