@@ -1356,7 +1356,125 @@ Aún no porque estamos en el Sprint 1.
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
-
+<table>
+    <thead>
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit Id</th>
+        <th>Commit Message</th>
+        <th>Commit Message Body</th>
+        <th>Committed on (Date)</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td rowspan="1000">landing-page</td>
+    </tr>
+    <tr>
+        <td rowspan="4">develop</td>
+    </tr>
+    <tr>
+        <td>5d9f0b6b4f75610201d5eaab0441c26b473c183a</td>
+        <td>Merge pull request #2 from Los-No-Se-Quienes-y-Los-No-Se-Cuantos/feature/readme</td>
+        <td></td>
+        <td> 13/04/2024</td>
+    </tr>
+    <tr>
+        <td>ed08ead42eafa4514eb32d2d72562857a2b53374</td>
+        <td>Merge pull request #1 from Los-No-Se-Quienes-y-Los-No-Se-Cuantos/feature/styles-footer</td>
+        <td></td>
+        <td> 13/04/2024 </td>
+    </tr>
+    <tr>
+        <td>e54df82d147c8fa186d809f003f54479bd5f3b86</td>
+        <td>feat: added readme file.</td>
+        <td></td>
+        <td>13/04/2024</td>
+    </tr>
+    <tr>
+        <td rowspan="2">feature/navbar</td>
+    </tr>
+    <tr>
+        <td>bd0a0486cfef2e304cb9521b3d2d8fdef3a252fe</td>
+        <td>feat: added navbar</td>
+        <td></td>
+        <td>13/04/2024</td>
+    </tr>
+    <tr>
+        <td rowspan="2">feature/hero</td>
+    </tr>
+    <tr>
+        <td>0fd0453a3d783f6261d89e4bbfc6a5d05e66b342</td>
+        <td>feat: added hero section</td>
+        <td></td>
+        <td>13/04/2024</td>
+    </tr>
+    <tr>
+        <td rowspan="2">feature/description</td>
+    </tr>
+    <tr>
+        <td>1cb6455915ce46a282ad4efbaa5c196fb4e57c41</td>
+        <td>feat: added description sections</td>
+        <td></td>
+        <td>13/04/2024</td>
+    </tr>
+    <tr>
+        <td rowspan="2">feature/benefits</td>
+    </tr>
+    <tr>
+        <td>02709544041573fd0a6dc603815e710924eb170c</td>
+        <td>feat: added benefits section</td>
+        <td></td>
+        <td>13/04/2024</td>
+    </tr>
+    <tr>
+        <td rowspan="2">feature/plans</td>
+    </tr>
+    <tr>
+        <td>c9a04d79986df5fc9e95318a073acd820f42eb75</td>
+        <td>feat: added plans action</td>
+        <td></td>
+        <td>13/04/2024</td>
+    </tr>
+    <tr>
+        <td rowspan="2">feature/footer</td>
+    </tr>
+    <tr>
+        <td>c8f0254276ea2f138510253f8ee4d740b28a12b7</td>
+        <td>feat: added footer</td>
+        <td></td>
+        <td>13/04/2024</td>
+    </tr>
+    <tr>
+        <td rowspan="2">feature/styles-hero</td>
+    </tr>
+    <tr>
+        <td>9238af86b34c640c754a8a1f7394b506a190dbf4</td>
+        <td>feat: added styles hero</td>
+        <td></td>
+        <td>13/04/2024</td>
+    </tr>
+    <tr>
+        <td rowspan="2">feature/styles-section</td>
+    </tr>
+    <tr>
+        <td>cdb116d9042c8707c3e37f316abce1d4b23a1ea0</td>
+        <td>feat: added styles for sections</td>
+        <td></td>
+        <td>13/04/2024</td>
+    </tr>
+    <tr>
+        <td rowspan="2">feature/styles-footer</td>
+    </tr>
+    <tr>
+        <td>2958d5389edd5dead1a6606e39ec92eb18099c6b</td>
+        <td>feat: added footer styles</td>
+        <td></td>
+        <td>13/04/2024</td>
+    </tr>
+    </tbody>
+</table>
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
