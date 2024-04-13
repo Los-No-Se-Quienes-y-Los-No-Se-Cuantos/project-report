@@ -461,18 +461,8 @@ Texto ubiquo: Definicion de este
 
 Segmento 1:
 
-| Fases    | fase 1 as is | fase 2 | fase 3 |
-| -------- | ------------ | ------ | ------ |
-| Doing    |              | texto  | texto  | texto | texto |
-| Thinking |              | texto  | texto  | texto | texto |
-| Feeling  |              | texto  | texto  | texto | texto |
+![alt text](assets/to-be-segmento-1.png)
 
-Segmento 2:
-| Fases    | fase 1 as is | fase 2 | fase 3 |
-| -------- | ------------ | ------ | ------ |
-| Doing    |              | texto  | texto  | texto | texto |
-| Thinking |              | texto  | texto  | texto | texto |
-| Feeling  |              | texto  | texto  | texto | texto |
 
 ## 3.2. User Stories.
 
