@@ -510,9 +510,30 @@ Segmento 1:
 
 ## 3.4. Product Backlog.
 
-| #Orden | User Story ID | Titulo     | Descripción | Story Points (1/2/3/5/8) |
-| ------ | ------------- | ---------- | ----------- | ------------------------ |
-| 1      | HU01          | titulo his | desc        | 5                        |
+| #Orden | User Story ID | Título | Descripción | Story Points |
+| ----- | ------------- | ------ | ----------- | ------------ |
+| 1 | HU01 | Actualizar las habitaciones disponibles | Como gerente quiero un sistema que automáticamente cambie el estado de los dormitorios dependiendo si alguien la reservó o no para mantener actualizado su estado. | 8 |
+| 2 | HU02 | Asignar tareas a empleados | Como gerente, quiero poder asignar tareas a los empleados para distribuir eficientemente las responsabilidades y mejorar la productividad. | 8 |
+| 3 | HU03 | Recibir notificaciones de baja en el inventario | Como gerente, quiero recibir notificaciones de baja en el inventario para tomar medidas rápidas en caso de escasez de suministros. | 5 |
+| 4 | HU04 | Visualizar la ocupación de habitaciones en tiempo real | Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real para gestionar eficazmente la disponibilidad y asignación de habitaciones. | 8 |
+| 5 | HU05 | Recibir alertas de mantenimiento programado | Como gerente, quiero recibir alertas de mantenimiento programado para garantizar que el mantenimiento se realice de manera oportuna y evitar problemas inesperados. | 5 |
+| 6 | HU06 | Administrar permisos de los empleados | Como gerente, deseo gestionar el acceso y permisos de los empleados para garantizar la seguridad y la privacidad de la información del negocio. | 8 |
+| 7 | HU07 | Programar turnos de trabajo | Como gerente, deseo programar turnos de trabajo automáticamente para optimizar la asignación de personal y evitar conflictos de horarios. | 2 |
+| 8 | HU08 | Realizar seguimiento de gastos | Como gerente, deseo poder realizar seguimiento de gastos implementados para controlar los costos y optimizar la rentabilidad del negocio. | 5 |
+| 9 | HU09 | Gestionar servicios adicionales | Como gerente, deseo gestionar la disponibilidad de servicios adicionales para ofrecer una experiencia personalizada y maximizar la satisfacción del cliente. | 3 |
+| 10 | HU10 | Notificaciones de comentarios | Como gerente, deseo recibir notificaciones de comentarios y opiniones de clientes para responder rápidamente a las necesidades y preocupaciones de los clientes. | 2 |
+| 11 | HU11 | Crear promociones | Como gerente, deseo poder crear promociones y ofertas especiales para atraer a más clientes y aumentar las ventas. | 5 |
+| 12 | HU12 | Registro de proveedores | Como gerente, deseo mantener un registro de los proveedores para gestionar eficientemente las relaciones comerciales y los suministros. | 5 |
+| 13 | HU13 | Seguimiento del cliente | Como gerente, deseo poder realizar seguimiento de la satisfacción del cliente para identificar áreas de mejora y garantizar una experiencia de calidad. | 5 |
+| 14 | HU14 | Administrar facturas de servicios | Como gerente, deseo poder generar facturas para los servicios adicionales para facturar los servicios adicionales proporcionados a los clientes y registrar los ingresos correspondientes. | 5 |
+| 15 | HU15 | Notificaciones de cambio de agenda | Como empleado, deseo recibir notificaciones de cambios en mi agenda laboral para estar al tanto de los cambios en mi horario de trabajo y planificar en consecuencia. | 8 |
+| 16 | HU16 | Estado de las habitaciones | Como empleado, deseo poder registrar el estado de limpieza de las habitaciones para mantener actualizado el mismo. | 8 |
+| 17 | HU17 | Información de procedimientos según el caso | Como empleado, deseo poder acceder a manuales de procedimientos para saber cómo actuar dependiendo del caso que se presente. | 5 |
+| 18 | HU18 | Registrar el estado de suministros | Como empleado, deseo poder registrar el estado de los suministros para mantener un control preciso del inventario | 2 |
+| 19 | HU19 | Reportar problemas a la gerencia | Como empleado, deseo poder reportar problemas para comunicar a los gerentes del problema. | 5 |
+| 20 | HU20 | Registrar el check-in del huésped. | Como empleado deseo registrar el check-in del huésped para registrar y confirmar su estadía en el hotel. | 5 |
+| 21 | HU21 | Registrar el check-out del huésped. | Como empleado deseo registrar el check-out del huésped para registrar y confirmar su salida del hotel. | 5 |
+
 
 # Capítulo IV: Product Design
 
