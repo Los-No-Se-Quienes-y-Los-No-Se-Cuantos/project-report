@@ -698,10 +698,10 @@ Nosotros crearemos una rama para cada capítulo, es decir una rama para Chapter 
 
 **Lenguaje C#**
 
-| Columna 1 | Columna 2 |
+| Referencias Adoptadas | Explicación y Convenciones|
 |-----------|-----------|
-| Fila 1, C1 | Fila 1, C2 |
-| Fila 2, C1 | Fila 2, C2 |
+| C# Coding Conventions: [convenctions C#](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions) | Consideramos en utilizar la documentación de Microsoft  para aprender buenas prácticas y sintaxis de C#, puesto que lo utilizaremos en el desarrollo del Back-end. |
+| Microsoft ASP .NET Core Coding Guidelines: [.NET guidelines](https://github.com/dotnet/aspnetcore/wiki/Engineering-guidelines#coding-guidelines) | Consideramos en utilizar la documentación de la referencia especificada para estudiar y aprender buenas prácticas, convenciones y cómo integrar código C# a ASP .NET Core, ya que lo utilizaremos en el backend de nuestros productos. |
 
 
 ### 5.1.4. Software Deployment Configuration.
