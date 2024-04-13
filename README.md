@@ -461,17 +461,52 @@ Texto ubiquo: Definicion de este
 
 Segmento 1:
 
-![alt text](assets/to-be-segmento-1.png)
+![segmento-1](assets/to-be-segmento-1.png)
 
+Segmento 1:
+
+![segmento-2](assets/to-be-segmento-2.png)
 
 ## 3.2. User Stories.
 
-| HU0X | Historia Usuario | "Descripcion" |
-| ---- | ---------------- | ------------- |
+| Epic ID | Título                                  | Descripción                                                                         |
+| ------- | --------------------------------------- | ----------------------------------------------------------------------------------- |
+| EPIC01  | Gestión de servicios                    | Permitir a los gerentes gestionar los servicios.                                    |
+| EPIC02  | Gestión de empleados                    | Permitir a los gerentes administrar a los empleados del hotel.                      |
+| EPIC03  | Informes                                | Permitir a los gerentes generar y recibir informes y analizar datos.                |
+| EPIC04  | Acciones del Personal                   | Permitir a los empleados gestionar a los clientes e información relacionada a ello. |
+| EPIC05  | Recibimiento de información al personal | Permitir a los empleados recibir y reportar información del hotel.                  |
+
+| Story ID | Título | Descripción | Criterios de Aceptación | Epic ID |
+| -------- | ------ | ----------- | ----------------------- | ------- |
+| HU01 | Actualizar las habitaciones disponibles | Como gerente quiero un sistema que automáticamente cambie el estado de los dormitorios dependiendo si alguien la reservó o no para mantener actualizado su estado. | Give: el sistema tiene información sobre las habitaciones <br> When: un usuario ingresa la información de una nueva habitación o modifica el estado de una habitación existente. <br> Then: El sistema valida la información ingresada y actualiza en la base de datos. | EPIC01 |
+| HU02 | Asignar tareas a empleados | Como gerente, quiero poder asignar tareas a los empleados para distribuir eficientemente las responsabilidades y mejorar la productividad. | Give: el sistema tiene información sobre los empleados. <br> When: un gerente selecciona un empleado y le asigna una tarea. <br> Then: El sistema asigna la tarea al empleado y se registra en la base de datos. El sistema envía una notificación al empleado sobre la tarea. | EPIC01 |
+| HU03 | Recibir notificaciones de baja en el inventario | Como gerente, quiero recibir notificaciones de baja en el inventario para tomar medidas rápidas en caso de escasez de suministros. | Give: el sistema tiene información del inventario <br> When: el nivel de inventario de un artículo es bajo <br> Then: El sistema envía una notificación al gerente con la información del artículo. | EPIC01 |
+| HU04 | Visualizar la ocupación de habitaciones en tiempo real | Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real para gestionar eficazmente la disponibilidad y asignación de habitaciones. | Give: el usuario quiere visualizar el estado de las habitaciones. <br> When: el usuario ingresa a la inversa de habitaciones <br> Then: El sistema muestra una vista en tiempo real de la ocupación de las habitaciones. | EPIC01 |
+| HU05 | Recibir alertas de mantenimiento programado | Como gerente, quiero recibir alertas de mantenimiento programado para garantizar que el mantenimiento se realice de manera oportuna y evitar problemas inesperados. | Give: dado que el sistema tiene los mantenimientos <br> When: se acerca la fecha programada <br> Then: el sistema envía la alerta del evento programado. | EPIC01 |
+| HU06 | Administrar permisos de los empleados | Como gerente, deseo gestionar el acceso y permisos de los empleados para garantizar la seguridad y la privacidad de la información del negocio. | Give:  <br> When: un gerente accede a la interfaz de administración de permisos. <br> Then: El sistema muestra una lista de empleados con sus roles y permisos actuales para que estos puedan ser editados. | EPIC01 |
+| HU07 | Programar turnos de trabajo | Como gerente, deseo programar turnos de trabajo automáticamente para optimizar la asignación de personal y evitar conflictos de horarios. | Give: el sistema información sobre los empleados <br> When: un gerente accede a la interfaz de programación de turnos. <br> Then: El gerente puede seleccionar un empleado y asignarle un turno en un horario disponible. | EPIC02 |
+| HU08 | Realizar seguimiento de gastos | Como gerente, deseo poder realizar seguimiento de gastos implementados para controlar los costos y optimizar la rentabilidad del negocio. | Give: el sistema tiene información sobre los gastos realizados. <br> When: el usuario ingresa al panel de gastos. <br> Then: el sistema muestra el seguimientos de los gastos. | EPIC02 |
+| HU09 | Gestionar servicios adicionales | Como gerente, deseo gestionar la disponibilidad de servicios adicionales para ofrecer una experiencia personalizada y maximizar la satisfacción del cliente. | Give: cuando el gerente desea gestionar los servicios adicionales. <br> When: cuando se ingresa a la interfaz de servicios adicionales. <br> Then: el sistema actualiza los servicios adicionales. | EPIC01 |
+| HU10 | Notificaciones de comentarios | Como gerente, deseo recibir notificaciones de comentarios y opiniones de clientes para responder rápidamente a las necesidades y preocupaciones de los clientes. | Give: el gerente tiene permisos para ver y responder a los comentarios de los clientes. <br> When: el cliente envía un comentario a través del sistema. <br> Then: el sistema envía una notificación al gerente sobre el nuevo comentario. | EPIC02 |
+| HU11 | Crear promociones | Como gerente, deseo poder crear promociones y ofertas especiales para atraer a más clientes y aumentar las ventas. | Give: el sistema cuenta con módulo para administrar promociones. <br> When: El gerente accede a la interfaz de creación de promociones. <br> Then: El sistema guarda la promoción en la base de datos. El sistema muestra la promoción en la interfaz de usuario para los clientes. | EPIC01 |
+| HU12 | Registro de proveedores | Como gerente, deseo mantener un registro de los proveedores para gestionar eficientemente las relaciones comerciales y los suministros. | Give: El sistema tiene un módulo para gestionar el registro de proveedores. <br> When: El gerente accede a la interfaz de registro de proveedores. <br> Then: El sistema permite al gerente ingresar la información del proveedor | EPIC01 |
+| HU13 | Seguimiento del cliente | Como gerente, deseo poder realizar seguimiento de la satisfacción del cliente para identificar áreas de mejora y garantizar una experiencia de calidad. | Give: El sistema tiene información sobre las reservas de los clientes y sus experiencias en el hotel.Un cliente se hospeda en el hotel. <br> When:  <br> Then: El sistema permite al gerente acceder a la información del cliente, incluyendo su historial de reservas, comentarios y solicitudes. | EPIC03 |
+| HU14 | Administrar facturas de servicios | Como gerente, deseo poder generar facturas para los servicios adicionales para facturar los servicios adicionales proporcionados a los clientes y registrar los ingresos correspondientes. | Give: El sistema tiene información sobre los servicios adicionales consumidos por los huéspedes. <br> When: El huésped realiza el check-out. <br> Then: El sistema genera una factura de servicios para el huésped, incluyendo la descripción del servicio, el precio y el total. | EPIC01 |
+| HU15 | Notificaciones de cambio de agenda | Como empleado, deseo recibir notificaciones de cambios en mi agenda laboral para estar al tanto de los cambios en mi horario de trabajo y planificar en consecuencia. | Give: El sistema tiene información sobre los turnos de trabajo de los empleados. <br> When: El gerente modifica un turno de trabajo asignado a un empleado. <br> Then: El sistema envía una notificación al empleado sobre el cambio de turno. | EPIC05 |
+| HU16 | Estado de las habitaciones | Como empleado, deseo poder registrar el estado de limpieza de las habitaciones | Give: Los empleados de limpieza tienen permisos para registrar el estado de las habitaciones. <br> When: Un empleado limpia una habitación. <br> Then: El sistema actualiza el estado de la habitación en la base de datos. | EPIC04 |
+| HU17 | Información de procedimientos según el caso | Como empleado, deseo poder acceder a manuales de procedimientos | Give: El sistema tiene una biblioteca de manuales de procedimientos. <br> When: Un empleado accede a la biblioteca de procedimientos. <br> Then: El sistema muestra una lista de manuales de procedimientos disponibles. | EPIC05 |
+| HU18 | Registrar el estado de suministros | Como empleado, deseo poder registrar el estado de los suministros para mantener un control preciso del inventario | Give: El sistema tiene información sobre el nivel de inventario de los suministros. <br> When: Un empleado utiliza un suministro. <br> Then: El sistema permite al empleado registrar la cantidad de suministro utilizada. El sistema actualiza el nivel de inventario del suministro en la base de datos. | EPIC04 |
+| HU19 | Reportar problemas a la gerencia | Como empleado, deseo poder reportar problemas para comunicar a los gerentes del problema. | Give: El sistema tiene un módulo para reportar problemas. <br> When: Un empleado observa un problema en el hotel. <br> Then: El sistema guarda el reporte del problema en la base de datos. | EPIC05 |
+| HU20 | Registrar el check-in del huésped. | Como empleado deseo registrar el check-in del huésped para registrar y confirmar su estadía en el hotel. | Give: El sistema tiene información sobre las reservas de los huéspedes. <br> When: Un cliente hace check-in <br> Then: El sistema valida la reserva | EPIC04 |
+| HU21 | Registrar el check-out del huésped. | Como empleado deseo registrar el check-out del huésped para registrar y confirmar su salida del hotel. | Give: El sistema tiene información sobre las reservas de los huéspedes y los cargos pendientes. <br> When: Un huésped desea realizar el check-out del hotel. <br> Then: El sistema libera la habitación para que sea asignada a otro huésped. El sistema imprime una factura final para el huésped. | EPIC04 |
+
 
 ## 3.3. Impact Mapping.
 
-![Impact Mapping](image.jpg)
+![Impact Mapping-1](assets/impact-mapping-1.png)
+
+![Impact Mapping-2](assets/impact-mapping-2.png)
 
 ## 3.4. Product Backlog.
 
