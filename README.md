@@ -706,8 +706,6 @@ Al ser un landing page, no se requiere de una suite de pruebas para su desarroll
 **Sprint 1:**
 En este entregable, hemos logrado desarrollar la Landing Page para nuestra StartUp Sweet Manager.
 El link de la Landing Page es el siguiente: https://sweet-manager.netlify.app/
-El link de la Landing Page es el siguiente: [Landing Page](https://sweet-manager.netlify.app/)
-
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
@@ -715,7 +713,7 @@ En este sprint se cumplió el objetivo de desarrollar la Landing Page; sin embar
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
-En el este sprint, se completó el desarrollo del landing page y se utilizó un conjunto de herramientas para su despliegue:
+En este sprint, se completó el desarrollo del landing page y se utilizó un conjunto de herramientas para su despliegue:
 
 - Git: Utilizado como sistema de control de versiones para facilitar el trabajo en equipo durante el desarrollo del landing page.
 - GitFlow: Implementado como flujo de trabajo para gestionar el progreso individual de cada miembro del equipo en el desarrollo del landing page.
