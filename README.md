@@ -1207,6 +1207,20 @@ Durante el desarrollo del proyecto utilizaremos las siguientes convenciones o re
 | Nombre de Producto | Descripcion | Propósito de Uso | Ruta Descarga o Link |
 |-----------|-----------|-----------|-----------|
 | Rider JetBrains |Rider es un entorno de desarrollo integrado (IDE) desarrollado por JetBrains, conocido por su enfoque en la productividad y la eficiencia en el desarrollo de software. Está diseñado específicamente para el desarrollo de aplicaciones .NET y .NET Core, incluyendo aplicaciones de escritorio, web y móviles. | Nuestro propósito de uso de Rider gira en torno al desarrollo  de aplicaciones web, específicamente de WebServices, a base de código C#, tecnología .NET. Puesto que .NET es recomendado para el desarrollo de servicios web o backend debido a su rendimiento, escalabilidad, seguridad, productividad y compatibilidad multiplataforma, así como su amplio soporte para diversos tipos de servicios. | Link de descarga: https://www.jetbrains.com/es-es/toolbox-app/. Se descarga Toolbox JetBrains donde se encuentran distintos frameworks de muchos lenguajes, entre ellos Rider.|
+| MySql | MySQL es un sistema de gestión de bases de datos relacional (RDBMS) de código abierto y ampliamente utilizado. Desarrollado originalmente por MySQL AB (adquirido por Sun Microsystems y luego por Oracle Corporation), MySQL está disponible bajo una licencia de código abierto dual, lo que significa que se puede utilizar tanto en aplicaciones de código abierto como en aplicaciones comerciales. | Nuestro propósito de uso de MySql es proporcionar una plataforma robusta y confiable para el almacenamiento, gestión y recuperación de datos en aplicaciones de software.| Link de Servicio: https://www.mysql.com/ Link de Descarga: https://dev.mysql.com/downloads/installer/ . MySql se puede descargar o también se puede usar su servicio en la nube, por lo tanto se puede usar de ambas maneras.|
+| WebStorm JetBrains | WebStorm es un entorno de desarrollo integrado (IDE) creado por JetBrains, diseñado específicamente para el desarrollo web front-end y back-end. Es conocido por su robustez, eficiencia y amplia gama de características orientadas al desarrollo web. | Nuestro propósito de uso de WebStorm es porque tiene características o herramientas avanzadas, un entorno eficiente y completo para el desarrollo Web, desde la edición de código hasta la depuración y la gestión de proyectos. | Link de descarga: https://www.jetbrains.com/es-es/toolbox-app/ Se descarga Toolbox JetBrains donde se encuentran distintos frameworks de muchos lenguajes, entre ellos WebStorm.|
+| Postman | Postman es una plataforma de colaboración para el desarrollo de API (Interfaz de Programación de Aplicaciones) que permite diseñar, probar, documentar y compartir API de manera eficiente.| Nuestro propósito de uso de Postman es simplificar y mejorar el proceso de desarrollo, prueba y documentación de las API. Consideramos que es una herramienta esencial para  desarrollar, probar y colaborar en torno a las APIs. | Link de Descarga: https://www.postman.com/downloads/ Link de Servicio: https://identity.getpostman.com/login . Postman es una aplicación de escritorio y también es un Saas. Por lo tanto, se puede descargar para escritorio o se puede ingresar a su página web para su servicio.|
+| Git |Git es un sistema de control de versiones distribuido ampliamente utilizado en el desarrollo de software. Fue creado por Linus Torvalds en 2005 para el desarrollo del kernel de Linux y desde entonces se ha convertido en una herramienta fundamental para el control de versiones en proyectos de software de todo tipo y tamaño. |  Nuestro propósito de uso de Git es proporcionar un sistema de control de versiones flexible, confiable y colaborativo para que facilite el desarrollo de software eficiente y la colaboración de  equipos de desarrollo, mediante sus herramientas y funcionalidades avanzadas.| Link de Descarga: https://git-scm.com/downloads. Git es un control de versiones local, se instala localmente y puedes administrar tus repositorios locales.|
+| Github | GitHub es una plataforma de desarrollo colaborativo de software que utiliza el sistema de control de versiones Git. Permite a los desarrolladores trabajar juntos en proyectos, facilitando la gestión y colaboración en el código fuente. Los usuarios pueden cargar su código, realizar seguimientos de cambios, proponer modificaciones (mediante solicitudes de extracción), realizar revisiones de código, y gestionar problemas y tareas, entre otras funciones. Adicionalmente, también permite alojar documentación.  | Nuestro propósito de uso de Github (Web) es facilitar la colaboración en proyectos de desarrollo de software. Utilizaremos GitHub para mantener un control de versiones efectivo de mi código, lo que nos permite realizar un seguimiento de los cambios a lo largo del tiempo y revertirlos si es necesario. Además, aprovecharemos las funciones de GitHub para trabajar en equipo de manera eficiente, creando ramas para desarrollar nuevas características o corregir errores sin interferir con el código principal. También valoramos la capacidad de revisión de código que ofrece GitHub, ya que me permite colaborar con mis compañeros de equipo, revisar sus cambios y proporcionar retroalimentación para mejorar la calidad del código. | Link de Servicio: https://github.com/ Github es un Software de escritorio y Saas. En este caso nosotros no instalaremos el Github Desktop, por lo tanto usaremos su aplicación de la Web.|
+
+### 5.1.2. Source Code Management.
+
+Link Repositorio Web Services Proyecto: https://github.com/Los-No-Se-Quienes-y-Los-No-Se-CuantosSweetManager-WebServices
+
+Link Repositorio Landing Page Proyecto: https://github.com/Los-No-Se-Quienes-y-Los-No-Se-Cuantos/SweetManager-LandingPage
+
+Link Repositorio Front - End Web Proyecto: https://github.com/Los-No-Se-Quienes-y-Los-No-Se-Cuantos/SweetManager-FrontEndWeb
+
 | MySql | MySQL es un sistema de gestión de bases de datos relacional (RDBMS) de código abierto y ampliamente utilizado. Desarrollado originalmente por MySQL AB (adquirido por Sun Microsystems y luego por Oracle Corporation), MySQL está disponible bajo una licencia de código abierto dual, lo que significa que se puede utilizar tanto en aplicaciones de código abierto como en aplicaciones comerciales. | Nuestro propósito de uso de MySql es proporcionar una plataforma robusta y confiable para el almacenamiento, gestión y recuperación de datos en aplicaciones de software.| Link de Servicio: [Sql Server](https://www.mysql.com/) Link de Descarga: [Link de Descarga](https://dev.mysql.com/downloads/installer/) . MySql se puede descargar o también se puede usar su servicio en la nube, por lo tanto se puede usar de ambas maneras.|
 | WebStorm JetBrains | WebStorm es un entorno de desarrollo integrado (IDE) creado por JetBrains, diseñado específicamente para el desarrollo web front-end y back-end. Es conocido por su robustez, eficiencia y amplia gama de características orientadas al desarrollo web. | Nuestro propósito de uso de WebStorm es porque tiene características o herramientas avanzadas, un entorno eficiente y completo para el desarrollo Web, desde la edición de código hasta la depuración y la gestión de proyectos. | Link de descarga: [Jet Brains](https://www.jetbrains.com/es-es/toolbox-app/) Se descarga Toolbox JetBrains donde se encuentran distintos frameworks de muchos lenguajes, entre ellos WebStorm.|
 | Postman | Postman es una plataforma de colaboración para el desarrollo de API (Interfaz de Programación de Aplicaciones) que permite diseñar, probar, documentar y compartir API de manera eficiente.| Nuestro propósito de uso de Postman es simplificar y mejorar el proceso de desarrollo, prueba y documentación de las API. Consideramos que es una herramienta esencial para  desarrollar, probar y colaborar en torno a las APIs. | Link de Descarga: [Link Descarga](https://www.postman.com/downloads/) Link de Servicio: [Link Servicio](https://identity.getpostman.com/login) . Postman es una aplicación de escritorio y también es un Saas. Por lo tanto, se puede descargar para escritorio o se puede ingresar a su página web para su servicio.|
@@ -1221,6 +1235,7 @@ Link Repositorio Landing Page Proyecto: [Link Landing Page](https://github.com/L
 
 Link Repositorio Front - End Web Proyecto: [Link Front End](https://github.com/Los-No-Se-Quienes-y-Los-No-Se-Cuantos/SweetManager-FrontEndWeb)
 
+
 **¿Cómo implementaremos GitFlow?**
 Nosotros crearemos una rama para cada capítulo, es decir una rama para Chapter 1, Chapter 2, Chapter 3, Chapter 4 y Chapter 5. Por el cual, consideraremos las siguientes convenciones para el nombre de las features branch: el nombre de las branchs serán en PascalCase. Adicionalmente, daremos una descripción sólida para todos los commits implementados durante el desarrollo de los branchs. No omitiremos la creación de una rama llamada “Development” donde haremos todos los cambios que queramos hacer al main, para posteriormente hacer ‘merg’. Cabe recalcar que también usaremos “FeatureBranches” en donde se desarrollará distintos cambios para posteriormente en el futuro implementarlo a “Development”.
 
@@ -1231,19 +1246,31 @@ Nosotros crearemos una rama para cada capítulo, es decir una rama para Chapter 
 
 | Referencias Adoptadas | Explicación y Convenciones|
 |-----------|-----------|
+| C# Coding Conventions: https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions | Consideramos en utilizar la documentación de Microsoft  para aprender buenas prácticas y sintaxis de C#, puesto que lo utilizaremos en el desarrollo del Back-end. |
+| Microsoft ASP .NET Core Coding Guidelines: https://github.com/dotnet/aspnetcore/wiki/Engineering-guidelines#coding-guidelines | Consideramos en utilizar la documentación de la referencia especificada para estudiar y aprender buenas prácticas, convenciones y cómo integrar código C# a ASP .NET Core, ya que lo utilizaremos en el backend de nuestros productos. |
+
 | C# Coding Conventions: [convenctions C#](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions) | Consideramos en utilizar la documentación de Microsoft  para aprender buenas prácticas y sintaxis de C#, puesto que lo utilizaremos en el desarrollo del Back-end. |
 | Microsoft ASP .NET Core Coding Guidelines: [.NET guidelines](https://github.com/dotnet/aspnetcore/wiki/Engineering-guidelines#coding-guidelines) | Consideramos en utilizar la documentación de la referencia especificada para estudiar y aprender buenas prácticas, convenciones y cómo integrar código C# a ASP .NET Core, ya que lo utilizaremos en el backend de nuestros productos. |
+
 
 **Lenguaje Vue.JS**
 | Referencias Adoptadas | Explicación y Convenciones |
 |-----------|-----------|
+
+| Html Style Guide and Coding Conventions: https://www.w3schools.com/html/html5_syntax.asp | Consideramos que será beneficioso guiarnos y aprender de la documentación de la referencia indicada, ya que contiene una gran cantidad de información sobre las etiquetas HTML. Esto es fundamental para su uso en nuestros proyectos. |
+| Google HTML/ CSS Style Guide: https://google.github.io/styleguide/htmlcssguide.html | Consideramos guiarnos con la documentación de Google para tener una lista de recomendaciones que nos ayude a mejorar la estructura de nuestras páginas. |Vue Style Guide: https://vuejs.org/v2/style-guide/|Consideramos guiarnos de la documentación oficial de Vue.JS para estudiar la sintaxis, buenas prácticas, recomendaciones, etc. De esta manera podremos desarrollar un mejor producto de Software.|
+
 | Html Style Guide and Coding Conventions: [coding guidelines](https://www.w3schools.com/html/html5_syntax.asp)| Consideramos que será beneficioso guiarnos y aprender de la documentación de la referencia indicada, ya que contiene una gran cantidad de información sobre las etiquetas HTML. Esto es fundamental para su uso en nuestros proyectos. |
 | Google HTML/ CSS Style Guide: [Guides](https://google.github.io/styleguide/htmlcssguide.html)| Consideramos guiarnos con la documentación de Google para tener una lista de recomendaciones que nos ayude a mejorar la estructura de nuestras páginas. |Vue Style Guide: [Vue guide](https://vuejs.org/v2/style-guide/)|Consideramos guiarnos de la documentación oficial de Vue.JS para estudiar la sintaxis, buenas prácticas, recomendaciones, etc. De esta manera podremos desarrollar un mejor producto de Software.|
+
 
 **Lenguaje Gherkin**
 
 | Referencias Adoptadas | Explicación y Convenciones|
 |-----------|-----------|
+
+| Gherkin Conventions for Readable Specifications: https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/ | Consideramos guiarnos y aprender de la documentación situada en la referencia indicada, porque necesitamos tener ideas de cómo trabajar bajo ese lenguaje y poder usar de manera adecuada las herramientas. |
+
 | Gherkin Conventions for Readable Specifications: [gherkin link](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/) | Consideramos guiarnos y aprender de la documentación situada en la referencia indicada, porque necesitamos tener ideas de cómo trabajar bajo ese lenguaje y poder usar de manera adecuada las herramientas. |
 
 
@@ -1251,7 +1278,9 @@ Nosotros crearemos una rama para cada capítulo, es decir una rama para Chapter 
 
 | Referencias Adoptadas| Explicación y Convenciones |
 |-----------|-----------|
+| The Markdown Guide: https://www.markdownguide.org/ | Consideramos guiarnos de la guía oficial de markdown para tener mayor noción de trabajo con el uso de esta tecnología. Usaremos el archivo .md para todo lo que es descripción o información del proyecto. |
 | The Markdown Guide: [guide](https://www.markdownguide.org/) | Consideramos guiarnos de la guía oficial de markdown para tener mayor noción de trabajo con el uso de esta tecnología. Usaremos el archivo .md para todo lo que es descripción o información del proyecto. |
+
 
 
 ### 5.1.4. Software Deployment Configuration.
@@ -1484,7 +1513,9 @@ Al ser un landing page, no se requiere de una suite de pruebas para su desarroll
 
 **Sprint 1:**
 En este entregable, hemos logrado desarrollar la Landing Page para nuestra StartUp Sweet Manager.
+El link de la Landing Page es el siguiente: https://sweet-manager.netlify.app/
 El link de la Landing Page es el siguiente: [Landing Page](https://sweet-manager.netlify.app/)
+
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
