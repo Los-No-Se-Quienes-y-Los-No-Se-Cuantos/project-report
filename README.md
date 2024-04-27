@@ -110,10 +110,20 @@
 </table>
 
 # Project Report Collaboration Insights
+La entrega TB1 finalizó con éxito y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo: https://github.com/Los-No-Se-Quienes-y-Los-No-Se-Cuantos/project-report
+Durante el desarrollo del informe se tuvieron en cuenta los siguientes aspeectos: 
+- Se redactaron y estructuraron los contenidos asignados a cada miembro utilizando el formato Markdown. Luego, se realizaron commits para garantizar el avance en el repositorio.
+- Se crearon los artefactos necesarios utilizando las herramientas recomendadas y se obtuvieron el link de las imagenes a través de la carpeta assets o de una publicación desde Imgur (https://imgur.com/).
+- Se llevaron a cabo reuniones para coordinar el avance de los elementos del informe y para informar sobre los progresos del Sprint 1, centrado en la página de inicio (Landing Page).
 
-[URL del repositorio](https://www.example.com)
 
-(Imagenes de los commits cada entrega)
+![](https://i.imgur.com/k86Qpw7.jpeg)
+
+![](https://i.imgur.com/v6i8Vzn.jpeg)
+
+![](https://i.imgur.com/wAAxe8W.jpeg)
+
+![](https://i.imgur.com/n2Mpe3y.jpeg)
 
 # Contenido
 
