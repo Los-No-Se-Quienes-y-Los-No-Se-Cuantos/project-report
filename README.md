@@ -1580,7 +1580,7 @@ Ocupación: _____
 
 ## 5.4. Video About-the-Product.
 
-[URL del video about the product](https://www.example.com)
+Por el momento vacía.
 
 # Conclusiones
 
