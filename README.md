@@ -396,79 +396,118 @@ Priorizar y ejecutar cambios basados en la retroalimentación del cliente y las 
 
 ### 2.2.1. Diseño de entrevistas.
 
+**Preguntas complementarias generales**
+- ¿Qué navegador usas con más frecuencia?<br>
+- ¿Qué dispositivo tecnológico usas con más frecuencia?<br>
+- ¿Cómo describes tu personalidad?<br>
+- ¿Presentas alguna frustración en el trabajo?<br>
+- ¿Cuáles son los canales de interacción que usas?<br>
+- ¿Qué tipo de ambiente de trabajo te resulta más motivador y productivo?<br>
+- ¿Cómo se llama el distrito o lugar de tu residencia?<br>
+- ¿Qué objetivos tienes tanto laboralmente como personalmente?
+
 **Entrevistas usuario segmento 1: Gerentes**
 
-¿Cuáles son los principales desafíos que enfrentan en la gestión diaria de su hotel?<br>
-¿Qué características o funcionalidades consideraría más útiles para mejorar la eficiencia de su hotel?<br>
-¿Cómo gestionan actualmente las reservas de habitaciones y el seguimiento de ingresos y gastos en su hotel?<br>
-¿Qué herramientas o software utilizan actualmente para la gestión hotelera y qué aspectos les gustaría mejorar de esas herramientas?<br>
-¿Cuál es su opinión sobre la importancia de la movilidad y la accesibilidad en las soluciones de gestión hotelera?<br>
-¿Qué aspectos valoran más al evaluar nuevas soluciones de software para su hotel?<br>
-¿Cómo creen que podríamos mejorar la comunicación y la colaboración entre el personal del hotel y los gerentes?<br>
-¿Qué desafíos enfrentan al gestionar proveedores y controlar los inventarios en su hotel?<br>
-¿Cómo gestionan actualmente la satisfacción y las preferencias de los clientes en su hotel?<br>
-¿Cómo ve conveniente un sistema hotelero dedicado a la gestión de recursos, comunicación con proveedores, seguimiento de ganancias, etc?
-
+- ¿Cuáles son los principales desafíos que enfrentan en la gestión diaria de su hotel?<br>
+- ¿Qué características o funcionalidades consideraría más útiles para mejorar la eficiencia de su hotel?<br>
+- ¿Cómo gestionan actualmente las reservas de habitaciones y el seguimiento de ingresos y gastos en su hotel?<br>
+- ¿Qué herramientas o software utilizan actualmente para la gestión hotelera y qué aspectos les gustaría mejorar de esas herramientas?<br>
+- ¿Cuál es su opinión sobre la importancia de la movilidad y la accesibilidad en las soluciones de gestión hotelera?<br>
+- ¿Qué aspectos valoran más al evaluar nuevas soluciones de software para su hotel?<br>
+- ¿Cómo creen que podríamos mejorar la comunicación y la colaboración entre el personal del hotel y los gerentes?<br>
+- ¿Qué desafíos enfrentan al gestionar proveedores y controlar los inventarios en su hotel?<br>
+- ¿Cómo gestionan actualmente la satisfacción y las preferencias de los clientes en su hotel?<br>
+- ¿Cómo ve conveniente un sistema hotelero dedicado a la gestión de recursos, comunicación con proveedores, seguimiento de ganancias, etc?
 
 **Entrevistas usuario segmento 2: Trabajdores**
 
-¿Cuáles son las tareas o procesos diarios que considera más tediosos o que consumen más tiempo en su trabajo?<br>
-¿Qué herramientas o sistemas utilizan actualmente para realizar su trabajo y qué aspectos les resultan más difíciles o menos eficientes?<br>
-¿Cómo describiría la interacción y la comunicación entre los diferentes departamentos y miembros del personal del hotel?<br>
-¿Qué características adicionales le gustaría ver en un sistema de gestión hotelera para facilitar su trabajo diario?<br>
-¿Cómo se sienten acerca de la adopción de nuevas tecnologías en el lugar de trabajo y cómo creen que podría mejorar su experiencia laboral?<br>
-¿Qué desafíos enfrenta al gestionar las solicitudes de los huéspedes y asegurarse de que se cumplan sus expectativas durante su estancia?<br>
-¿Cómo manejan actualmente la capacitación y el desarrollo profesional en su hotel?<br>
-¿Qué medidas tomarían para mejorar la eficiencia y la colaboración dentro del equipo de trabajo?<br>
-¿Cómo creen que podríamos simplificar los procesos de registro de huéspedes y check-in/check-out en su hotel?<br>
-¿Qué herramientas o recursos adicionales les ayudarán a ofrecer un mejor servicio a los huéspedes y mejorar su experiencia general en el hotel?
+- ¿Cuáles son las tareas o procesos diarios que considera más tediosos o que consumen más tiempo en su trabajo?<br>
+- ¿Qué herramientas o sistemas utilizan actualmente para realizar su trabajo y qué aspectos les resultan más difíciles o menos eficientes?<br>
+- ¿Cómo describiría la interacción y la comunicación entre los diferentes departamentos y miembros del personal del hotel?<br>
+- ¿Qué características adicionales le gustaría ver en un sistema de gestión hotelera para facilitar su trabajo diario?<br>
+- ¿Cómo se sienten acerca de la adopción de nuevas tecnologías en el lugar de trabajo y cómo creen que podría mejorar su experiencia laboral?<br>
+- ¿Qué desafíos enfrenta al gestionar las solicitudes de los huéspedes y asegurarse de que se cumplan sus expectativas durante su estancia?<br>
+- ¿Cómo manejan actualmente la capacitación y el desarrollo profesional en su hotel?<br>
+- ¿Qué medidas tomarían para mejorar la eficiencia y la colaboración dentro del equipo de trabajo?<br>
+- ¿Cómo creen que podríamos simplificar los procesos de registro de huéspedes y check-in/check-out en su hotel?<br>
+- ¿Qué herramientas o recursos adicionales les ayudarán a ofrecer un mejor servicio a los huéspedes y mejorar su experiencia general en el hotel?
 
 
 ### 2.2.2. Registro de entrevistas.
 
 **Entrevista 1 (Gerentes)**  
+URL del Vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/EWoNpMhrd09Epsgdo-svB8EBZ-qMZUkK4yBkZVo10PFfYg?e=4nV4OI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D<br>
 Nombre: Carlo Rebagliati<br>
 Edad: 45<br>
-Residencia: Pueblo Libre, Lima<br><br>
+Sexo: Masculino<br>
+Ocupación: Gerente de hotel<br>
+Lugar donde vive: Pueblo Libre, Lima<br>
+Duración de la entrevista: 0:00 - 12:15<br>
+Personalidad: Analítica<br><br>
 ![Imagen de entrevista](https://i.imgur.com/039MGwN.png)<br>  
-En resumen, Carlo Rebagliati es un gerente de hotel con un largo camino de experiencia. Nos relata que los principales desafíos que tiene su hotel es el llamado a los turistas desde provincia, ya que la mayoría de clientela que tiene son turistas. Adicionalmente, mencionó que tienen una plataforma web donde los clientes realizan sus reservas, también tienen un área contable y administrativa para el seguimiento de ganancia y recursos. Finalmente, cree necesario una aplicación o software que se concentre en la gestión de un hotel, tanto para la comunicación, administración, gestión y seguimiento de recursos.
+En resumen, Carlo Rebagliati es un gerente de hotel con un largo camino de experiencia. Él es una persona analítica que le importan las estadísticas y los beneficios y consecuencias de cada decisión. Nos relata que los principales desafíos que tiene su hotel es el llamado a los turistas desde provincia, ya que la mayoría de clientela que tiene son turistas. Afortunadamente, está manteniendo a sus trabajadores motivados para que las bajas ventas por temporadas no afecte su rendimiento. Adicionalmente, mencionó que tienen una plataforma web donde los clientes realizan sus reservas, también tienen un área contable y administrativa para el seguimiento de ganancia y recursos. Finalmente, cree necesario una aplicación o software que se concentre en la gestión de un hotel, tanto para la comunicación, administración, gestión y seguimiento de recursos.
 
 **Entrevista 2 (Gerentes)**  
+Url del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211552_upc_edu_pe/EYGaGdpG5HhHq5_z_sVx1cYBJyn-N9QEdRzCr1QU6z8xLg?e=QBNPwA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D<br>
 Nombre: Mathias Jave<br>
 Edad: 22<br>
-Residencia: San Isidro, Lima<br><br>
+Sexo: Masculino<br>
+Lugar donde vive: San Isidro, Lima<br>
+Ocupación: Gerente de hotel<br>
+Duración de la entrevista: 0:00 - 15:12<br>
+Personalidad: Analítica<br><br>
+
 ![Imagen de entrevista](https://i.imgur.com/4953oaZ.png)<br>  
-En resumen, Carlo Rebagliati es un gerente de hotel con un largo camino de experiencia. Nos relata que los principales desafíos que tiene su hotel es el llamado a los turistas desde provincia, ya que la mayoría de clientela que tiene son turistas. Adicionalmente, mencionó que tienen una plataforma web donde los clientes realizan sus reservas, también tienen un área contable y administrativa para el seguimiento de ganancia y recursos. Finalmente, cree necesario una aplicación o software que se concentre en la gestión de un hotel, tanto para la comunicación, administración, gestión y seguimiento de recursos.
+En resumen, Mathias Jave es un administrador de un hotel que tiene poca trayectoria en el mercado debido a que recién está iniciando con su negocio. En la presente entrevista nos comenta que ha usado software de un tercero para que le facilite la administración de áreas de su negocio. Sin embargo, dicho producto que tiene no satisface por completo las necesidades de administración para su negocio. En vista de dicha situación, se le realizó una serie de preguntas para determinar las implementaciones que necesita llegando a la conclusión que nuestro cliente necesita una aplicación que permita llevar una correcta gestión de productos, proveedores, trabajadores, ingresos y generación de reportes para llevar un control financiero del hotel.
 
 **Entrevista 3 (Gerentes)**  
+Url del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210192_upc_edu_pe/EQCNTkv3SF5Blq9sEItJkTIBAqCwuMH7Pb1gn3yrx8as5w?e=1fx6ZW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D<br>
 Nombre: Ariana Valdivia Alarcón<br>
 Edad: 25<br>
-Residencia: La molina, Lima<br><br> 
+Sexo: Femenino<br>
+Lugar donde vive: La molina, Lima<br>
+Ocupación: Gerente de hotel<br>
+Duración de la entrevista: 0:00 - 11:45<br>
+Personalidad: Emotiva<br><br>
 ![Imagen de entrevista](https://i.imgur.com/i7gbrkR.png)<br>  
-En resumen, Carlo Rebagliati es un gerente de hotel con un largo camino de experiencia. Nos relata que los principales desafíos que tiene su hotel es el llamado a los turistas desde provincia, ya que la mayoría de clientela que tiene son turistas. Adicionalmente, mencionó que tienen una plataforma web donde los clientes realizan sus reservas, también tienen un área contable y administrativa para el seguimiento de ganancia y recursos. Finalmente, cree necesario una aplicación o software que se concentre en la gestión de un hotel, tanto para la comunicación, administración, gestión y seguimiento de recursos.
+En resumen, Ariana Valdivia es una gerente de una cadena de hoteles Oasis con varios locales expandidos a lo largo del Perú. Ella se presenta como una persona analítica que le importa tomar buenas decisiones que mejoren su negocio. Nos cuenta que sus principales desafíos son contactar con los proveedores, es decir, tener organizada una lista de proveedores completa para poder contactarlos en el momento indicado, ya sea por falta de recursos o abastecimiento de inventarios. Adicionalmente, menciona que el inventario no lo tienen tan organizado como quisieran; por ello, afirma que sí es necesario un sistema de gestión hotelero que resuelva estas necesidades y complicaciones.
 
 **Entrevista 1 (Empleados)**  
-Nombre: Juan Guarnizo<br>
+URL del vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/ETU-GTTcCWBHu-Forxxl_qMBQVx9cQeIX8FuBhpot4CrAA?e=djbgfP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D<br>
+Nombre: Juan Guarnizo
 Edad: 22<br>
-Lugar donde Vive: Breña, Lima<br>  
+Sexo: Masculino<br>
+Lugar donde Vive: Breña, Lima<br>
+Ocupación: Trabajador de hotel<br>
+Duración de la entrevista: 0:00 -  6:29<br>
+Personalidad: Analítica<br><br>
 ![Imagen de entrevista](https://i.imgur.com/eMRHwnn.png)<br>
-<br>En resumen, Juan Guarnizo es un trabajador del Hotel Los Delfines con un amateur camino de experiencia. Nos relata que los principales desafíos o complejidades al trabajar en los hoteles es la administración y actividades sencillas pero repetitivas; adicionalmente, nos cuenta que la mejor solución ante ello es la automatización de los procesos repetitivos fáciles de hacer. Finalmente, sí considera vital la creación de un sistema de gestión hotelero que ayude con estas tareas y organización del hotel.
+<br>En resumen, Juan Guarnizo es un trabajador del Hotel Los Delfines con un amateur camino de experiencia. Se presenta como una persona analítica que busca siempre salir beneficiado de las decisiones. Nos relata que los principales desafíos o complejidades al trabajar en los hoteles es la administración y actividades sencillas pero repetitivas; adicionalmente, nos cuenta que la mejor solución ante ello es la automatización de los procesos repetitivos fáciles de hacer como control  de inventario y reservas en línea. Finalmente, sí considera vital la creación de un sistema de gestión hotelero que ayude con estas tareas y organización del hotel.
 
 **Entrevista 2 (Empleados)**  
-Nombre: Juan Guarnizo<br>
-Edad: 22<br>
-Lugar donde Vive: Breña, Lima<br>  
+URL del vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211168_upc_edu_pe/EY3l0wTWNupPiBuj2RA_jJMB_qWqdZjiGuhupuv2zcuPZQ?e=zdua3v&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D<br>
+Nombre:  Maricarmen Tejada<br>
+Edad: 58<br>
+Sexo: Femenino<br>
+Lugar donde Vive: Callao, Lima<br>
+Ocupación: Trabajadora de hotel<br>
+Duración de la entrevista: 0:00 - 4:07<br>
+Personalidad: Emotiva<br><br>
 ![Imagen de entrevista](https://i.imgur.com/9cIxfhz.png)<br>
 <br>En resumen, Mariacarmen Tejada es una empleada del hotel con experiencia en gestión y operaciones diarias. Destaca que sus tareas más difíciles son la limpieza de los baños y la cocina, así como la dificultad para mantener el stock de utensilios de limpieza y cocina. Está abierta a la posibilidad de nuevas tecnologías para mejorar la eficiencia laboral y la experiencia del cliente, especialmente a través de sistemas de gestión hotelera más avanzados. Además, promueve una comunicación más directa con la administración para mejorar la eficiencia y la colaboración del equipo. También, la implementación de sistemas de registro en línea y dispositivos móviles para simplificar el proceso de registro y check-in/check-out de los huéspedes. Por último, destaca la necesidad de herramientas adicionales, como sistemas de seguimiento de solicitudes de huéspedes y acceso a información local para mejorar la experiencia general en el hotel.
 
 **Entrevista 3 (Empleados)**  
-Nombre: Juan Guarnizo<br>
-Edad: 22<br>
-Lugar donde Vive: Breña, Lima<br>  
+URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a322_upc_edu_pe/ETtyvJoVaNFEgKk7gvJnRYIBCWGCbQAXMMRo8FDS4rjf8g?e=kJkvkK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D<br>
+Nombre: Catalina Bustamante<br>
+Edad: 21<br>
+Sexo: Femenino<br>
+Lugar donde vive: Cuzco<br>
+Ocupación: Trabajadora de hotel<br>
+Duración de la entrevista: 0:00 - 8:43<br>
+Personalidad: Emotiva<br><br>
 ![Imagen de entrevista](https://i.imgur.com/uBryHxg.png)<br>
 <br>En resumen, Catalina Bustamante, quien trabaja en el Hotel Royal Inca en Cuzco, menciona que las tareas más desafiantes incluyen la limpieza y mantener el orden debido a la constante afluencia de huéspedes. Destaca también la dificultad en la gestión de check-in y check-out, especialmente con horarios variados de llegada y salida. Identifica la falta de comunicación eficiente entre departamentos como un obstáculo para resolver problemas de manera efectiva.
 Propone mejoras en el sistema de gestión hotelera para facilitar la comunicación y el acceso a la información entre el personal. Además comentó una capacitación continua para mejorar las habilidades del equipo. Sugiere la automatización de procesos de registro de huéspedes para ahorrar tiempo y evitar errores, así como la implementación de herramientas adicionales, como sistemas de seguimiento de solicitudes de huéspedes, para mejorar la experiencia general en el hotel.
-
 
 ### 2.2.3. Análisis de entrevistas.
 
