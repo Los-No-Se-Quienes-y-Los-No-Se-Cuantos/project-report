@@ -1584,11 +1584,13 @@ Ocupación: _____
 
 # Conclusiones
 
-{texto}
+Nuestro proyecto de gestión hotelera esta siendo una experiencia gratificante y enriquecedora. Estamos diseñando y desarrollando una aplicación integral que aborda las necesidades de los gerentes y trabajadores de hoteles, facilitando la gestión diaria, el seguimiento de ingresos y egresos, la administración de recursos, el contacto con proveedores y la gestión de los procesos de check-in y check-out.
 
-# Conclusiones y recomendaciones.
+Durante la fase de planificación, dividimos nuestro trabajo en cuatro sprints para una mejor organización y eficiencia. El primer sprint se centró en la creación del Landing Page, seguido por el desarrollo del Front-End Application en el segundo sprint. Sólo falta los últimos dos sprints que están dedicados al desarrollo de la Web Services API, completando así los tres componentes esenciales de nuestro proyecto.
 
-{texto}
+Para garantizar la calidad y la usabilidad de nuestra aplicación, hemos realizado entrevistas, lo que nos permitió recopilar comentarios valiosos acerca del negocio y realizar ajustes necesarios en cada etapa del proceso de desarrollo.
+
+En resumen, estamos orgullosos del trabajo realizado y confiamos en que nuestra aplicación no solo cumplirá, sino que también superará las expectativas de nuestros usuarios. Este proyecto no solo nos esta permitiendo aplicar nuestros conocimientos en Ingeniería de Software, sino que también nos está brindado la oportunidad de trabajar en equipo, enfrentar desafíos y aprender de manera continua. 
 
 # Video About-the-Team.
 
@@ -1596,19 +1598,32 @@ Ocupación: _____
 
 # Bibliografía
 
-``` 
-formato
+¿Qué es la gestión hotelera y cuál es su importancia en el sector hotelero? (2021, febrero 10). Ostelea.com. <br> https://www.ostelea.com/actualidad/blog-turismo/direccion-hotelera/que-es-la-gestion-hotelera-y-cual-es-su-importancia-en-el-sector-hotelero
 
-"Apellido", Ini.Ciales. & "otroAutor", O.A. (año). titulo del articulo.
-        "nombre del articulo o lo q sea, Volumen(si es que tiene), numero  de pagina"#-#. https//link.org/eeeseneko
+<br>
 
-```
+Buenas prácticas para el desarrollo de grandes proyectos con Vue.js. (s/f). Solucionex. Recuperado el 29 de abril de 2024.<br>
+https://www.solucionex.com/blog/buenas-practicas-para-el-desarrollo-de-grandes-proyectos-con-vuejs
+
+<br>
+
+Eseme, S. (2021, agosto 12). 10 cosas que debes saber sobre Vue.js Frontend Framework. Kinsta®; Kinsta. <br>
+https://kinsta.com/es/blog/vue-js/
+
+<br>
+
+de Javier, V. M. C. (s/f). DDD y arquitectura Onion, todo lo que necesitas saber. Paradigmadigital.com. Recuperado el 29 de abril de 2024 de <br>
+https://www.paradigmadigital.com/techbiz/domain-driven-design-y-arquitectura-onion/
+
+<br>
+
+Arquitectura DDD(Domain Driven Design). (2021, junio 21). Sergio Tapia. <br>
+https://sergiotapia.net/arquitectura-ddddomain-driven-design/
+
 
 # Anexos
 
-datos, gráficos, imágenes, esquemas, mapas o referencias de otros autores
 
-![Imagen de algo no nuestro lol](image.jpg)
 
 
 
