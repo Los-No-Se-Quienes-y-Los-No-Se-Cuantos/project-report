@@ -1584,6 +1584,14 @@ Por el momento vacía.
 
 # Conclusiones
 
+Esta parte tiene 2 secciones: Conclusiones y Recomendaciones y Video Aout-the-team.
+
+En conclusiones y recomendaciones resumiremos los avances que hemos tenido hasta el momento y como esta siendo nuestra experiencia en ello. Adicionalmente, explicando las fases de desarrollo que hemos implementado y como hemos abstraido la informacion recibida de los requisitos como entrevistas, Historias de Usuario; etc. Finalmente, evaluar los resultados en relacion con el Lean UX, validaciones y RoadMap. 
+
+En Video About-the-Team, presentaremos un video en donde el equipo se introduce y narraremos la recopilaciuon del trabajo realizado durante todo el proceso de desarrollo del proyecto, narrando con voz de fondo y mostrando el trabajo en equipo que hemos mantenido durante todo el proceso. Adicionalmente, hablaremos de los Outcomes logrados en el proyecto, las actividades realizadas y el desarrollo de competencias alcanzados.
+
+# Conclusiones y Recomendaciones
+
 Nuestro proyecto de gestión hotelera esta siendo una experiencia gratificante y enriquecedora. Estamos diseñando y desarrollando una aplicación integral que aborda las necesidades de los gerentes y trabajadores de hoteles, facilitando la gestión diaria, el seguimiento de ingresos y egresos, la administración de recursos, el contacto con proveedores y la gestión de los procesos de check-in y check-out.
 
 Durante la fase de planificación, dividimos nuestro trabajo en cuatro sprints para una mejor organización y eficiencia. El primer sprint se centró en la creación del Landing Page, seguido por el desarrollo del Front-End Application en el segundo sprint. Sólo falta los últimos dos sprints que están dedicados al desarrollo de la Web Services API, completando así los tres componentes esenciales de nuestro proyecto.
@@ -1594,7 +1602,7 @@ En resumen, estamos orgullosos del trabajo realizado y confiamos en que nuestra 
 
 # Video About-the-Team.
 
-[URL del video about the team](https://www.example.com)
+Link del Video: 
 
 # Bibliografía
 
