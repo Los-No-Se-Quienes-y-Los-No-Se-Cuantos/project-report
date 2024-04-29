@@ -1623,7 +1623,10 @@ https://sergiotapia.net/arquitectura-ddddomain-driven-design/
 
 # Anexos
 
-
+| Contenido | URL del Vídeo |
+|--------------|--------------|
+| Vídeo de Exposición TB1      | Link del Vídeo:    |  
+| VÍdeo de Exposición TP1      | Link del Vídeo:     | 
 
 
 
