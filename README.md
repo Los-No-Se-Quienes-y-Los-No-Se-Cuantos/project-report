@@ -675,7 +675,7 @@ Estas fichas de User Persona se basan en el análisis de entrevistas y en el est
 
 ### 2.3.2. User Task Matrix.
 
-| Tarea                                           | Carlos Rebagliati - Gerente | Juan Guarnizo - Empleado |
+| Tarea                                           | Carlos Rebagliati - Gerente (Frecuencia / Importancia)| Juan Guarnizo - Empleado (Frecuencia / Importancia)|
 |-------------------------------------------------|-----------------------------|---------------------------|
 | Supervisión del staff                           | Alta / Alta                 | Media / Alta              |
 | Programación de limpieza a las habitaciones     | Media / Media               | Alta / Alta               |
