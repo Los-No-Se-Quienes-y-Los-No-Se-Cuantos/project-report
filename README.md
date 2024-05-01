@@ -48,12 +48,8 @@
     </thead>
     <tbody>
     <tr>
-        <td rowspan="7">TB1</td>
-    </tr>
-    <tr>
-        <td rowspan="7">29/03/2024</td>
-    </tr>
-    <tr>
+        <td>TB1</td>
+        <td>29/03/2024</td>
         <td>Mauricio Abraham Rivo Rojas Sánchez</td>
         <td>
         <ul>
@@ -63,6 +59,8 @@
         </td>
     </tr>
     <tr>
+        <td>TB1</td>
+        <td>29/03/2024</td>
         <td>Aaron Elías Acuña Alarcón </td>
         <td>
         <ul>
@@ -73,7 +71,11 @@
         </ul>
         </td>
     </tr>
+    <tr>  
+    </tr>
     <tr>
+        <td>TB1</td>
+        <td>29/03/2024</td>
         <td>Leonardo Félix Jesús Linares Tejada</td>
         <td>
         <ul>
@@ -84,6 +86,8 @@
         </td>
     </tr>
     <tr>
+        <td rowspan="1">TB1</td>
+        <td rowspan="1">29/03/2024</td>
         <td>Piero Fernando Periche Quiroga</td>
         <td>
         <ul>
@@ -96,6 +100,8 @@
         </td>
     </tr>
     <tr>
+        <td rowspan="1">TB1</td>
+        <td rowspan="1">29/03/2024</td>
         <td>Alex Ramon Alberto Avila Asto</td>
         <td>
         <ul>
@@ -107,12 +113,8 @@
         </td>
     </tr>
     <tr>
-        <td rowspan="7">TP1</td>
-    </tr>
-    <tr>
-        <td rowspan="7">27/04/2024</td>
-    </tr>
-    <tr>
+        <td rowspan="1">TP1</td>
+        <td rowspan="1">27/04/2024</td>
         <td>Mauricio Abraham Rivo Rojas Sánchez</td>
         <td>
         <ul>
@@ -122,6 +124,8 @@
         </td>
     </tr>
     <tr>
+        <td rowspan="1">TP1</td>
+        <td rowspan="1">27/04/2024</td>
         <td>Aaron Elías Acuña Alarcón </td>
         <td>
         <ul>
@@ -130,6 +134,8 @@
         </td>
     </tr>
     <tr>
+        <td rowspan="1">TP1</td>
+        <td rowspan="1">27/04/2024</td>
         <td>Leonardo Félix Jesús Linares Tejada</td>
         <td>
         <ul>
@@ -138,14 +144,18 @@
         </td>
     </tr>
     <tr>
-        <td>Piero Fernando Periche Quiroga</td>
-        <td>
+        <td rowspan="1">TP1</td>
+        <td rowspan="1">27/04/2024</td>
+         <td>Piero Fernando Periche Quiroga</td>
+         <td>
         <ul>
         <li> Team Collaboration Insights during Sprint </li>
         </ul>
         </td>
     </tr>
     <tr>
+        <td rowspan="1">TP1</td>
+        <td rowspan="1">27/04/2024</td>
         <td>Alex Ramon Alberto Avila Asto</td>
         <td>
         <ul>
@@ -156,6 +166,8 @@
     </tr>
     </tbody>
 </table>
+
+
 
 # Project Report Collaboration Insights
 La entrega TB1 finalizó con éxito y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo: https://github.com/Los-No-Se-Quienes-y-Los-No-Se-Cuantos/project-report
