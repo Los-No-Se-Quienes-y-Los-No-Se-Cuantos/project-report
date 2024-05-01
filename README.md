@@ -646,25 +646,22 @@ Facilidad de Uso y Claridad: Se buscó que la navegación en la aplicación fuer
 
 1.  ![Landing page mockup](https://i.imgur.com/HoiXnlc.png)
 
-3. Bounded Context Map: Muestra la relacion entre bounded contexts (los bounded context son como una burbuja que
-   encapsula palabras clave en los procesos para poder
-   diferenciarlos [Ej. Bounded context enfocado en las ventas(ventas), otro en revisar el stock(gestion) y otro enfocado en los proveedores (suministros)])
-   Se hace como un brainstorm y se ve en que pueden conectarse o
-   comunicarse [se usa un circulo entre conexiones lineales (upstream o downstream) para definir comunicacion, algunos context se pueden integrar para representar por ejemplo un share model por database, tambien se mencionan los (third party context para definir los restful apis)]
+
 
 ### 4.6.2. Software Architecture Container Diagrams.
-
-1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's,
-   indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como
-   objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP)
-
 
    ![Landing page mockup](https://i.imgur.com/nKB7rb1.png)
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
-1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del
-   aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
+
+
+   ![Landing page mockup](https://i.imgur.com/HNAeAKy.png)
+   ![Landing page mockup](https://i.imgur.com/NLh8hk0.png)
+   ![Landing page mockup](https://i.imgur.com/cVAtLh7.png)
+   ![Landing page mockup](https://i.imgur.com/S5NOrcV.png)
+ 
+ 
 
 ## 4.7. Software Object-Oriented Design.
 
