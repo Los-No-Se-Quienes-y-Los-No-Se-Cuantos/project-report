@@ -656,10 +656,14 @@ Facilidad de Uso y Claridad: Se buscó que la navegación en la aplicación fuer
 
 
 
-   ![Landing page mockup](https://i.imgur.com/HNAeAKy.png)
-   ![Landing page mockup](https://i.imgur.com/NLh8hk0.png)
-   ![Landing page mockup](https://i.imgur.com/cVAtLh7.png)
-   ![Landing page mockup](https://i.imgur.com/S5NOrcV.png)
+   ![Landing page mockup](https://i.imgur.com/RYS7wb1.png)
+   ![Landing page mockup](https://i.imgur.com/SzqfByi.png)
+   ![Landing page mockup](https://i.imgur.com/3HzFUC8.png)
+   ![Landing page mockup](https://i.imgur.com/DZuNInk.png)
+   ![Landing page mockup](https://i.imgur.com/naHmn62.png)
+   ![Landing page mockup](https://i.imgur.com/fAeHSpo.png)
+   ![Landing page mockup](https://i.imgur.com/WdisOZO.png)
+   ![Landing page mockup](https://i.imgur.com/Zhu9OWH.png)
  
  
 
