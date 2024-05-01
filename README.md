@@ -870,20 +870,23 @@ Estas fichas de User Persona se basan en el análisis de entrevistas y en el est
 | Programación de limpieza a las habitaciones     | Media / Media               | Alta / Alta               |
 | Programación de turnos del personal de limpieza | Alta / Alta                 | Baja / Media              |
 | Negociación con proveedores                     | Alta / Alta                 | Baja / Baja               |
-| Capacitación del staff                          | Alta / Alta                 | Alta / Alta               |
+| Capacitación del staff                          | Alta / Alta                 | Media / Alta               |
 | Evaluación de desempeño del staff              | Media / Alta                | Media / Alta              |
-| Cumplimiento normativo                         | Alta / Alta                 | Alta / Alta               |
+| Cumplimiento de los principios normativos                         | Alta / Alta                 | Alta / Alta               |
 | Programación de mantenimientos a los recursos  | Media / Media               | Alta / Alta               |
-| Distribución de recursos a las habitaciones    | Alta / Alta                 | Alta / Alta               |
-| Verificar calidad de los alimentos             | Alta / Alta                 | Media / Media             |
-| Administrar permisos de los empleados          | Alta / Alta                 | Baja / Alta               |
-| Programar turnos de trabajo                    | Alta / Alta                 | Alta / Alta               |
+| Distribución de recursos a las habitaciones    | Baja / Media                 | Alta / Alta               |
+| Administración de recursos a las habitaciones | Alta / Alta  | Baja / Baja       |
+| Verificación de calidad de los alimentos             | Media / Alta                 | Alta / Media             |
+| Administración de permisos de los empleados          | Alta / Alta                 | Baja / Alta               |
+| Programación de turnos de trabajo                    | Alta / Alta                 | Baja / Media               |
 | Planificación de eventos o actividades en el hotel | Media / Alta             | Baja / Baja               |
-| Elaborar informes financieros y contables      | Alta / Alta                 | Media / Alta              |
-| Controlar el check-in y check-out del huésped  | Media / Media               | Alta / Alta               |
-| Responder a preguntas y solicitudes de los huéspedes, tanto en persona como por teléfono. | Baja / Baja | Media / Alta |
+| Elaboración de informes financieros y contables      | Alta / Alta                 | Media / Alta              |
+| Control de check-in   | Media / Media               | Alta / Alta               |
+| Control de check-out del huésped | Media / Media              | Alta / Alta             |
+| Respuesta a preguntas y solicitudes de los huéspedes, tanto en persona como por teléfono. | Baja / Baja | Media / Alta |
+| Establecimiento de principios normativos | Alta / Alta | Baja / Media |
 
-Tareas con mayor frecuencia e importancia:<br>
+<br>Tareas con mayor frecuencia e importancia:<br>
 
 Supervisión del staff: Esta tarea es crucial tanto para el gerente como para el trabajador, ya que garantiza que todas las funciones y roles asignados se cumplan de manera organizada, eficiente y correcta.<br>
 
