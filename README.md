@@ -667,9 +667,7 @@ Facilidad de Uso y Claridad: Se buscó que la navegación en la aplicación fuer
 
 ### 4.7.1. Class Diagrams.
 
-![Landing page mockup](https://i.imgur.com/gdkVJ2m.png)
-[Link en LucidChart] https://lucid.app/lucidchart/508e0d8a-92a2-4de3-8626-6b782938b13e/edit?beaconFlowId=47FEEC1E8EBED814&page=0_0&invitationId=inv_fc67e0b3-63d7-49e2-bbf1-50acd5491bd9
-
+![Landing page mockup](https://i.imgur.com/eoEQMks.png)
 
 ### 4.7.2. Class Dictionary.
 
