@@ -445,7 +445,7 @@ Lugar donde vive: Pueblo Libre, Lima<br>
 Duración de la entrevista: 0:00 - 12:15<br>
 Personalidad: Analítica<br><br>
 ![Imagen de entrevista](https://i.imgur.com/039MGwN.png)<br>  
-En resumen, Carlo Rebagliati es un gerente de hotel con un largo camino de experiencia. Él es una persona analítica que le importan las estadísticas y los beneficios y consecuencias de cada decisión. Nos relata que los principales desafíos que tiene su hotel es el llamado a los turistas desde provincia, ya que la mayoría de clientela que tiene son turistas. Afortunadamente, está manteniendo a sus trabajadores motivados para que las bajas ventas por temporadas no afecte su rendimiento. Adicionalmente, mencionó que tienen una plataforma web donde los clientes realizan sus reservas, también tienen un área contable y administrativa para el seguimiento de ganancia y recursos. Finalmente, cree necesario una aplicación o software que se concentre en la gestión de un hotel, tanto para la comunicación, administración, gestión y seguimiento de recursos.
+En resumen, Carlo Rebagliati es un gerente de hotel con un largo camino de experiencia. Él es una persona analítica, comunicativa, empática y profesional que le importan las estadísticas y los beneficios y consecuencias de cada decisión. Nos relata que sus canales de comunicación preferidos son Whatssap, Zoom y cara a cara; adicionalmente, su navegador más frecuente es Google Chrome y usa Smartphone Android. Los principales desafíos que tiene su hotel es el llamado a los turistas desde provincia, ya que la mayoría de la clientela que tiene son turistas. Afortunadamente, está manteniendo a sus trabajadores motivados para que las bajas ventas por temporadas no afecte su rendimiento. Adicionalmente, mencionó que tienen una plataforma web donde los clientes realizan sus reservas, también tienen un área contable y administrativa para el seguimiento de ganancia y recursos. Finalmente, cree necesario una aplicación o software que se concentre en la gestión de un hotel, tanto para la comunicación, administración, gestión y seguimiento de recursos.
 
 **Entrevista 2 (Gerentes)**  
 Url del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211552_upc_edu_pe/EYGaGdpG5HhHq5_z_sVx1cYBJyn-N9QEdRzCr1QU6z8xLg?e=QBNPwA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D<br>
@@ -482,7 +482,7 @@ Ocupación: Trabajador de hotel<br>
 Duración de la entrevista: 0:00 -  6:29<br>
 Personalidad: Analítica<br><br>
 ![Imagen de entrevista](https://i.imgur.com/eMRHwnn.png)<br>
-<br>En resumen, Juan Guarnizo es un trabajador del Hotel Los Delfines con un amateur camino de experiencia. Se presenta como una persona analítica que busca siempre salir beneficiado de las decisiones. Nos relata que los principales desafíos o complejidades al trabajar en los hoteles es la administración y actividades sencillas pero repetitivas; adicionalmente, nos cuenta que la mejor solución ante ello es la automatización de los procesos repetitivos fáciles de hacer como control  de inventario y reservas en línea. Finalmente, sí considera vital la creación de un sistema de gestión hotelero que ayude con estas tareas y organización del hotel.
+<br>En resumen, Juan Guarnizo es un trabajador del Hotel Los Delfines con un amateur camino de experiencia. Se presenta como una persona analítica, empática y profesional que busca siempre salir beneficiado de las decisiones. Nos relata que sus canales de comunicación preferidos son cara a cara, WhatsApp y llamadas telefónicas. Adicionalmente, nos menciona que Google Chrome es su navegador frecuente y usa computadora Windows como dispositivo; también menciona los principales desafíos o complejidades al trabajar en los hoteles son la administración y actividades sencillas pero repetitivas. Nos cuenta que la mejor solución ante ello es la automatización de los procesos repetitivos fáciles de hacer como control  de inventario y reservas en línea. Finalmente, sí considera vital la creación de un sistema de gestión hotelero que ayude con estas tareas y organización del hotel.
 
 **Entrevista 2 (Empleados)**  
 URL del vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211168_upc_edu_pe/EY3l0wTWNupPiBuj2RA_jJMB_qWqdZjiGuhupuv2zcuPZQ?e=zdua3v&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D<br>
@@ -533,31 +533,34 @@ Para tener una mejor idea de cómo será la experiencia del usuario con nuestro 
 Estas fichas de User Persona se basan en el análisis de entrevistas y en el estudio de la competencia, permitiéndonos crear representaciones detalladas y realistas de nuestros usuarios objetivo. Al desarrollar User Personas, estamos buscando comprender las principales características, necesidades y comportamientos de nuestros usuarios finales como sus objetivos, personalidad, tecnologías preferidas y canales de comunicación preferidos. Estas representaciones nos ayudan a humanizar y visualizar a nuestros usuarios, lo que a su vez guiará el diseño de productos y servicios que satisfagan sus demandas y expectativas.
 
 **Segmento de gerentes:**  
-![Imagen User Persona 1](https://i.imgur.com/68GDcWN.png)
+![Imagen User Persona 1](https://i.imgur.com/cjvPfHD.jpeg)
 
 **Segmento de trabajadores:**  
-![Imagen User Persona 1](https://i.imgur.com/R5GiS1R.png)
+![Imagen User Persona 1](https://i.imgur.com/tFC0MXB.jpeg)
 
 ### 2.3.2. User Task Matrix.
 
-| Tarea                                           | Carlos Rebagliati - Gerente | Juan Guarnizo - Empleado |
+| Task                                           | Carlos Rebagliati - Gerente (Frecuencia / Importancia)| Juan Guarnizo - Empleado (Frecuencia / Importancia)|
 |-------------------------------------------------|-----------------------------|---------------------------|
 | Supervisión del staff                           | Alta / Alta                 | Media / Alta              |
 | Programación de limpieza a las habitaciones     | Media / Media               | Alta / Alta               |
 | Programación de turnos del personal de limpieza | Alta / Alta                 | Baja / Media              |
 | Negociación con proveedores                     | Alta / Alta                 | Baja / Baja               |
-| Capacitación del staff                          | Alta / Alta                 | Alta / Alta               |
+| Capacitación del staff                          | Alta / Alta                 | Media / Alta               |
 | Evaluación de desempeño del staff              | Media / Alta                | Media / Alta              |
-| Cumplimiento normativo                         | Alta / Alta                 | Alta / Alta               |
+| Cumplimiento de los principios normativos                         | Alta / Alta                 | Alta / Alta               |
 | Programación de mantenimientos a los recursos  | Media / Media               | Alta / Alta               |
-| Distribución de recursos a las habitaciones    | Alta / Alta                 | Alta / Alta               |
-| Verificar calidad de los alimentos             | Alta / Alta                 | Media / Media             |
-| Administrar permisos de los empleados          | Alta / Alta                 | Baja / Alta               |
-| Programar turnos de trabajo                    | Alta / Alta                 | Alta / Alta               |
+| Distribución de recursos a las habitaciones    | Baja / Media                 | Alta / Alta               |
+| Administración de recursos a las habitaciones | Alta / Alta  | Baja / Baja       |
+| Verificación de calidad de los alimentos             | Media / Alta                 | Alta / Media             |
+| Administración de permisos de los empleados          | Alta / Alta                 | Baja / Alta               |
+| Programación de turnos de trabajo                    | Alta / Alta                 | Baja / Media               |
 | Planificación de eventos o actividades en el hotel | Media / Alta             | Baja / Baja               |
-| Elaborar informes financieros y contables      | Alta / Alta                 | Media / Alta              |
-| Controlar el check-in y check-out del huésped  | Media / Media               | Alta / Alta               |
-| Responder a preguntas y solicitudes de los huéspedes, tanto en persona como por teléfono. | Baja / Baja | Media / Alta |
+| Elaboración de informes financieros y contables      | Alta / Alta                 | Media / Alta              |
+| Control de check-in   | Media / Media               | Alta / Alta               |
+| Control de check-out del huésped | Media / Media              | Alta / Alta             |
+| Respuesta a preguntas y solicitudes de los huéspedes, tanto en persona como por teléfono. | Baja / Baja | Media / Alta |
+| Establecimiento de principios normativos | Alta / Alta | Baja / Media |
 
 Tareas con mayor frecuencia e importancia:<br>
 
@@ -569,11 +572,11 @@ Evaluación de desempeño del staff: Tanto el gerente como el empleado realizan 
 
 Cumplimiento normativo: Esta tarea es de alta importancia para el gerente, ya que garantiza tanto para el trabajador como para el gerente de hotel, el cumplimiento normativo implica seguir los procedimientos y políticas establecidos, así como garantizar que todas las actividades se realicen de acuerdo con las normativas y regulaciones aplicables en la industria hotelera.
 
-Programar turnos de trabajo: La programación de turnos de trabajo implica coordinar las necesidades del hotel con la disponibilidad del personal para asegurar un funcionamiento eficiente y efectivo del hotel. Tanto los trabajadores como los gerentes de hotel juegan un papel importante en este proceso, cada uno con diferentes niveles de responsabilidad y autoridad.
+Programacion turnos de trabajo: La programación de turnos de trabajo implica coordinar las necesidades del hotel con la disponibilidad del personal para asegurar un funcionamiento eficiente y efectivo del hotel. Tanto los trabajadores como los gerentes de hotel juegan un papel importante en este proceso, cada uno con diferentes niveles de responsabilidad y autoridad.
 
 Capacitación del staff: La capacitación del personal es fundamental tanto para los trabajadores como para los gerentes de hotel para garantizar que el personal esté bien preparado y tenga las habilidades necesarias para brindar un servicio de calidad a los huéspedes y contribuir al éxito general del hotel.<br>
 
-Registrar el check-in y el check-out del huésped: Estas tareas son cruciales para ambos segmentos, ya que permite llevar un control de los huéspedes y asignaciones de habitaciones de tal manera que se facilite la limpieza, mantenimiento en la habitación, distribución y/o asignación de nuevos recursos.
+Control el check-in y el check-out del huésped: Estas tareas son cruciales para ambos segmentos, ya que permite llevar un control de los huéspedes y asignaciones de habitaciones de tal manera que se facilite la limpieza, mantenimiento en la habitación, distribución y/o asignación de nuevos recursos.
 
 Principales diferencias y coincidencias entre lo realizado por los User Personas:<br>
 
@@ -665,9 +668,6 @@ Definition: The price per night for a room.<br>
 House Rules:
 Definition: Policies and regulations of the hotel that guests are required to follow.<br>
 
-Type of Reservation:
-Definition: List of types of reservations.<br>
-
 Housekeeping:
 Definition: The department responsible for cleaning and maintaining the rooms.<br>
 
@@ -677,29 +677,8 @@ Definition: The process of overseeing and controlling the hotel's supply of good
 Asset tracking:
 Definition: The practice of monitoring and managing the hotel's physical assets, such as furniture, equipment, and fixtures, to ensure they are utilized efficiently and maintained properly.<br>
 
-Staff scheduling:
-Definition: The process of creating and managing work schedules for hotel employees, taking into account factors such as shift rotations, staffing levels, and employee availability.<br>
-
 Task management:
-Definition: The organization and tracking of tasks and responsibilities within the hotel, ensuring that deadlines are met and workflows are optimized.<br>
-
-Resource allocation:
-Definition: The allocation and distribution of resources, such as staff, equipment, and funds, to different areas of the hotel based on operational needs and priorities.<br>
-
-Vendor management:
-Definition: The coordination and oversight of relationships with external suppliers and vendors, including negotiating contracts, monitoring performance, and ensuring timely delivery of goods and services.<br>
-
-Quality control:
-Definition: The process of monitoring and evaluating the quality of products and services offered by the hotel, identifying areas for improvement, and implementing measures to maintain or enhance quality standards.<br>
-
-Cost management:
-Definition: The control and optimization of expenses within the hotel, including labor costs, operating expenses, and capital expenditures, to maximize profitability and efficiency.<br>
-
-Data analytics:
-Definition: The use of data analysis techniques to extract insights and patterns from hotel operations data, enabling informed decision-making and strategic planning.<br>
-
-Risk management:
-Definition: The identification, assessment, and mitigation of risks when resources are limited at any moment.
+Definition: The organization and tracking of tasks and responsibilities within the hotel, ensuring that deadlines are met and workflows are optimized.
 
 ---
 
