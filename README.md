@@ -674,13 +674,21 @@ Facilidad de Uso y Claridad: Se buscó que la navegación en la aplicación fuer
 ![Landing page mockup](https://i.imgur.com/eoEQMks.png)
 
 ![Landing page mockup](https://i.imgur.com/KCEdm15.png)
+<br>
 ![Landing page mockup](https://i.imgur.com/8DeEUYZ.png)
+<br>
 ![Landing page mockup](https://i.imgur.com/gWbrY5V.png)
+<br>
 ![Landing page mockup](https://i.imgur.com/r84zhRb.png)
+<br>
 ![Landing page mockup](https://i.imgur.com/DvUFgyq.png)
+<br>
 ![Landing page mockup](https://i.imgur.com/UCSQqc6.png)
+<br>
 ![Landing page mockup](https://i.imgur.com/4NHbGoY.png)
+<br>
 ![Landing page mockup](https://i.imgur.com/zfadl05.png)
+<br>
 
 
 ### 4.7.2. Class Dictionary.
@@ -949,6 +957,23 @@ Facilidad de Uso y Claridad: Se buscó que la navegación en la aplicación fuer
 
 ![Landing page mockup](https://i.imgur.com/IOSQez5.jpeg)
 [Link en vertabelo] (https://my.vertabelo.com/public-model-view/y5cEtJOUeF1ZM1f5dcRPEs18CAgraR1tSS5dKVobixiEcaZPlqGyj7D1GBAxQo6L?x=1371&y=1603&zoom=0.2637)
+
+![Landing page mockup](https://i.imgur.com/Q0pcf0f.png)
+<br>
+![Landing page mockup](https://i.imgur.com/6dIXiXX.png)
+<br>
+![Landing page mockup](https://i.imgur.com/dAE1YKR.png)
+<br>
+![Landing page mockup](https://i.imgur.com/IYAlQoZ.png)
+<br>
+![Landing page mockup](https://i.imgur.com/WjemYVT.png)
+<br>
+![Landing page mockup](https://i.imgur.com/ykIemiU.png)
+<br>
+![Landing page mockup](https://i.imgur.com/Rmcj3Vz.png)
+<br>
+
+
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
