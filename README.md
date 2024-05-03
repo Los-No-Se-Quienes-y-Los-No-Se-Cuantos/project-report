@@ -1152,8 +1152,7 @@ Segmento 1:
 | 53 | HU53 | Ganancias y pérdidas de dinero dentro de un lapso de tiempo con Restful API. | Como developer deseo recibir información de ganancias y pérdidas dependiendo de cualquier lapso de tiempo para implementarlo en algún módulo. | 3 |
 | 54 | HU54 | Lista de clientes con Restful API. | Como developer deseo recibir una lista de clientes mediante Restful API para mostrar o manipular la información. | 2 |
 | 55 | HU55 | Funcionalidad para Check In con Restful API. | Como developer deseo obtener información de las habitaciones mediante Restful API para procesar ocupación de habitación y actualizar estado. | 2 |
-| 56 | HU56 | Lista de Productos con Restful API. | Como developer,
-deseo obtener lista de productos dependiendo de la organización mediante Restful API para mostrar o manipular la información. | 2 |
+| 56 | HU56 | Lista de Productos con Restful API. | Como developer, deseo obtener lista de productos dependiendo de la organización mediante Restful API para mostrar o manipular la información. | 2 |
 | 57 | HU57 | Pedido de Abastecimiento mediante Restful API. | Como developer, deseo realizar pedido de abastecimiento mediante Restful API para procesar correctamente el pedido en una operación. | 3 |
 
 
