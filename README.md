@@ -2330,13 +2330,37 @@ El equipo construyó la página de aterrizaje utilizando ramas para cada caracte
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
-
+En el alcance del sprint 2 se ha desarrollado el frontend de la aplicación web, por lo tanto no tenemos testing.
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
 **Sprint 2:**
 En este entregable, hemos logrado desarrollar un Front-End Application de SweetManager.
-El link del Front-End Application es el siguiente: https://sweet-manager.netlify.app/
+El link del Front-End Application es el siguiente: https://sweetmanager.netlify.app/
+
+![](https://i.imgur.com/h71IRoV.jpeg)
+
+Página de bienvenida a la aplicación
+
+![](https://i.imgur.com/GgQFiUr.jpeg)
+
+Pagina de Graficos de seguimiento de ingresos y egresos.
+
+![](https://i.imgur.com/5I9fLHh.jpeg)
+
+Pagina de notificaciones
+
+![](https://i.imgur.com/A85qFDB.jpeg)
+
+Perfil de usuario para trabajador
+
+![](https://i.imgur.com/N8exoXp.jpeg)
+
+Perfil de usuario para Gerente
+
+![](https://i.imgur.com/jXGhHxk.jpeg)
+
+Pagina log-in con i18n implementado.
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
