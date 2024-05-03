@@ -1912,6 +1912,341 @@ El equipo construyó la página de aterrizaje utilizando ramas para cada caracte
 
 ![network](https://i.imgur.com/sUFRirP.jpeg)
 
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+
+<table>
+    <thead>
+        <tr>
+            <th> Sprint #</th>
+            <th> Sprint 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Planing Background</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Date</td>
+            <td> 2/05/2024 </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Time</td>
+            <td> 14:00 horas (GMT-5)</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Location</td>
+            <td> Lima, Reunion virtual por Discord
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Prepared By</td>
+            <td> Mauricio Abraham Rivo Rojas Sánchez
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
+            <td> Acuña Alarcon, Aaron Elías / Periche Quiroga, Piero / Avila Asto, Alex / Linares Tejada, Leonardo Félix 
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Review Summary</td>
+            <td> Sprint 1: En el anterior sprint hemos diseñado un langing page con seccion hero, beneficios, introduccion, valores y contacto. Hemos cumplido con todas las historias de usuario formuladas.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary</td>
+            <td>
+                Sprint 1: En el anterior sprint hemos diseñado una landing page, tuvimos algunos problemas al incio pero luego supimos manejar y ordenar todo por branches y lograr llegar a un buen resultado con uso de html, css y js.  
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint 2 Velocity</td>
+            <td> 15
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sum of Story Points</td>
+            <td> 34
+            <td>
+        </tr>
+    </tbody>
+</table>
+
+#### 5.2.2.2. Sprint Backlog 2
+#### 5.2.2.3. Development Evidence for Sprint Review
+<table>
+    <thead>
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit Id</th>
+        <th>Commit Message</th>
+        <th>Commit Message Body</th>
+        <th>Committed on (Date)</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>front-end</td>
+        <td>develop</td>
+        <td>f71ac7d484c03d86a8806f4fa55321fe7bffd01f</td>
+        <td>Merge branch 'feature/employee-view' into develop</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>develop</td>
+        <td>5be352af18bc78ebdfadd8e1c98be68940d4b7d1</td>
+        <td>Merge branch 'feature/login-view' into develop</td>
+        <td>30/04/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/SubcriptionAndPayment</td>
+        <td>ef1096a5fca69175e87c80e651b59ccf8599782f</td>
+        <td>feat(subscription-grid): add subscription-grid to pull plans</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/SubcriptionAndPayment</td>
+        <td>0c8266541a88aa9969865d2bbf2ffd32350c59f4</td>
+        <td>feat(subscription-card): add subscription-card to plans</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/SubcriptionAndPayment</td>
+        <td>24b710bc77564c2a18424f41505382cafc7e1ad0</td>
+        <td>feat(payment-card): add payment-card to confirm</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/rooms</td>
+        <td>16991a04208d2a120dc9d0708a19ca6482127223</td>
+        <td>feat(rooms): implemented rooms validation status.</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/rooms</td>
+        <td>8beba0722d6703b4848a0a6be9eece3c4e0bb9b3</td>
+        <td>feat(rooms): implemented last component for room management.</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/rooms</td>
+        <td>11c07e11c1a3734787737107b401ba2f561efff6</td>
+        <td>feat(rooms): implemented room-management components, services and model.</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/rooms</td>
+        <td>a36cf70ab53f598a71b3ac12b56f6cfd5fbb492d</td>
+        <td>feat(rooms): implemented shared components.</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/notifications</td>
+        <td>d31fddb75d0ccc580afc6a5d3d6e42973babe785</td>
+        <td>fix(notifications): fixed paginator not showing items.</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/notifications</td>
+        <td>09dc92e52d2d8bc860ed6ac69c20c36ef4831d88</td>
+        <td>feat(notifications): implemented notification table management.</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/notifications</td>
+        <td>38ad3daf86452403eadae48d13780c3b4e312aba</td>
+        <td>feat: added notification-table component.</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/notifications</td>
+        <td>24c22cdcd4c4563a93056596b3b4397bf5f9a4b6</td>
+        <td>feat: added notification service.</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/notifications</td>
+        <td>ae23b68f17472048f4eac8f92fca9bce2996466f</td>
+        <td>feat(notification): added notification class.</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/login-view</td>
+        <td>fb794544c1940f69e324ebbde21ace134b8f9ed6</td>
+        <td>refactor(prime-vue): refactor prime vue labels.</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/login-view</td>
+        <td>10679673f361480392a4087d06fe7d33f33383a8</td>
+        <td>feat(login-page): created login page.</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/login-view</td>
+        <td>e82ed3c9272c73e413d24a0228ad5931726837bf</td>
+        <td>feat(access-vue): created access view.</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/login-view</td>
+        <td>f18ada8cc3fc54f72f6c47eaeeb54b91dab04d50</td>
+        <td>feat(register-view): added register component</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/page-routing</td>
+        <td>2c232f7bf404cc7c9bab96ba78f40d6812b064d5</td>
+        <td>feat(toolbar): added toolbar and language switcher.</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/page-routing</td>
+        <td>9fbd248281fb7888cce1fa51b0adb7e57925cd83</td>
+        <td>feat(reports): done created reports.</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/page-routing</td>
+        <td>fb74ecf91c076329bc745c33472d3f771fdb1441</td>
+        <td>feat(reports): created base charts</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/page-routing</td>
+        <td>2d24326cc1054bb953766e0806a576374eb19ee4</td>
+        <td>feat(reports): created reports view.</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/page-routing</td>
+        <td>20bcbec0e2fc0d5a9830c2225b97fb68c97501da</td>
+        <td>feat(chart): import prime chart</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/supply</td>
+        <td>4fed9ec72546aa872b9bda015f787c5170db6b89</td>
+        <td>fix(supplies): fixed paginator and button, not updating information</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/supply</td>
+        <td>d9b7d7e7d091ef4bdde05cf9a647aa6e0290ae86</td>
+        <td>feat: Supply management and edits corrected</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/supply</td>
+        <td>b61f501cafda11472618336d8846ab78a5741db2</td>
+        <td>feat: Url added and management corrected</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/supply</td>
+        <td>6075c6095ae5f14d03c392ac93443f2fffbe6949</td>
+        <td>feat: Supply reworked</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/supply</td>
+        <td>324a8c7a021f6f0a8b2e235a8dc1eff8d9a363aa</td>
+        <td>feat: supply entity corrected, added create-and-edit, and data-manager components</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/supply</td>
+        <td>10bb9a2f537dc7455ba7abc945b1c48fd5e97414</td>
+        <td>feat: supply item manager, create, edit and delete components created</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/supply</td>
+        <td>6b795688b13bcb3df0be33a64295f02b6b06d730</td>
+        <td>feat: supply entity and api created</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/supply</td>
+        <td>aeebb63513efdaf62880801b6c868cf1d7460b62</td>
+        <td>feat: entity created</td>
+        <td>02/05/2024</td>
+    </tr>
+    </tbody>
+</table>
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+**Sprint 2:**
+En este entregable, hemos logrado desarrollar un Front-End Application de SweetManager.
+El link del Front-End Application es el siguiente: https://sweet-manager.netlify.app/
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+En este sprint se cumplió el objetivo de desarrollar la Front-End Applications; sin embargo, al ser Front-End Applications no requiere de documentación relacionada a Web Services.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+En este sprint, se completó el desarrollo del Front-End Application y se utilizó un conjunto de herramientas para su despliegue:
+
+- Git: Utilizado como sistema de control de versiones para facilitar el trabajo en equipo durante el desarrollo del landing page.
+- GitFlow: Implementado como flujo de trabajo para gestionar el progreso individual de cada miembro del equipo en el desarrollo del landing page.
+- GitHub: Empleado como plataforma colaborativa para almacenar las versiones del proyecto y facilitar el desarrollo conjunto del equipo.
+- Netlify: Utilizado como plataforma para automatizar la hospedaje y despliegue del landing page, especialmente diseñada para sitios web estáticos.
+
+![]()
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Las siguientes capturas se sacaron del repositorio front-end de la Organización Github: https://github.com/Los-No-Se-Quienes-y-Los-No-Se-Cuantos/sweetmanager-frontend
+
+
+
+![](https://i.imgur.com/HlZsVZX.jpeg)
+Representa la cantidad ded commits hechos en los ultimos dias. 
+
+![](https://i.imgur.com/KFWrIvt.jpeg)
+Representa el network de los commits del repositorio Front-End Application.
+
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
