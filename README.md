@@ -176,7 +176,6 @@ Durante el desarrollo del informe se tuvieron en cuenta los siguientes aspeectos
 - Se crearon los artefactos necesarios utilizando las herramientas recomendadas y se obtuvieron el link de las imagenes a través de la carpeta assets o de una publicación desde Imgur (https://imgur.com/).
 - Se llevaron a cabo reuniones para coordinar el avance de los elementos del informe y para informar sobre los progresos del Sprint 1, centrado en la página de inicio (Landing Page).
 
-
 ![](https://i.imgur.com/k86Qpw7.jpeg)
 
 ![](https://i.imgur.com/v6i8Vzn.jpeg)
@@ -618,7 +617,9 @@ Definir claramente los objetivos y métricas de éxito: Antes de avanzar en el d
 
     Mayormente son adultos jóvenes a adultos de mediana edad, con amplia experiencia laboral. También, varían en su nivel educativo, desde aquellos con educación secundaria hasta aquellos con formación específica en hospitalidad y turismo. Por último, su experiencia laboral varía, desde aquellos que recién empiezan, hasta aquellos que ya tienen experiencia personal en hoteles.
 
----
+    Tienen una fuerte dedicación al servicio al cliente y a proporcionar una experiencia excepcional a los huéspedes. También, son capaces de adaptarse a una variedad de tareas y situaciones en un entorno dinámico y exigente. Además, valoran la colaboración y comunicación efectiva entre ellos y sus superiores, para garantizar el buen funcionamiento del hotel.
+
+    Mayormente son adultos jóvenes a adultos de mediana edad, con amplia experiencia laboral. También, varían en su nivel educativo, desde aquellos con educación secundaria hasta aquellos con formación específica en hospitalidad y turismo. Por último, su experiencia laboral varía, desde aquellos que recién empiezan, hasta aquellos que ya tienen experiencia personal en hoteles.
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -857,7 +858,6 @@ Estas fichas de User Persona se basan en el análisis de entrevistas y en el est
 ![Imagen User Persona 1](https://i.imgur.com/tFC0MXB.jpeg)
 
 ### 2.3.2. User Task Matrix.
-
 
 | Task                                           | Carlos Rebagliati - Gerente (Frecuencia / Importancia)| Juan Guarnizo - Empleado (Frecuencia / Importancia)|
 |-------------------------------------------------|-----------------------------|---------------------------|
@@ -2075,6 +2075,7 @@ El equipo construyó la página de aterrizaje utilizando ramas para cada caracte
 </table>
 
 #### 5.2.2.2. Sprint Backlog 2
+
 ![](https://i.imgur.com/aLLTSkF.jpeg)
 
 #### 5.2.2.3. Development Evidence for Sprint Review
@@ -2347,6 +2348,7 @@ Representa la cantidad ded commits hechos en los ultimos dias.
 ![](https://i.imgur.com/KFWrIvt.jpeg)
 Representa el network de los commits del repositorio Front-End Application.
 
+
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
@@ -2461,6 +2463,20 @@ https://sergiotapia.net/arquitectura-ddddomain-driven-design/
 | Vídeo de Exposición TB1      | Link del Vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/EQteChIn4UVDlVx5Sc4PJWMBIr-9kjLxmjmIS_X4JlKSJA?e=3TsZIH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|  
 | VÍdeo de Exposición TP1      | Link del Vídeo: | 
 
+de Javier, V. M. C. (s/f). DDD y arquitectura Onion, todo lo que necesitas saber. Paradigmadigital.com. Recuperado el 29 de abril de 2024 de <br>
+https://www.paradigmadigital.com/techbiz/domain-driven-design-y-arquitectura-onion/
 
+<br>
+
+Arquitectura DDD(Domain Driven Design). (2021, junio 21). Sergio Tapia. <br>
+https://sergiotapia.net/arquitectura-ddddomain-driven-design/
+
+
+# Anexos
+
+| Contenido | URL del Vídeo |
+|--------------|--------------|
+| Vídeo de Exposición TB1      | Link del Vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/EQteChIn4UVDlVx5Sc4PJWMBIr-9kjLxmjmIS_X4JlKSJA?e=3TsZIH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|  
+| VÍdeo de Exposición TP1      | Link del Vídeo: | 
 
 
