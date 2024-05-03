@@ -1986,20 +1986,6 @@ El equipo construyó la página de aterrizaje utilizando ramas para cada caracte
     </tr>
     <tr>
         <td>front-end</td>
-        <td>develop</td>
-        <td></td>
-        <td></td>
-        <td>03/05/2024</td>
-    </tr>
-    <tr>
-        <td>front-end</td>
-        <td>develop</td>
-        <td></td>
-        <td></td>
-        <td>03/05/2024</td>
-    </tr>
-    <tr>
-        <td>front-end</td>
         <td>feature/SubcriptionAndPayment</td>
         <td>ef1096a5fca69175e87c80e651b59ccf8599782f</td>
         <td>feat(subscription-grid): add subscription-grid to pull plans</td>
