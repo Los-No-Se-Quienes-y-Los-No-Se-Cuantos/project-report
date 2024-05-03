@@ -1975,7 +1975,140 @@ El equipo construyó la página de aterrizaje utilizando ramas para cada caracte
         <td>develop</td>
         <td>f71ac7d484c03d86a8806f4fa55321fe7bffd01f</td>
         <td>Merge branch 'feature/employee-view' into develop</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>develop</td>
+        <td>5be352af18bc78ebdfadd8e1c98be68940d4b7d1</td>
+        <td>Merge branch 'feature/login-view' into develop</td>
+        <td>30/04/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>develop</td>
         <td></td>
+        <td></td>
+        <td>03/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>develop</td>
+        <td></td>
+        <td></td>
+        <td>03/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/SubcriptionAndPayment</td>
+        <td>ef1096a5fca69175e87c80e651b59ccf8599782f</td>
+        <td>feat(subscription-grid): add subscription-grid to pull plans</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/SubcriptionAndPayment</td>
+        <td>0c8266541a88aa9969865d2bbf2ffd32350c59f4</td>
+        <td>feat(subscription-card): add subscription-card to plans</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/SubcriptionAndPayment</td>
+        <td>24b710bc77564c2a18424f41505382cafc7e1ad0</td>
+        <td>feat(payment-card): add payment-card to confirm</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/rooms</td>
+        <td>16991a04208d2a120dc9d0708a19ca6482127223</td>
+        <td>feat(rooms): implemented rooms validation status.</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/rooms</td>
+        <td>8beba0722d6703b4848a0a6be9eece3c4e0bb9b3</td>
+        <td>feat(rooms): implemented last component for room management.</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/rooms</td>
+        <td>11c07e11c1a3734787737107b401ba2f561efff6</td>
+        <td>feat(rooms): implemented room-management components, services and model.</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/rooms</td>
+        <td>a36cf70ab53f598a71b3ac12b56f6cfd5fbb492d</td>
+        <td>feat(rooms): implemented shared components.</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/notifications</td>
+        <td>d31fddb75d0ccc580afc6a5d3d6e42973babe785</td>
+        <td>fix(notifications): fixed paginator not showing items.</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/notifications</td>
+        <td>09dc92e52d2d8bc860ed6ac69c20c36ef4831d88</td>
+        <td>feat(notifications): implemented notification table management.</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/notifications</td>
+        <td>38ad3daf86452403eadae48d13780c3b4e312aba</td>
+        <td>feat: added notification-table component.</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/notifications</td>
+        <td>24c22cdcd4c4563a93056596b3b4397bf5f9a4b6</td>
+        <td>feat: added notification service.</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/notifications</td>
+        <td>ae23b68f17472048f4eac8f92fca9bce2996466f</td>
+        <td>feat(notification): added notification class.</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/login-view</td>
+        <td>fb794544c1940f69e324ebbde21ace134b8f9ed6</td>
+        <td>refactor(prime-vue): refactor prime vue labels.</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/login-view</td>
+        <td>10679673f361480392a4087d06fe7d33f33383a8</td>
+        <td>feat(login-page): created login page.</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/login-view</td>
+        <td>e82ed3c9272c73e413d24a0228ad5931726837bf</td>
+        <td>feat(access-vue): created access view.</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/login-view</td>
+        <td>e82ed3c9272c73e413d24a0228ad5931726837bf</td>
+        <td>feat(access-vue): created access view.</td>
+        <td>01/05/2024</td>
     </tr>
     </tbody>
 </table>
