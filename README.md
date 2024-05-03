@@ -673,6 +673,16 @@ Facilidad de Uso y Claridad: Se buscó que la navegación en la aplicación fuer
 
 ![Landing page mockup](https://i.imgur.com/eoEQMks.png)
 
+![Landing page mockup](https://i.imgur.com/KCEdm15.png)
+![Landing page mockup](https://i.imgur.com/8DeEUYZ.png)
+![Landing page mockup](https://i.imgur.com/gWbrY5V.png)
+![Landing page mockup](https://i.imgur.com/r84zhRb.png)
+![Landing page mockup](https://i.imgur.com/DvUFgyq.png)
+![Landing page mockup](https://i.imgur.com/UCSQqc6.png)
+![Landing page mockup](https://i.imgur.com/4NHbGoY.png)
+![Landing page mockup](https://i.imgur.com/zfadl05.png)
+
+
 ### 4.7.2. Class Dictionary.
 
 ### Class purchase_request_providers
