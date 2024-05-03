@@ -2106,9 +2106,100 @@ El equipo construyó la página de aterrizaje utilizando ramas para cada caracte
     <tr>
         <td>front-end</td>
         <td>feature/login-view</td>
-        <td>e82ed3c9272c73e413d24a0228ad5931726837bf</td>
-        <td>feat(access-vue): created access view.</td>
+        <td>f18ada8cc3fc54f72f6c47eaeeb54b91dab04d50</td>
+        <td>feat(register-view): added register component</td>
         <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/page-routing</td>
+        <td>2c232f7bf404cc7c9bab96ba78f40d6812b064d5</td>
+        <td>feat(toolbar): added toolbar and language switcher.</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/page-routing</td>
+        <td>9fbd248281fb7888cce1fa51b0adb7e57925cd83</td>
+        <td>feat(reports): done created reports.</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/page-routing</td>
+        <td>fb74ecf91c076329bc745c33472d3f771fdb1441</td>
+        <td>feat(reports): created base charts</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/page-routing</td>
+        <td>2d24326cc1054bb953766e0806a576374eb19ee4</td>
+        <td>feat(reports): created reports view.</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/page-routing</td>
+        <td>20bcbec0e2fc0d5a9830c2225b97fb68c97501da</td>
+        <td>feat(chart): import prime chart</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/supply</td>
+        <td>4fed9ec72546aa872b9bda015f787c5170db6b89</td>
+        <td>fix(supplies): fixed paginator and button, not updating information</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/supply</td>
+        <td>d9b7d7e7d091ef4bdde05cf9a647aa6e0290ae86</td>
+        <td>feat: Supply management and edits corrected</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/supply</td>
+        <td>b61f501cafda11472618336d8846ab78a5741db2</td>
+        <td>feat: Url added and management corrected</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/supply</td>
+        <td>6075c6095ae5f14d03c392ac93443f2fffbe6949</td>
+        <td>feat: Supply reworked</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/supply</td>
+        <td>324a8c7a021f6f0a8b2e235a8dc1eff8d9a363aa</td>
+        <td>feat: supply entity corrected, added create-and-edit, and data-manager components</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/supply</td>
+        <td>10bb9a2f537dc7455ba7abc945b1c48fd5e97414</td>
+        <td>feat: supply item manager, create, edit and delete components created</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/supply</td>
+        <td>6b795688b13bcb3df0be33a64295f02b6b06d730</td>
+        <td>feat: supply entity and api created</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>front-end</td>
+        <td>feature/supply</td>
+        <td>aeebb63513efdaf62880801b6c868cf1d7460b62</td>
+        <td>feat: entity created</td>
+        <td>02/05/2024</td>
     </tr>
     </tbody>
 </table>
