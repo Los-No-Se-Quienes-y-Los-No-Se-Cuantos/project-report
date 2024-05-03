@@ -1097,27 +1097,64 @@ Segmento 1:
 
 | #Orden | User Story ID | Título | Descripción | Story Points |
 | ----- | ------------- | ------ | ----------- | ------------ |
-| 1 | HU01 | Actualizar las habitaciones disponibles | Como gerente quiero un sistema que automáticamente cambie el estado de los dormitorios dependiendo si alguien la reservó o no para mantener actualizado su estado. | 8 |
-| 2 | HU02 | Asignar tareas a empleados | Como gerente, quiero poder asignar tareas a los empleados para distribuir eficientemente las responsabilidades y mejorar la productividad. | 8 |
+| 1 | HU01 | Actualizar las habitaciones disponibles | Como gerente quiero un sistema que automáticamente cambie el estado de los dormitorios dependiendo si alguien la reservó o no para mantener actualizado su estado. | 3 |
+| 2 | HU02 | Asignar tareas a empleados | Como gerente, quiero poder asignar tareas a los empleados para distribuir eficientemente las responsabilidades y mejorar la productividad. | 3 |
 | 3 | HU03 | Recibir notificaciones de baja en el inventario | Como gerente, quiero recibir notificaciones de baja en el inventario para tomar medidas rápidas en caso de escasez de suministros. | 5 |
-| 4 | HU04 | Visualizar la ocupación de habitaciones en tiempo real | Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real para gestionar eficazmente la disponibilidad y asignación de habitaciones. | 8 |
+| 4 | HU04 | Visualizar la ocupación de habitaciones en tiempo real | Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real para gestionar eficazmente la disponibilidad y asignación de habitaciones. | 5 |
 | 5 | HU05 | Recibir alertas de mantenimiento programado | Como gerente, quiero recibir alertas de mantenimiento programado para garantizar que el mantenimiento se realice de manera oportuna y evitar problemas inesperados. | 5 |
-| 6 | HU06 | Administrar permisos de los empleados | Como gerente, deseo gestionar el acceso y permisos de los empleados para garantizar la seguridad y la privacidad de la información del negocio. | 8 |
+| 6 | HU06 | Administrar permisos de los empleados | Como gerente, deseo gestionar el acceso y permisos de los empleados para garantizar la seguridad y la privacidad de la información del negocio. | 3 |
 | 7 | HU07 | Programar turnos de trabajo | Como gerente, deseo programar turnos de trabajo automáticamente para optimizar la asignación de personal y evitar conflictos de horarios. | 2 |
 | 8 | HU08 | Realizar seguimiento de gastos | Como gerente, deseo poder realizar seguimiento de gastos implementados para controlar los costos y optimizar la rentabilidad del negocio. | 5 |
 | 9 | HU09 | Gestionar servicios adicionales | Como gerente, deseo gestionar la disponibilidad de servicios adicionales para ofrecer una experiencia personalizada y maximizar la satisfacción del cliente. | 3 |
-| 10 | HU10 | Notificaciones de comentarios | Como gerente, deseo recibir notificaciones de comentarios y opiniones de clientes para responder rápidamente a las necesidades y preocupaciones de los clientes. | 2 |
-| 11 | HU11 | Crear promociones | Como gerente, deseo poder crear promociones y ofertas especiales para atraer a más clientes y aumentar las ventas. | 5 |
-| 12 | HU12 | Registro de proveedores | Como gerente, deseo mantener un registro de los proveedores para gestionar eficientemente las relaciones comerciales y los suministros. | 5 |
-| 13 | HU13 | Seguimiento del cliente | Como gerente, deseo poder realizar seguimiento de la satisfacción del cliente para identificar áreas de mejora y garantizar una experiencia de calidad. | 5 |
+| 10 | HU10 | Notificaciones de comentarios | Como gerente, deseo recibir notificaciones de comentarios y opiniones de clientes para responder rápidamente a las necesidades y preocupaciones de los clientes. | 5 |
+| 11 | HU11 | Crear promociones | Como gerente, deseo poder crear promociones y ofertas especiales para atraer a más clientes y aumentar las ventas. | 3 |
+| 12 | HU12 | Registro de proveedores | Como gerente, deseo mantener un registro de los proveedores para gestionar eficientemente las relaciones comerciales y los suministros. | 2 |
+| 13 | HU13 | Seguimiento del cliente | Como gerente, deseo poder realizar seguimiento de la satisfacción del cliente para identificar áreas de mejora y garantizar una experiencia de calidad. | 3 |
 | 14 | HU14 | Administrar facturas de servicios | Como gerente, deseo poder generar facturas para los servicios adicionales para facturar los servicios adicionales proporcionados a los clientes y registrar los ingresos correspondientes. | 5 |
-| 15 | HU15 | Notificaciones de cambio de agenda | Como empleado, deseo recibir notificaciones de cambios en mi agenda laboral para estar al tanto de los cambios en mi horario de trabajo y planificar en consecuencia. | 8 |
-| 16 | HU16 | Estado de las habitaciones | Como empleado, deseo poder registrar el estado de limpieza de las habitaciones para mantener actualizado el mismo. | 8 |
-| 17 | HU17 | Información de procedimientos según el caso | Como empleado, deseo poder acceder a manuales de procedimientos para saber cómo actuar dependiendo del caso que se presente. | 5 |
+| 15 | HU15 | Notificaciones de cambio de agenda | Como empleado, deseo recibir notificaciones de cambios en mi agenda laboral para estar al tanto de los cambios en mi horario de trabajo y planificar en consecuencia. | 3 |
+| 16 | HU16 | Estado de las habitaciones | Como empleado, deseo poder registrar el estado de limpieza de las habitaciones para mantener actualizado el mismo. | 3 |
+| 17 | HU17 | Información de procedimientos según el caso | Como empleado, deseo poder acceder a manuales de procedimientos para saber cómo actuar dependiendo del caso que se presente. | 2 |
 | 18 | HU18 | Registrar el estado de suministros | Como empleado, deseo poder registrar el estado de los suministros para mantener un control preciso del inventario | 2 |
-| 19 | HU19 | Reportar problemas a la gerencia | Como empleado, deseo poder reportar problemas para comunicar a los gerentes del problema. | 5 |
-| 20 | HU20 | Registrar el check-in del huésped. | Como empleado deseo registrar el check-in del huésped para registrar y confirmar su estadía en el hotel. | 5 |
-| 21 | HU21 | Registrar el check-out del huésped. | Como empleado deseo registrar el check-out del huésped para registrar y confirmar su salida del hotel. | 5 |
+| 19 | HU19 | Reportar problemas a la gerencia | Como empleado, deseo poder reportar problemas para comunicar a los gerentes del problema. | 3 |
+| 20 | HU20 | Registrar el check-in del huésped. | Como empleado deseo registrar el check-in del huésped para registrar y confirmar su estadía en el hotel. | 3 |
+| 21 | HU21 | Registrar el check-out del huésped. | Como empleado deseo registrar el check-out del huésped para registrar y confirmar su salida del hotel. | 3 |
+| 22 | HU22 | Organizar carpetas por bounded context. | Como developer deseo organizar el negocio en bounded context  para mejorar la organización del código del Front-End Application. | 1 |
+| 23 | HU23 | Instalar módulos y materiales. | Como developer deseo instalar material de trabajo para ejecutar correctamente el proyecto de Front-End Application. | 1 |
+| 24 | HU24 | Crear clases representativas en cada bounded context. | Como developer deseo crear clases que representen usuarios o modelos de nuestro negocio para tener facilidad de uso mediante clases en Front-End Application. | 2 |
+| 25 | HU25 | Crear servicios en cada bounded context. | Como developer deseo crear clases que se comuniquen con una api para hacer llamadas a endpoints y recuperar, editar o crear información en Front-End Application.  | 3 |
+| 26 | HU26 | Crear componentes en cada bounded context. | Como developer deseo crear componentes dentro de bounded context para tener organizado los componentes para las vistas de Front-End Application. | 3 |
+| 27 | HU27 | Barra de navegación de Landing Page. | Como usuario deseo navegar fácilmente en una página mediante barra de navegación para acceder a la información de la aplicación fácilmente. | 2 |
+| 28 | HU28 | Visualización de las redes sociales en sección footer en la Landing Page. | Como usuario deseo visualizar la sección de footer para tener el contacto y las redes sociales de Sweet Manager. | 2 |
+| 29 | HU29 | Visualización de sección “Conoce Más” en la Landing Page. | Como usuario deseo una sección “Conoce Más” para visualizar los servicios que ofrece Sweet Manager. | 2 |
+| 30 | HU30 | Visualización de sección “Beneficios” en la Landing Page. | Como usuario deseo una sección “beneficios” para conocer distintas características que aseguran beneficios. | 2 |
+| 31 | HU31 | Sección Hero en la Landing Page. | Como usuario deseo una sección hero para tener una idea de lo que ofrece la aplicación. | 2 |
+| 32 | HU32 | Sección “planes” en la Landing Page. | Como usuario deseo una sección “planes” para conocer los planes que ofrece la aplicación y sus características. | 2 |
+| 33 | HU33 | Web Design Responsive para Landing Page. | Como usuario deseo responsive el diseño de la landing page para no tener complicaciones de ver la información en ningún dispositivo. | 3 |
+| 34 | HU34 | Autenticación por Roles en Backend API. | Como developer deseo implementar autenticación por roles para restringir los endpoints y organizar los recursos. | 3 |
+| 35 | HU35 | Inicio de sesión con Backend API. | Como developer deseo implementar inicio de sesión mediante API para validar la información recibida y permitir acceso al servicio. | 3 |
+| 36 | HU36 | Pago para suscribirse al servicio con Backend API. | Como developer deseo integrar la funcionalidad de pago mediante Paypal para asegurar la suscripción del consumidor bajo máxima seguridad. | 5 |
+| 37 | HU37 | Registro de organización con Backend API. | Como empleado deseo registrar el check-out del huésped para registrar y confirmar su salida del hotel. | 3 |
+| 38 | HU38 | Pago para realizar Check-Out con Backend API | Como developer deseo integrar pago con Paypal para realizar checkout del hotel. | 5 |
+| 39 | HU39 | Mostrar información de Perfil con Backend API. | Como developer deseo integrar endpoint para devolver información de una organización en concreto. | 3 |
+| 40 | HU40 | Mostrar información de trabajadores con Backend API. | Como developer deseo integrar endpoint para devolver información de todos los trabajadores de una organización. | 3 |
+| 41 | HU41 | Mostrar notificaciones con Backend API. | Como developer deseo integrar endpoint para devolver lista de notificaciones de un usuario. | 3 |
+| 42 | HU42 | Mostrar proveedores con Backend API. | Como developer deseo integrar endpoint para devolver lista de proveedores para contactar. | 2 |
+| 43 | HU43 | Mostrar detalles de recursos con Backend API. | Como developer deseo integrar endpoint para devolver en detalle todos los recursos disponibles de la organización. | 5 |
+| 44 | HU44 | Mostrar ganancias y pérdidas dentro de un lapso de tiempo con Backend API. | Como developer deseo integrar endpoint para  devolver ganancias y pérdidas dentro de un lapso de tiempo. | 5 |
+| 45 | HU45 | Mostrar lista de clientes con Backend API. | Como developer deseo integrar endpoint para devolver lista de clientes. | 3 |
+| 46 | HU46 | Funcionalidad para Check In con Backend API. | Como developer deseo integrar endpoint para procesar ocupación de habitación y actualizar estado. | 3 |
+| 47 | HU47 | Funcionalidad para CRUD en cualquier entidad con Backend API. | Como developer deseo integrar endpoints para realizar CRUD con cualquier entidad. | 3 |
+| 48 | HU48 | Como developer, deseo obtener información de perfil mediante Restful API para devolver información de una organización en concreto. | 2 |
+| 49 | HU49 | Información de trabajadores con Restful API. | Como developer deseo obtener la información de trabajadores mediante Restful API para mostrar o manipular la información en operaciones. | 2 |
+| 50 | HU50 | Notificaciones con Restful API. | Como developer deseo obtener lista de notificaciones mediante Restful API para mostrar las notificaciones. | 2 |
+| 51 | HU51 | Lista de Proveedores con Restful API. | Como developer deseo recuperar información de proveedores mediante Restful API para devolver lista de proveedores de cierta compañía. | 2 |
+| 52 | HU52 | Detalle de recursos con Restful API. | Como developer deseo obtener detalle de recursos mediante Restful API para mostrar el detalle de recursos en pantalla. | 3 |
+| 53 | HU53 | Ganancias y pérdidas de dinero dentro de un lapso de tiempo con Restful API. | Como developer deseo recibir información de ganancias y pérdidas dependiendo de cualquier lapso de tiempo para implementarlo en algún módulo. | 3 |
+| 54 | HU54 | Lista de clientes con Restful API. | Como developer deseo recibir una lista de clientes mediante Restful API para mostrar o manipular la información. | 2 |
+| 55 | HU55 | Funcionalidad para Check In con Restful API. | Como developer deseo obtener información de las habitaciones mediante Restful API para procesar ocupación de habitación y actualizar estado. | 2 |
+| 56 | HU56 | Lista de Productos con Restful API. | Como developer,
+deseo obtener lista de productos dependiendo de la organización mediante Restful API para mostrar o manipular la información. | 2 |
+| 57 | HU57 | Pedido de Abastecimiento mediante Restful API. | Como developer, deseo realizar pedido de abastecimiento mediante Restful API para procesar correctamente el pedido en una operación. | 3 |
 
 
 # Capítulo IV: Product Design
