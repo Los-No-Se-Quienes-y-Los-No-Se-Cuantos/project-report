@@ -762,10 +762,10 @@ Edad: 45<br>
 Sexo: Masculino<br>
 Ocupación: Gerente de hotel<br>
 Lugar donde vive: Pueblo Libre, Lima<br>
-Duración de la entrevista: 0:00 - 12:15<br>
-Personalidad: Analítica<br><br>
+Duración de la entrevista: 0:37 - 12:15<br>
+Personalidad: Analítica<br>
 ![Imagen de entrevista](https://i.imgur.com/039MGwN.png)<br>  
-En resumen, Carlo Rebagliati es un gerente de hotel con un largo camino de experiencia. Él es una persona analítica que le importan las estadísticas y los beneficios y consecuencias de cada decisión. Nos relata que los principales desafíos que tiene su hotel es el llamado a los turistas desde provincia, ya que la mayoría de clientela que tiene son turistas. Afortunadamente, está manteniendo a sus trabajadores motivados para que las bajas ventas por temporadas no afecte su rendimiento. Adicionalmente, mencionó que tienen una plataforma web donde los clientes realizan sus reservas, también tienen un área contable y administrativa para el seguimiento de ganancia y recursos. Finalmente, cree necesario una aplicación o software que se concentre en la gestión de un hotel, tanto para la comunicación, administración, gestión y seguimiento de recursos.
+En resumen, Carlo Rebagliati es un gerente de hotel con un largo camino de experiencia. Él es una persona analítica, comunicativa, empática y profesional que le importan las estadísticas y los beneficios y consecuencias de cada decisión. Nos relata que sus canales de comunicación preferidos son Whatssap, Zoom y cara a cara; adicionalmente, su navegador más frecuente es Google Chrome y usa Smartphone Android. Los principales desafíos que tiene su hotel es el llamado a los turistas desde provincia, ya que la mayoría de la clientela que tiene son turistas. Afortunadamente, está manteniendo a sus trabajadores motivados para que las bajas ventas por temporadas no afecte su rendimiento. Adicionalmente, mencionó que tienen una plataforma web donde los clientes realizan sus reservas, también tienen un área contable y administrativa para el seguimiento de ganancia y recursos. Finalmente, cree necesario una aplicación o software que se concentre en la gestión de un hotel, tanto para la comunicación, administración, gestión y seguimiento de recursos.
 
 **Entrevista 2 (Gerentes)**  
 Url del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211552_upc_edu_pe/EYGaGdpG5HhHq5_z_sVx1cYBJyn-N9QEdRzCr1QU6z8xLg?e=QBNPwA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D<br>
@@ -774,9 +774,8 @@ Edad: 22<br>
 Sexo: Masculino<br>
 Lugar donde vive: San Isidro, Lima<br>
 Ocupación: Gerente de hotel<br>
-Duración de la entrevista: 0:00 - 15:12<br>
-Personalidad: Analítica<br><br>
-
+Duración de la entrevista: 0:23 - 15:12<br>
+Personalidad: Analítica<br>
 ![Imagen de entrevista](https://i.imgur.com/4953oaZ.png)<br>  
 En resumen, Mathias Jave es un administrador de un hotel que tiene poca trayectoria en el mercado debido a que recién está iniciando con su negocio. En la presente entrevista nos comenta que ha usado software de un tercero para que le facilite la administración de áreas de su negocio. Sin embargo, dicho producto que tiene no satisface por completo las necesidades de administración para su negocio. En vista de dicha situación, se le realizó una serie de preguntas para determinar las implementaciones que necesita llegando a la conclusión que nuestro cliente necesita una aplicación que permita llevar una correcta gestión de productos, proveedores, trabajadores, ingresos y generación de reportes para llevar un control financiero del hotel.
 
@@ -787,23 +786,22 @@ Edad: 25<br>
 Sexo: Femenino<br>
 Lugar donde vive: La molina, Lima<br>
 Ocupación: Gerente de hotel<br>
-Duración de la entrevista: 0:00 - 11:45<br>
-Personalidad: Emotiva<br><br>
+Duración de la entrevista: 0:15 - 11:45<br>
+Personalidad: Emotiva<br>
 ![Imagen de entrevista](https://i.imgur.com/i7gbrkR.png)<br>  
 En resumen, Ariana Valdivia es una gerente de una cadena de hoteles Oasis con varios locales expandidos a lo largo del Perú. Ella se presenta como una persona analítica que le importa tomar buenas decisiones que mejoren su negocio. Nos cuenta que sus principales desafíos son contactar con los proveedores, es decir, tener organizada una lista de proveedores completa para poder contactarlos en el momento indicado, ya sea por falta de recursos o abastecimiento de inventarios. Adicionalmente, menciona que el inventario no lo tienen tan organizado como quisieran; por ello, afirma que sí es necesario un sistema de gestión hotelero que resuelva estas necesidades y complicaciones.
 
 **Entrevista 1 (Empleados)**  
 URL del vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/ETU-GTTcCWBHu-Forxxl_qMBQVx9cQeIX8FuBhpot4CrAA?e=djbgfP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D<br>
-Nombre: Juan Guarnizo
+Nombre: Juan Guarnizo<br>
 Edad: 22<br>
 Sexo: Masculino<br>
 Lugar donde Vive: Breña, Lima<br>
 Ocupación: Trabajador de hotel<br>
-Duración de la entrevista: 0:00 -  6:29<br>
-Personalidad: Analítica<br><br>
-![Imagen de entrevista](https://i.imgur.com/eMRHwnn.png)<br>
-<br>En resumen, Juan Guarnizo es un trabajador del Hotel Los Delfines con un amateur camino de experiencia. Se presenta como una persona analítica que busca siempre salir beneficiado de las decisiones. Nos relata que los principales desafíos o complejidades al trabajar en los hoteles es la administración y actividades sencillas pero repetitivas; adicionalmente, nos cuenta que la mejor solución ante ello es la automatización de los procesos repetitivos fáciles de hacer como control  de inventario y reservas en línea. Finalmente, sí considera vital la creación de un sistema de gestión hotelero que ayude con estas tareas y organización del hotel.
-
+Duración de la entrevista: 0:22 -  6:29<br>
+Personalidad: Analítica<br>
+![Imagen de entrevista](https://i.imgur.com/eMRHwnn.png)
+<br>En resumen, Juan Guarnizo es un trabajador del Hotel Los Delfines con un amateur camino de experiencia. Se presenta como una persona analítica, empática y profesional que busca siempre salir beneficiado de las decisiones. Nos relata que sus canales de comunicación preferidos son cara a cara, WhatsApp y llamadas telefónicas. Adicionalmente, nos menciona que Google Chrome es su navegador frecuente y usa computadora Windows como dispositivo; también menciona los principales desafíos o complejidades al trabajar en los hoteles son la administración y actividades sencillas pero repetitivas. Nos cuenta que la mejor solución ante ello es la automatización de los procesos repetitivos fáciles de hacer como control  de inventario y reservas en línea. Finalmente, sí considera vital la creación de un sistema de gestión hotelero que ayude con estas tareas y organización del hotel.
 **Entrevista 2 (Empleados)**  
 URL del vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211168_upc_edu_pe/EY3l0wTWNupPiBuj2RA_jJMB_qWqdZjiGuhupuv2zcuPZQ?e=zdua3v&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D<br>
 Nombre:  Maricarmen Tejada<br>
@@ -811,9 +809,9 @@ Edad: 58<br>
 Sexo: Femenino<br>
 Lugar donde Vive: Callao, Lima<br>
 Ocupación: Trabajadora de hotel<br>
-Duración de la entrevista: 0:00 - 4:07<br>
-Personalidad: Emotiva<br><br>
-![Imagen de entrevista](https://i.imgur.com/9cIxfhz.png)<br>
+Duración de la entrevista: 0:41 - 4:07<br>
+Personalidad: Emotiva<br>
+![Imagen de entrevista](https://i.imgur.com/9cIxfhz.png)
 <br>En resumen, Mariacarmen Tejada es una empleada del hotel con experiencia en gestión y operaciones diarias. Destaca que sus tareas más difíciles son la limpieza de los baños y la cocina, así como la dificultad para mantener el stock de utensilios de limpieza y cocina. Está abierta a la posibilidad de nuevas tecnologías para mejorar la eficiencia laboral y la experiencia del cliente, especialmente a través de sistemas de gestión hotelera más avanzados. Además, promueve una comunicación más directa con la administración para mejorar la eficiencia y la colaboración del equipo. También, la implementación de sistemas de registro en línea y dispositivos móviles para simplificar el proceso de registro y check-in/check-out de los huéspedes. Por último, destaca la necesidad de herramientas adicionales, como sistemas de seguimiento de solicitudes de huéspedes y acceso a información local para mejorar la experiencia general en el hotel.
 
 **Entrevista 3 (Empleados)**  
@@ -823,9 +821,9 @@ Edad: 21<br>
 Sexo: Femenino<br>
 Lugar donde vive: Cuzco<br>
 Ocupación: Trabajadora de hotel<br>
-Duración de la entrevista: 0:00 - 8:43<br>
-Personalidad: Emotiva<br><br>
-![Imagen de entrevista](https://i.imgur.com/uBryHxg.png)<br>
+Duración de la entrevista: 0:34 - 8:43<br>
+Personalidad: Emotiva<br>
+![Imagen de entrevista](https://i.imgur.com/uBryHxg.png)
 <br>En resumen, Catalina Bustamante, quien trabaja en el Hotel Royal Inca en Cuzco, menciona que las tareas más desafiantes incluyen la limpieza y mantener el orden debido a la constante afluencia de huéspedes. Destaca también la dificultad en la gestión de check-in y check-out, especialmente con horarios variados de llegada y salida. Identifica la falta de comunicación eficiente entre departamentos como un obstáculo para resolver problemas de manera efectiva.
 Propone mejoras en el sistema de gestión hotelera para facilitar la comunicación y el acceso a la información entre el personal. Además comentó una capacitación continua para mejorar las habilidades del equipo. Sugiere la automatización de procesos de registro de huéspedes para ahorrar tiempo y evitar errores, así como la implementación de herramientas adicionales, como sistemas de seguimiento de solicitudes de huéspedes, para mejorar la experiencia general en el hotel.
 
@@ -853,14 +851,15 @@ Para tener una mejor idea de cómo será la experiencia del usuario con nuestro 
 Estas fichas de User Persona se basan en el análisis de entrevistas y en el estudio de la competencia, permitiéndonos crear representaciones detalladas y realistas de nuestros usuarios objetivo. Al desarrollar User Personas, estamos buscando comprender las principales características, necesidades y comportamientos de nuestros usuarios finales como sus objetivos, personalidad, tecnologías preferidas y canales de comunicación preferidos. Estas representaciones nos ayudan a humanizar y visualizar a nuestros usuarios, lo que a su vez guiará el diseño de productos y servicios que satisfagan sus demandas y expectativas.
 
 **Segmento de gerentes:**  
-![Imagen User Persona 1](https://i.imgur.com/68GDcWN.png)
+![Imagen User Persona 1](https://i.imgur.com/cjvPfHD.jpeg)
 
 **Segmento de trabajadores:**  
-![Imagen User Persona 1](https://i.imgur.com/R5GiS1R.png)
+![Imagen User Persona 1](https://i.imgur.com/tFC0MXB.jpeg)
 
 ### 2.3.2. User Task Matrix.
 
-| Tarea                                           | Carlos Rebagliati - Gerente (Frecuencia / Importancia)| Juan Guarnizo - Empleado (Frecuencia / Importancia)|
+
+| Task                                           | Carlos Rebagliati - Gerente (Frecuencia / Importancia)| Juan Guarnizo - Empleado (Frecuencia / Importancia)|
 |-------------------------------------------------|-----------------------------|---------------------------|
 | Supervisión del staff                           | Alta / Alta                 | Media / Alta              |
 | Programación de limpieza a las habitaciones     | Media / Media               | Alta / Alta               |
@@ -882,7 +881,7 @@ Estas fichas de User Persona se basan en el análisis de entrevistas y en el est
 | Respuesta a preguntas y solicitudes de los huéspedes, tanto en persona como por teléfono. | Baja / Baja | Media / Alta |
 | Establecimiento de principios normativos | Alta / Alta | Baja / Media |
 
-<br>Tareas con mayor frecuencia e importancia:<br>
+Tareas con mayor frecuencia e importancia:<br>
 
 Supervisión del staff: Esta tarea es crucial tanto para el gerente como para el trabajador, ya que garantiza que todas las funciones y roles asignados se cumplan de manera organizada, eficiente y correcta.<br>
 
@@ -892,11 +891,11 @@ Evaluación de desempeño del staff: Tanto el gerente como el empleado realizan 
 
 Cumplimiento normativo: Esta tarea es de alta importancia para el gerente, ya que garantiza tanto para el trabajador como para el gerente de hotel, el cumplimiento normativo implica seguir los procedimientos y políticas establecidos, así como garantizar que todas las actividades se realicen de acuerdo con las normativas y regulaciones aplicables en la industria hotelera.
 
-Programar turnos de trabajo: La programación de turnos de trabajo implica coordinar las necesidades del hotel con la disponibilidad del personal para asegurar un funcionamiento eficiente y efectivo del hotel. Tanto los trabajadores como los gerentes de hotel juegan un papel importante en este proceso, cada uno con diferentes niveles de responsabilidad y autoridad.
+Programacion turnos de trabajo: La programación de turnos de trabajo implica coordinar las necesidades del hotel con la disponibilidad del personal para asegurar un funcionamiento eficiente y efectivo del hotel. Tanto los trabajadores como los gerentes de hotel juegan un papel importante en este proceso, cada uno con diferentes niveles de responsabilidad y autoridad.
 
 Capacitación del staff: La capacitación del personal es fundamental tanto para los trabajadores como para los gerentes de hotel para garantizar que el personal esté bien preparado y tenga las habilidades necesarias para brindar un servicio de calidad a los huéspedes y contribuir al éxito general del hotel.<br>
 
-Registrar el check-in y el check-out del huésped: Estas tareas son cruciales para ambos segmentos, ya que permite llevar un control de los huéspedes y asignaciones de habitaciones de tal manera que se facilite la limpieza, mantenimiento en la habitación, distribución y/o asignación de nuevos recursos.
+Control el check-in y el check-out del huésped: Estas tareas son cruciales para ambos segmentos, ya que permite llevar un control de los huéspedes y asignaciones de habitaciones de tal manera que se facilite la limpieza, mantenimiento en la habitación, distribución y/o asignación de nuevos recursos.
 
 Principales diferencias y coincidencias entre lo realizado por los User Personas:<br>
 
@@ -966,6 +965,39 @@ En resumen, Juan Perez (User Persona) del segmento trabajadores, realiza los esc
 
 Check - In :
 Definition: Process by which a guest registers their arrival at the hotel, provides the necessary information and receives the key to their room.<br>
+
+Check - Out:
+Definition: Process by which a guest completes their stay at the hotel, makes final payment, and returns the room key.<br>
+
+Role:
+Definition: Worker role to a specific area.<br>
+
+Staff:
+Definition: They represent all hotel workers. They perform various tasks and responsibilities needed for the organization to operate.<br>
+
+Reservation:
+Definition: Booking of a room by a guest.<br>
+
+Occupancy:
+Definition: The percentage of rooms occupied in the hotel over a specified period of time.<br>
+
+Rate:
+Definition: The price per night for a room.<br>
+
+House Rules:
+Definition: Policies and regulations of the hotel that guests are required to follow.<br>
+
+Housekeeping:
+Definition: The department responsible for cleaning and maintaining the rooms.<br>
+
+Inventory management:
+Definition: The process of overseeing and controlling the hotel's supply of goods and materials, ensuring that adequate stock levels are maintained while minimizing costs and waste.<br>
+
+Asset tracking:
+Definition: The practice of monitoring and managing the hotel's physical assets, such as furniture, equipment, and fixtures, to ensure they are utilized efficiently and maintained properly.<br>
+
+Task management:
+Definition: The organization and tracking of tasks and responsibilities within the hotel, ensuring that deadlines are met and workflows are optimized.
 
 Check - Out:
 Definition: Process by which a guest completes their stay at the hotel, makes final payment, and returns the room key.<br>
