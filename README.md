@@ -2006,6 +2006,8 @@ El equipo construyó la página de aterrizaje utilizando ramas para cada caracte
 </table>
 
 #### 5.2.2.2. Sprint Backlog 2
+![](https://i.imgur.com/aLLTSkF.jpeg)
+
 #### 5.2.2.3. Development Evidence for Sprint Review
 <table>
     <thead>
