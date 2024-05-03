@@ -2205,8 +2205,27 @@ El link del Front-End Application es el siguiente: https://sweet-manager.netlify
 En este sprint se cumplió el objetivo de desarrollar la Front-End Applications; sin embargo, al ser Front-End Applications no requiere de documentación relacionada a Web Services.
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+En este sprint, se completó el desarrollo del Front-End Application y se utilizó un conjunto de herramientas para su despliegue:
+
+- Git: Utilizado como sistema de control de versiones para facilitar el trabajo en equipo durante el desarrollo del landing page.
+- GitFlow: Implementado como flujo de trabajo para gestionar el progreso individual de cada miembro del equipo en el desarrollo del landing page.
+- GitHub: Empleado como plataforma colaborativa para almacenar las versiones del proyecto y facilitar el desarrollo conjunto del equipo.
+- Netlify: Utilizado como plataforma para automatizar la hospedaje y despliegue del landing page, especialmente diseñada para sitios web estáticos.
+
+![]()
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
+Las siguientes capturas se sacaron del repositorio front-end de la Organización Github: https://github.com/Los-No-Se-Quienes-y-Los-No-Se-Cuantos/sweetmanager-frontend
+
+
+
+![](https://i.imgur.com/HlZsVZX.jpeg)
+Representa la cantidad ded commits hechos en los ultimos dias. 
+
+![](https://i.imgur.com/KFWrIvt.jpeg)
+Representa el network de los commits del repositorio Front-End Application.
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
