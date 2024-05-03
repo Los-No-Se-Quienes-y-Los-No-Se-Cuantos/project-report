@@ -512,27 +512,27 @@ Segmento 1:
 
 | #Orden | User Story ID | Título | Descripción | Story Points |
 | ----- | ------------- | ------ | ----------- | ------------ |
-| 1 | HU01 | Actualizar las habitaciones disponibles | Como gerente quiero un sistema que automáticamente cambie el estado de los dormitorios dependiendo si alguien la reservó o no para mantener actualizado su estado. | 3 |
-| 2 | HU02 | Asignar tareas a empleados | Como gerente, quiero poder asignar tareas a los empleados para distribuir eficientemente las responsabilidades y mejorar la productividad. | 3 |
-| 3 | HU03 | Recibir notificaciones de baja en el inventario | Como gerente, quiero recibir notificaciones de baja en el inventario para tomar medidas rápidas en caso de escasez de suministros. | 5 |
-| 4 | HU04 | Visualizar la ocupación de habitaciones en tiempo real | Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real para gestionar eficazmente la disponibilidad y asignación de habitaciones. | 5 |
-| 5 | HU05 | Recibir alertas de mantenimiento programado | Como gerente, quiero recibir alertas de mantenimiento programado para garantizar que el mantenimiento se realice de manera oportuna y evitar problemas inesperados. | 5 |
-| 6 | HU06 | Administrar permisos de los empleados | Como gerente, deseo gestionar el acceso y permisos de los empleados para garantizar la seguridad y la privacidad de la información del negocio. | 3 |
-| 7 | HU07 | Programar turnos de trabajo | Como gerente, deseo programar turnos de trabajo automáticamente para optimizar la asignación de personal y evitar conflictos de horarios. | 2 |
-| 8 | HU08 | Realizar seguimiento de gastos | Como gerente, deseo poder realizar seguimiento de gastos implementados para controlar los costos y optimizar la rentabilidad del negocio. | 5 |
-| 9 | HU09 | Gestionar servicios adicionales | Como gerente, deseo gestionar la disponibilidad de servicios adicionales para ofrecer una experiencia personalizada y maximizar la satisfacción del cliente. | 3 |
+| 1 | HU01 | Actualización de las habitaciones disponibles | Como gerente deseo un sistema que automáticamente cambie el estado de los dormitorios dependiendo si alguien la reservó o no para mantener actualizado su estado. | 3 |
+| 2 | HU02 | Asignamiento de tareas a empleados | Como gerente, deseo asignar tareas a los empleados para distribuir eficientemente las responsabilidades y mejorar la productividad. | 3 |
+| 3 | HU03 | Notificaciones de baja en el inventario | Como gerente, deseo recibir notificaciones de baja en el inventario para tomar medidas rápidas en caso de escasez de suministros. | 5 |
+| 4 | HU04 | Ocupación de habitaciones en tiempo real | Como gerente, deseo visualizar la ocupación de habitaciones en tiempo real para gestionar eficazmente la disponibilidad y asignación de habitaciones. | 5 |
+| 5 | HU05 | Alertas de mantenimiento programado | Como gerente, deseo recibir alertas de mantenimiento programado para garantizar que el mantenimiento se realice de manera oportuna y evitar problemas inesperados. | 5 |
+| 6 | HU06 | Administración de  permisos de los empleados | Como gerente, deseo gestionar el acceso y permisos de los empleados para garantizar la seguridad y la privacidad de la información del negocio. | 3 |
+| 7 | HU07 | Programación de turnos de trabajo | Como gerente, deseo programar turnos de trabajo automáticamente para optimizar la asignación de personal y evitar conflictos de horarios. | 2 |
+| 8 | HU08 | Seguimiento de gastos | Como gerente, deseo poder realizar seguimiento de gastos implementados para controlar los costos y optimizar la rentabilidad del negocio. | 5 |
+| 9 | HU09 | Gestión de  servicios adicionales | Como gerente, deseo gestionar la disponibilidad de servicios adicionales para ofrecer una experiencia personalizada y maximizar la satisfacción del cliente. | 3 |
 | 10 | HU10 | Notificaciones de comentarios | Como gerente, deseo recibir notificaciones de comentarios y opiniones de clientes para responder rápidamente a las necesidades y preocupaciones de los clientes. | 5 |
-| 11 | HU11 | Crear promociones | Como gerente, deseo poder crear promociones y ofertas especiales para atraer a más clientes y aumentar las ventas. | 3 |
+| 11 | HU11 | Creación de  promociones | Como gerente, deseo poder crear promociones y ofertas especiales para atraer a más clientes y aumentar las ventas. | 3 |
 | 12 | HU12 | Registro de proveedores | Como gerente, deseo mantener un registro de los proveedores para gestionar eficientemente las relaciones comerciales y los suministros. | 2 |
 | 13 | HU13 | Seguimiento del cliente | Como gerente, deseo poder realizar seguimiento de la satisfacción del cliente para identificar áreas de mejora y garantizar una experiencia de calidad. | 3 |
-| 14 | HU14 | Administrar facturas de servicios | Como gerente, deseo poder generar facturas para los servicios adicionales para facturar los servicios adicionales proporcionados a los clientes y registrar los ingresos correspondientes. | 5 |
+| 14 | HU14 | Administración de facturas de servicios | Como gerente, deseo poder generar facturas para los servicios adicionales para facturar los servicios adicionales proporcionados a los clientes y registrar los ingresos correspondientes. | 5 |
 | 15 | HU15 | Notificaciones de cambio de agenda | Como empleado, deseo recibir notificaciones de cambios en mi agenda laboral para estar al tanto de los cambios en mi horario de trabajo y planificar en consecuencia. | 3 |
-| 16 | HU16 | Estado de las habitaciones | Como empleado, deseo poder registrar el estado de limpieza de las habitaciones para mantener actualizado el mismo. | 3 |
+| 16 | HU16 | Automatización de cambio de estado de las habitaciones | Como empleado, deseo registro automático de estado de limpieza de las habitaciones para tener actualizado el estado de limpieza de todas las habitaciones. | 3 |
 | 17 | HU17 | Información de procedimientos según el caso | Como empleado, deseo poder acceder a manuales de procedimientos para saber cómo actuar dependiendo del caso que se presente. | 2 |
-| 18 | HU18 | Registrar el estado de suministros | Como empleado, deseo poder registrar el estado de los suministros para mantener un control preciso del inventario | 2 |
-| 19 | HU19 | Reportar problemas a la gerencia | Como empleado, deseo poder reportar problemas para comunicar a los gerentes del problema. | 3 |
-| 20 | HU20 | Registrar el check-in del huésped. | Como empleado deseo registrar el check-in del huésped para registrar y confirmar su estadía en el hotel. | 3 |
-| 21 | HU21 | Registrar el check-out del huésped. | Como empleado deseo registrar el check-out del huésped para registrar y confirmar su salida del hotel. | 3 |
+| 18 | HU18 | Registro de estado de suministros | Como empleado, deseo poder registrar el estado de los suministros para mantener un control preciso del inventario. | 2 |
+| 19 | HU19 | Reporte de  problemas a la gerencia | Como empleado, deseo poder reportar problemas para comunicar a los gerentes del problema. | 3 |
+| 20 | HU20 | Registro de  check-in del huésped. | Como empleado deseo registrar el check-in del huésped para registrar y confirmar su estadía en el hotel. | 3 |
+| 21 | HU21 | Registro de check-out del huésped. | Como empleado deseo registrar el check-out del huésped para registrar y confirmar su salida del hotel. | 3 |
 | 22 | HU22 | Organizar carpetas por bounded context. | Como developer deseo organizar el negocio en bounded context  para mejorar la organización del código del Front-End Application. | 1 |
 | 23 | HU23 | Instalar módulos y materiales. | Como developer deseo instalar material de trabajo para ejecutar correctamente el proyecto de Front-End Application. | 1 |
 | 24 | HU24 | Crear clases representativas en cada bounded context. | Como developer deseo crear clases que representen usuarios o modelos de nuestro negocio para tener facilidad de uso mediante clases en Front-End Application. | 2 |
