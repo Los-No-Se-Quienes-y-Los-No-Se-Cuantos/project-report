@@ -1030,11 +1030,15 @@ Definition: The identification, assessment, and mitigation of risks when resourc
 
 Segmento 1:
 
-![segmento-1](assets/to-be-segmento-1.png)
+![segmento-1](https://i.imgur.com/1ezWSFr.jpeg)
 
-Segmento 1:
+El To-Be Scenario Mapping para el segmento Gerentes.
 
-![segmento-2](assets/to-be-segmento-2.png)
+Segmento 2:
+
+![segmento-2](https://i.imgur.com/pQxkAf5.jpeg)
+
+El To-Be Scenario Mapping para el segmento Trabajadores.
 
 ## 3.2. User Stories.
 
