@@ -1356,31 +1356,52 @@ Facilidad de Uso y Claridad: Se buscó que la navegación en la aplicación fuer
 
 ### 4.6.1. Software Architecture Context Diagram.
 
-1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
-   se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
+1.  ![Landing page mockup](https://i.imgur.com/HoiXnlc.png)
 
-2. Bounded Context Map: Muestra la relacion entre bounded contexts (los bounded context son como una burbuja que
-   encapsula palabras clave en los procesos para poder
-   diferenciarlos [Ej. Bounded context enfocado en las ventas(ventas), otro en revisar el stock(gestion) y otro enfocado en los proveedores (suministros)])
-   Se hace como un brainstorm y se ve en que pueden conectarse o
-   comunicarse [se usa un circulo entre conexiones lineales (upstream o downstream) para definir comunicacion, algunos context se pueden integrar para representar por ejemplo un share model por database, tambien se mencionan los (third party context para definir los restful apis)]
+
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
-1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's,
-   indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como
-   objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP)
+   ![Landing page mockup](https://i.imgur.com/nKB7rb1.png)
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
-1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del
-   aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
+
+
+   ![Landing page mockup](https://i.imgur.com/RYS7wb1.png)
+   ![Landing page mockup](https://i.imgur.com/SzqfByi.png)
+   ![Landing page mockup](https://i.imgur.com/3HzFUC8.png)
+   ![Landing page mockup](https://i.imgur.com/DZuNInk.png)
+   ![Landing page mockup](https://i.imgur.com/naHmn62.png)
+   ![Landing page mockup](https://i.imgur.com/fAeHSpo.png)
+   ![Landing page mockup](https://i.imgur.com/WdisOZO.png)
+   ![Landing page mockup](https://i.imgur.com/Zhu9OWH.png)
+ 
+ 
 
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
 
-![Landing page mockup](https://i.imgur.com/gdkVJ2m.png)
+![Landing page mockup](https://i.imgur.com/eoEQMks.png)
+
+![Landing page mockup](https://i.imgur.com/KCEdm15.png)
+<br>
+![Landing page mockup](https://i.imgur.com/8DeEUYZ.png)
+<br>
+![Landing page mockup](https://i.imgur.com/gWbrY5V.png)
+<br>
+![Landing page mockup](https://i.imgur.com/r84zhRb.png)
+<br>
+![Landing page mockup](https://i.imgur.com/DvUFgyq.png)
+<br>
+![Landing page mockup](https://i.imgur.com/UCSQqc6.png)
+<br>
+![Landing page mockup](https://i.imgur.com/4NHbGoY.png)
+<br>
+![Landing page mockup](https://i.imgur.com/zfadl05.png)
+<br>
+
 [Link en LucidChart] https://lucid.app/lucidchart/508e0d8a-92a2-4de3-8626-6b782938b13e/edit?beaconFlowId=47FEEC1E8EBED814&page=0_0&invitationId=inv_fc67e0b3-63d7-49e2-bbf1-50acd5491bd9
 
 
@@ -1650,6 +1671,22 @@ Facilidad de Uso y Claridad: Se buscó que la navegación en la aplicación fuer
 
 ![Landing page mockup](https://i.imgur.com/IOSQez5.jpeg)
 [Link en vertabelo] (https://my.vertabelo.com/public-model-view/y5cEtJOUeF1ZM1f5dcRPEs18CAgraR1tSS5dKVobixiEcaZPlqGyj7D1GBAxQo6L?x=1371&y=1603&zoom=0.2637)
+
+![Landing page mockup](https://i.imgur.com/Q0pcf0f.png)
+<br>
+![Landing page mockup](https://i.imgur.com/6dIXiXX.png)
+<br>
+![Landing page mockup](https://i.imgur.com/dAE1YKR.png)
+<br>
+![Landing page mockup](https://i.imgur.com/IYAlQoZ.png)
+<br>
+![Landing page mockup](https://i.imgur.com/WjemYVT.png)
+<br>
+![Landing page mockup](https://i.imgur.com/ykIemiU.png)
+<br>
+![Landing page mockup](https://i.imgur.com/Rmcj3Vz.png)
+<br>
+
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
