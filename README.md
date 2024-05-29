@@ -2602,13 +2602,3 @@ https://www.paradigmadigital.com/techbiz/domain-driven-design-y-arquitectura-oni
 
 Arquitectura DDD(Domain Driven Design). (2021, junio 21). Sergio Tapia. <br>
 https://sergiotapia.net/arquitectura-ddddomain-driven-design/
-
-
-# Anexos
-
-| Contenido | URL del Vídeo |
-|--------------|--------------|
-| Vídeo de Exposición TB1      | Link del Vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/EQteChIn4UVDlVx5Sc4PJWMBIr-9kjLxmjmIS_X4JlKSJA?e=3TsZIH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|  
-| VÍdeo de Exposición TP1      | Link del Vídeo: | 
-
-
