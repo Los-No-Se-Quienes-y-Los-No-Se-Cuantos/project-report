@@ -164,6 +164,58 @@
         </ul>
         </td>
     </tr>
+    <tr>
+        <td rowspan="1">TB2</td>
+        <td rowspan="1">29/05/2024</td>
+        <td>Mauricio Abraham Rivo Rojas Sánchez</td>
+        <td>
+        <ul>
+        <li> Sprint Backlog 3 </li>
+        <li> Sprint Planning 3 </li>
+        </ul>
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="1">TB2</td>
+        <td rowspan="1">29/05/2024</td>
+        <td>Aaron Elías Acuña Alarcon</td>
+        <td>
+        <ul>
+        <li> Execution Evidence For Sprint Review</li>
+        </ul>
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="1">TP1</td>
+        <td rowspan="1">29/05/2024</td>
+        <td> Leonardo Félix Linares Tejada</td>
+        <td>
+        <ul>
+        <li> Service Documentation Evidence for Sprint Review </li>
+        </ul>
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="1">TP1</td>
+        <td rowspan="1">29/05/2024</td>
+        <td>Piero Fernando Periche Quiroga</td>
+        <td>
+        <ul>
+        <li> Team Collaboration Insights during Sprint </li>
+        </ul>
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="1">TP1</td>
+        <td rowspan="1">29/05/2024</td>
+        <td>Alex Ramon Alberto Avila Asto</td>
+        <td>
+        <ul>
+        <li> Development Evidence for Sprint Review </li>
+        <li> Testing Suite Evidence for Sprint Review </li>
+        </ul>
+        </td>
+    </tr>
     </tbody>
 </table>
 
