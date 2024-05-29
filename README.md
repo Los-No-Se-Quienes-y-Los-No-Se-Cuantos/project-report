@@ -186,7 +186,7 @@
         </td>
     </tr>
     <tr>
-        <td rowspan="1">TP1</td>
+        <td rowspan="1">TB2</td>
         <td rowspan="1">29/05/2024</td>
         <td> Leonardo Félix Linares Tejada</td>
         <td>
@@ -196,7 +196,7 @@
         </td>
     </tr>
     <tr>
-        <td rowspan="1">TP1</td>
+        <td rowspan="1">TB2</td>
         <td rowspan="1">29/05/2024</td>
         <td>Piero Fernando Periche Quiroga</td>
         <td>
@@ -206,7 +206,7 @@
         </td>
     </tr>
     <tr>
-        <td rowspan="1">TP1</td>
+        <td rowspan="1">TB2</td>
         <td rowspan="1">29/05/2024</td>
         <td>Alex Ramon Alberto Avila Asto</td>
         <td>
