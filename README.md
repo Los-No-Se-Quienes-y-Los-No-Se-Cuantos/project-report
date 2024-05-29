@@ -346,6 +346,7 @@ Durante el desarrollo del informe se tuvieron en cuenta los siguientes aspeectos
 [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
 [5.2.2. Sprint 2](#522-sprint-2)
+<br>
 [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
 
 [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
