@@ -2487,24 +2487,30 @@ Representa el network de los commits del repositorio Front-End Application.
 
 **Preguntas generales:**
 
-1. ¿Cuál es su nombre?
-2. ¿Qué edad tiene?
-3. ¿A qué se dedica?
-4. ¿[Opinion de idea de propuesta]?
+1. ¿Qué opinión tiene sobre el diseño visual y la apariencia general de la aplicación en su estado actual?
+2. ¿La interfaz visual y el diseño de la aplicación reflejan adecuadamente la imagen y la marca de su hotel?
+3. ¿Hay algún aspecto del diseño visual que le gustaría que ajustemos o mejoremos antes de la implementación final?
+4. ¿qué impresiones iniciales tiene sobre la dirección en la que estamos llevando el proyecto?
+5. ¿Cómo se comparan los avances visuales con sus expectativas iniciales o lo que tenía en mente para el software?
 
-**Entrevistas usuario segmento 2**
+**Entrevistas usuario segmento Trabajadores de Hotel**
 
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?
+1. ¿Hay alguna característica o funcionalidad específica que haya visto en la demostración que le haya impresionado o que le gustaría explorar con más detalle?
+2. ¿Ha identificado áreas en las que cree que podríamos mejorar o ajustar nuestra dirección de desarrollo basándose en lo que ha visto hasta ahora?
+3. ¿Cómo cree que nuestro software podría ayudarle en sus tareas diarias como trabajador de hotel?
+4. ¿Qué aspectos específicos del software cree que podrían facilitarle su trabajo y mejorar la eficiencia en su área?
+5. ¿Ha notado alguna área particular en la que nuestro software podría hacer una diferencia significativa en la operación del hotel desde su perspectiva como empleado?
 
-**Entrevistas usuario segmento 2**
+**Entrevistas usuario segmento Gerentes de Hotel**
 
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?
+1. Desde su posición como gerente de hotel, ¿cómo cree que nuestro software podría impactar positivamente en la eficiencia operativa y la rentabilidad del negocio?
+2. ¿Qué métricas clave de desempeño o áreas de mejora espera que nuestro software aborde en su hotel?
+3. ¿Ha identificado alguna oportunidad de mejora en la gestión general del hotel que nuestro software podría ayudar a abordar?
+4. Después de ver los avances visuales en el desarrollo de nuestro software, ¿cómo cree que la interfaz de usuario podría facilitar la toma de decisiones y la gestión diaria del hotel desde su perspectiva?
+5. ¿Qué características del front-end cree que serán más útiles para usted en su rol como gerente?
+6. ¿Hay algún aspecto del diseño visual o la usabilidad que considera especialmente importante para garantizar que el software sea efectivo para la gestión del hotel?
+7. ¿Cómo cree que los avances visuales hasta ahora impactarán en la percepción de sus empleados y clientes sobre el software cuando esté completamente implementado?
+
 
 ### 5.3.2. Registro de Entrevistas.
 
