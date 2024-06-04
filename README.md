@@ -2518,11 +2518,15 @@ Ocupación: _____
 {texto mucho}
 
 **Segmento 2**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
+**Entrevista 1 (Empleados)**
+URL del vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211168_upc_edu_pe/Ef3bbPIBNMJFlXf-4sGLM0UBn3S-r1r6n2waA1e9z1aQLw?e=5kvTG7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D<br>
+Nombre: Maricarmen Tejada<br>
+Edad: 58 años<br>
+Ocupación: Trabajadora de Hotel<br>
+Duración de la Entrevista: 0:20 - 5:42<br>
+Personalidad: Emotiva<br>
+![](https://i.imgur.com/lfYZd7j.png)<br>
+En resumen, Maricarmen Tejada, empleada del hotel, considera que "Sweet Manager" tiene un diseño moderno e intuitivo que refleja adecuadamente una imagen profesional, aunque sugiere mejoras en la personalización y navegación. Destaca la funcionalidad de seguimiento de ingresos y gastos en tiempo real y el módulo de gestión de inventarios como características impresionantes. Recomienda una mayor integración con sistemas de gestión existentes y funciones avanzadas de análisis de datos. Maricarmen cree que el software puede simplificar tareas administrativas, permitiendo a los trabajadores centrarse más en la atención al cliente, y mejorar la eficiencia en la gestión financiera y de inventarios, reduciendo costos y mejorando la experiencia de los huéspedes.<br>
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
