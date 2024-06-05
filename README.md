@@ -2519,7 +2519,7 @@ Ocupación: _____
 {texto mucho}
 
 **Segmento 2**  
-**Entrevista 1 (Empleados)**
+**Entrevista 1 (Empleados)**<br>
 URL del vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211168_upc_edu_pe/EZcANjnXVHlBkLjr1GkKpVoByAPEdEnjJGy7eb-liJV3lw?e=Q9Fy4l&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D<br>
 Nombre: Maricarmen Tejada<br>
 Edad: 58 años<br>
