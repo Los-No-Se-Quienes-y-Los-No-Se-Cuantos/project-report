@@ -2528,7 +2528,7 @@ Representa el network de los commits del repositorio Front-End Application.
 
 #### 5.2.3.2. Sprint Backlog 3
 
-![](https://i.imgur.com/zJkChey.png)
+![](https://i.imgur.com/0rwOMR4.png)
 Sprint Backlog 3
 
 Link del trello: https://trello.com/invite/b/Mhe8mN9K/ATTI885419c49e4654f0ef95f5cd63d3770f494D60BB/sprint-2
