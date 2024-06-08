@@ -3135,7 +3135,7 @@ Sprint 3: En este entregable, hemos logrado desarrollar un Web Services Applicat
 El link localhost del Web Services Application es: http://localhost:8080
 
 ![](https://i.imgur.com/Y7oWz6d.jpeg)
-Alojamiento de API en Docker
+Alojamiento de API en Docker (Anexo 2)
 
 ![](https://i.imgur.com/AERUhvM.jpeg)
 Imagen publicada en DockerHub
@@ -3478,14 +3478,6 @@ https://www.paradigmadigital.com/techbiz/domain-driven-design-y-arquitectura-oni
 Arquitectura DDD(Domain Driven Design). (2021, junio 21). Sergio Tapia. <br>
 https://sergiotapia.net/arquitectura-ddddomain-driven-design/
 
-
-# Anexos
-
-| Contenido | URL del Vídeo |
-|--------------|--------------|
-| Vídeo de Exposición TB1      | Link del Vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/EQteChIn4UVDlVx5Sc4PJWMBIr-9kjLxmjmIS_X4JlKSJA?e=3TsZIH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|  
-| VÍdeo de Exposición TP1      | Link del Vídeo: | 
-
 de Javier, V. M. C. (s/f). DDD y arquitectura Onion, todo lo que necesitas saber. Paradigmadigital.com. Recuperado el 29 de abril de 2024 de <br>
 https://www.paradigmadigital.com/techbiz/domain-driven-design-y-arquitectura-onion/
 
@@ -3493,3 +3485,19 @@ https://www.paradigmadigital.com/techbiz/domain-driven-design-y-arquitectura-oni
 
 Arquitectura DDD(Domain Driven Design). (2021, junio 21). Sergio Tapia. <br>
 https://sergiotapia.net/arquitectura-ddddomain-driven-design/
+
+# Anexos
+
+### Vídeos de Exposición (Anexo 1)
+
+| Contenido | URL del Vídeo |
+|--------------|--------------|
+| Vídeo de Exposición TB1      | Link del Vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/EQteChIn4UVDlVx5Sc4PJWMBIr-9kjLxmjmIS_X4JlKSJA?e=3TsZIH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|  
+| VÍdeo de Exposición TP1      | Link del Vídeo: | 
+
+
+### Configuración de Docker (Anexo 2)
+
+![](https://i.imgur.com/djaFq39.jpeg)
+
+![](https://i.imgur.com/ROUUj6U.jpeg)
