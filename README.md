@@ -2541,6 +2541,71 @@ Link del trello: https://trello.com/invite/b/Mhe8mN9K/ATTI885419c49e4654f0ef95f5
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+<b>SweetManager API</b>
+
+<b>Summary</b>
+Sweet Manager API Application, made with Microsoft C#, ASP.NET Core, Entity Framework Core and MySQL persistence. It also illustrates open-api documentation configuration and integration with Swagger UI.
+
+<b>Features</b>
+- RESTful API
+- OpenAPI Documentation
+- Swagger UI
+- Entity Framework Core
+- Microsoft ASP.NET Framework
+- Audit Creation and Update Date
+- Custom Route Naming Conventions
+- Custom Object-Relational Mapping Naming Conventions
+- MySQL Database
+- Domain-Driven Design
+
+<b>Bounded Context</b>
+This proyect of SweetManager is divided in the following bounded contexts:
+- Monitoring 
+- Supplies
+- Interaction
+- Payment
+- Identity Access Management (IAM)
+- Dashboard and Analytics
+- Messages
+
+<b>Monitoring Context</b>
+The Monitoring Context is responsible for managing the rooms of the hotel. It includes the following features:
+- Create a new Room.
+- Update a Room.
+- List all the rooms in real time.
+
+<b>Supplies Context</b>
+The Supplies Context is responsible for managing the supplies of the hotel. It includes the following features:
+- Create a new Supply
+- Update the information of the Supply.
+- List all the supplies in real time.
+
+<b>Communication Context</b>
+The Communication Context is responsible for managing the notifications of the users. It includes the following features:
+- List all the notifications in real time.
+- Create Notifications in real time.
+- Get Notification By Id.
+
+<b>Payment Context</b>
+The Payment Context is responsable for managing the subscriptions and payments of the users. It includes the following features:
+- List all the subscriptions to the service.
+- Validate information when the user subscribes.
+
+<b>Identity and Access Management Context</b>
+The Identity and Access Management is responsable for managing the access of the users to the application. It includes the following features:
+- Verify and Validate the information of the user.
+- Create a user to the application.
+
+<b>Dashboard and Analytics Context</b>
+The Dashboard and Analytics Context is responsable for managing the information in real time about the income and expenses. It includes the following features:
+- List the income for every month at year.
+- List the expenses for every month at year.
+
+<b>Messages Context</b>
+The Messages Context is responsable for managing the messages between the users in the application. It includes the following features:
+- Send message to the respective user in real time using socket.
+
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
