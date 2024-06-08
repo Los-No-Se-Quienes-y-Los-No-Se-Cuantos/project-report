@@ -2544,6 +2544,55 @@ Link del trello: https://trello.com/invite/b/Mhe8mN9K/ATTI885419c49e4654f0ef95f5
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
+A continuación se mostrará, todoas las contribuciones de los participantes de nuestra organización de github: Link de la organización - https://github.com/Los-No-Se-Quienes-y-Los-No-Se-Cuantos
+
+![](https://i.imgur.com/G6dUwPO.png)
+
+![](https://i.imgur.com/xeRhpNE.png)
+
+![](https://i.imgur.com/KNCAhBg.png)
+
+Contributors
+
+![](https://i.imgur.com/r8OWt6Y.png)
+
+Commits
+
+![](https://i.imgur.com/R57emxC.png)
+
+Network Graph
+
+Commits por miembro:
+
+![](https://i.imgur.com/2szlj5M.png)
+
+![](https://i.imgur.com/Z9Wk4rG.png)
+
+![](https://i.imgur.com/LAbRIVE.png)
+
+Miembro: Mauricio Rojas
+
+![](https://i.imgur.com/WNOZaML.png)
+
+![](https://i.imgur.com/GVPk7MI.png)
+
+![](https://i.imgur.com/fZeufD0.png)
+
+Miembro: Alex Avila
+
+![](https://i.imgur.com/0gc86D0.png)
+
+![](https://i.imgur.com/tAJv3tP.png)
+
+Miembro: Aaron Alarcón
+
+![](https://i.imgur.com/VRcadaj.png)
+
+Miembro: Leonardo Linares
+
+![](https://i.imgur.com/w3mQi2K.png)
+
+Miembro: Piero Periche
 
 ## 5.3. Validation Interviews.
 
