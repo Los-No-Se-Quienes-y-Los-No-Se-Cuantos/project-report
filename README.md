@@ -2424,11 +2424,11 @@ Perfil de usuario para Gerente
 
 ![](https://i.imgur.com/HCfCZwi.png)
 
-Pagina de Rooms Management
+Pagina de Supply Management
 
 ![](https://i.imgur.com/LoBWdb0.png)
 
-Pagina de Supply Management
+Pagina de Rooms Management
 
 ![](https://i.imgur.com/jXGhHxk.jpeg)
 
