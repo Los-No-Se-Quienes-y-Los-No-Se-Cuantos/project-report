@@ -3134,6 +3134,13 @@ Sprint 3: En este entregable, hemos logrado desarrollar un Web Services Applicat
 
 El link localhost del Web Services Application es: http://localhost:8080
 
+![](https://i.imgur.com/Y7oWz6d.jpeg)
+Alojamiento de API en Docker
+
+![](https://i.imgur.com/AERUhvM.jpeg)
+Imagen publicada en DockerHub
+
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 ![](https://i.imgur.com/aC1Xwbl.jpeg)
