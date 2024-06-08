@@ -2410,13 +2410,9 @@ El link del Front-End Application es el siguiente: https://sweetmanager.netlify.
 
 Página de bienvenida a la aplicación
 
-![](https://i.imgur.com/GgQFiUr.jpeg)
+![](https://i.imgur.com/m2kNd97.png)
 
-Pagina de Graficos de seguimiento de ingresos y egresos.
-
-![](https://i.imgur.com/5I9fLHh.jpeg)
-
-Pagina de notificaciones
+Pagina de Gráficos de seguimiento de ingresos y egresos, junto a las notificaciones
 
 ![](https://i.imgur.com/A85qFDB.jpeg)
 
@@ -2425,6 +2421,14 @@ Perfil de usuario para trabajador
 ![](https://i.imgur.com/N8exoXp.jpeg)
 
 Perfil de usuario para Gerente
+
+![](https://i.imgur.com/HCfCZwi.png)
+
+Pagina de Rooms Management
+
+![](https://i.imgur.com/LoBWdb0.png)
+
+Pagina de Supply Management
 
 ![](https://i.imgur.com/jXGhHxk.jpeg)
 
