@@ -2564,6 +2564,18 @@ Personalidad: Emotiva<br>
 ![Imagen de entrevista](https://i.imgur.com/O2tGsfj.png)<br>
 En resumen, Maricarmen Tejada, empleada del hotel, considera que "Sweet Manager" tiene un diseño moderno e intuitivo que refleja adecuadamente una imagen profesional, aunque sugiere mejoras en la personalización y navegación. Destaca la funcionalidad de seguimiento de ingresos y gastos en tiempo real y el módulo de gestión de inventarios como características impresionantes. Recomienda una mayor integración con sistemas de gestión existentes y funciones avanzadas de análisis de datos. Maricarmen cree que el software puede simplificar tareas administrativas, permitiendo a los trabajadores centrarse más en la atención al cliente, y mejorar la eficiencia en la gestión financiera y de inventarios, reduciendo costos y mejorando la experiencia de los huéspedes.<br>
 
+**Entrevista 2 (Empleados)**<br>
+URL del vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210192_upc_edu_pe/ETiyU-jnCRxLp328a4uiz0oB8qeJdh1-k-XWDiIYjsbp9A?e=UWT2iA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D <br>
+Nombre:Ariana Valdivia<br>
+Edad: 25 años<br>
+Sexo: Femenino<br>
+Lugar donde Vive: La Molina, Lima<br>
+Ocupación: Gerente de Hotel<br>
+Duración de la Entrevista: 0:10 - 13:10<br>
+Personalidad: Emotiva<br>
+![Imagen de entrevista](https://i.imgur.com/aXe65sK.jpeg)<br>
+En la entrevista con Ariana, quedó patente su entusiasmo y aprobación respecto al software que hemos estado desarrollando. Su satisfacción es evidente, especialmente en lo que respecta al aspecto visual y a las múltiples opciones de tarea que ofrece InnControl. Ariana expresó claramente la utilidad que encontrará en la plataforma y el máximo provecho que planea sacarle para mejorar y optimizar la gestión interna del hotel. Destacó la importancia de la herramienta para su equipo y la forma en que facilitará sus operaciones diarias. Además, Ariana señaló de manera constructiva un punto de mejora en el aspecto visual del frontend, el cual estamos comprometidos a implementar una vez que el programa esté terminado. Esta retroalimentación nos permite afinar aún más nuestra solución y asegurarnos de que cumpla con las expectativas más exigentes de nuestros clientes. En resumen, nos complace enormemente haber cumplido con las expectativas de Ariana y su equipo con el software desarrollado. Estamos comprometidos a seguir trabajando para ofrecerles una herramienta que no solo satisfaga sus necesidades actuales, sino que también les brinde un valor agregado significativo en su gestión hotelera.<br>
+
 ### 5.3.3. Evaluaciones según heurísticas.
 
 <b>SITE o APP a evaluar: Sweet Manager</b>
