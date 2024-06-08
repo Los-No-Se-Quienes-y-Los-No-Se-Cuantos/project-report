@@ -2461,7 +2461,66 @@ Representa el network de los commits del repositorio Front-End Application.
 ### 5.2.3. Sprint 3
 
 #### 5.2.3.1. Sprint Planning 3
-
+<table>
+    <thead>
+        <tr>
+            <th> Sprint #</th>
+            <th> Sprint 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Planing Background</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Date</td>
+            <td> 27/05/2024 </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Time</td>
+            <td> 16:00 horas (GMT-5)</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Location</td>
+            <td> Lima, Reunion virtual por Discord
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Prepared By</td>
+            <td> Mauricio Abraham Rivo Rojas Sánchez
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
+            <td> Acuña Alarcon, Aaron Elías / Avila Asto, Alex / Linares Tejada, Leonardo Félix / Periche Quiroga, Piero
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Review Summary</td>
+            <td> Sprint 2: En el anterior sprint hemos diseñado el front-end de nuestro start-up, hemos abarcado distintos bounded context, como por ejemplo: payment, dashboard, iam, profiles, communication, monitoring, supplies. Adicionalmente, hemos conectado el front-end con la landing page previamente hecha en el Sprint 1. 
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary</td>
+            <td>
+                Sprint 2: En el anterior sprint hemos diseñado el front-end de nuestro start-up. Al incio, tuvimos fallas en nuestra organización. Sin embargo, al pasar de las semanas hemos mejorado la comunicación y logramos resolver todos los problemas y puntos débiles que tuvimos hasta ese momento. De esta manera, llegando al objetivo del Sprint 2.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint 3 Velocity</td>
+            <td> 15
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sum of Story Points</td>
+            <td> 35
+            <td>
+        </tr>
+    </tbody>
+</table>
 #### 5.2.3.2. Sprint Backlog 3
 
 
