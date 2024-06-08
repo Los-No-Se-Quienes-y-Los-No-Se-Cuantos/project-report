@@ -3132,7 +3132,11 @@ En el alcance del sprint 2 se ha desarrollado el frontend de la aplicación web,
 #### 5.2.3.5. Execution Evidence for Sprint Review
 Sprint 3: En este entregable, hemos logrado desarrollar un Web Services Application de Sweet Manager.
 
-El link localhost del Web Services Application es: http://localhost:8080
+El link del Web Services Application es: http://sweetmanager-api.ryzeon.me/swagger/index.html
+
+![](https://i.imgur.com/Va98lys.png)
+
+El Web Services Application lo hemos alojado en Docker:
 
 ![](https://i.imgur.com/Y7oWz6d.jpeg)
 Alojamiento de API en Docker (Anexo 2)
@@ -3212,11 +3216,12 @@ The Messages Context is responsable for managing the messages between the users 
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-En este sprint, se completó el desarrollo del Web-Services Application y se utilizó un conjunto de herramientas para su despliegue:
+Durante este sprint, se completó el desarrollo de la aplicación de servicios web, utilizando un conjunto de herramientas clave para su despliegue:
 
-Git: Utilizado como sistema de control de versiones para facilitar el trabajo en equipo durante el desarrollo del landing page.
-GitFlow: Implementado como flujo de trabajo para gestionar el progreso individual de cada miembro del equipo en el desarrollo del landing page.
-GitHub: Empleado como plataforma colaborativa para almacenar las versiones del proyecto y facilitar el desarrollo conjunto del equipo.
+- Git: Sirvió como sistema de control de versiones, facilitando la colaboración del equipo en el desarrollo de la página de aterrizaje.
+- GitFlow: Implementado como un flujo de trabajo estructurado para gestionar el progreso individual de cada miembro del equipo en el desarrollo de la página de aterrizaje.
+- GitHub: Usado como plataforma colaborativa para el almacenamiento de versiones del proyecto, lo que facilitó el trabajo conjunto del equipo.
+- Docker: Utilizado para contenerizar y alojar nuestros servicios web, garantizando un entorno de despliegue consistente y portable.
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 A continuación se mostrará, todoas las contribuciones de los participantes de nuestra organización de github: Link de la organización - https://github.com/Los-No-Se-Quienes-y-Los-No-Se-Cuantos
