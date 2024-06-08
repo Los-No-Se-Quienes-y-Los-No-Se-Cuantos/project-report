@@ -3221,7 +3221,7 @@ Durante este sprint, se completó el desarrollo de la aplicación de servicios w
 - Git: Sirvió como sistema de control de versiones, facilitando la colaboración del equipo en el desarrollo de la página de aterrizaje.
 - GitFlow: Implementado como un flujo de trabajo estructurado para gestionar el progreso individual de cada miembro del equipo en el desarrollo de la página de aterrizaje.
 - GitHub: Usado como plataforma colaborativa para el almacenamiento de versiones del proyecto, lo que facilitó el trabajo conjunto del equipo.
-- Docker: Utilizado para contenerizar y alojar nuestros servicios web, garantizando un entorno de despliegue consistente y portable.
+- Docker: Utilizado para contenerizar y desplegar tanto nuestro servicio MySQL como la aplicación web, proporcionando un entorno de despliegue consistente y portable.
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 A continuación se mostrará, todoas las contribuciones de los participantes de nuestra organización de github: Link de la organización - https://github.com/Los-No-Se-Quienes-y-Los-No-Se-Cuantos
