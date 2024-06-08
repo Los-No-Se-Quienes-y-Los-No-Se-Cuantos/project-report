@@ -2588,20 +2588,6 @@ Personalidad: Analítica<br>
 ![Imagen de entrevista](https://i.imgur.com/4953oaZ.png)<br>  
 En resumen, Mathias Jave menciona que la aplicacion cumplio con sus requesitos y resalta que la interfaz de reportes ayuda a realizar un seguimiento financiero del hotel. Por otra parte, menciona que la lista de trabajadores debe mejorar es decir, que este mas claro la informacion y que este centrado de tal manera que pueda visualizar correctamente la informacion. Por ultimo, resalta que la aplicacion debe tener solamente informacion relevante de las habitaciones e inventario de productos para que sea mas facil de leer y que las notificaciones se encuentren en una seccion aparte. En conclusion, Mathias Jave aprueba el avance del producto pero que se tiene que mejorar en las observaciones mencionadas.<br>
 
-**Entrevista 1 (Empleados)**<br>
-Url del vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a322_upc_edu_pe/EczrJsdi7XNInGUVNizucxMBObC5sREaY0dy9rhYLkSnrA?e=oYG2Ye&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D<br>
-Nombre: Catalina Bustamante<br>
-Edad: 21<br>
-Sexo: Femenino<br>
-Lugar donde vive: Cusco, Peru<br>
-Ocupación: Empleado de hotel<br>
-Duración de la entrevista: 0:05 - 8:09<br>
-Personalidad: Analítica<br>
-
-![Imagen de entrevista](https://i.imgur.com/UF3WIov.png)<br>  
-En resumen, Catalina Bustamante menciona que la aplicación cumplió con sus requisitos y resalta que la interfaz es agradable y refleja bien la imagen del hotel. Por otra parte, menciona que los gráficos individuales deben ser más grandes para una mejor visualización y que los reportes estadísticos podrían mejorar permitiendo comparaciones entre diferentes periodos. También sugiere que la lista de trabajadores y la información de las habitaciones sean claras y relevantes, con las notificaciones en una sección aparte. En conclusión, Catalina Bustamante aprueba el avance del producto pero considera que se deben mejorar las observaciones mencionadas.<br>
-
-
 **Entrevista 2 (Gerentes)**
 Url del Vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/Ef9Qw-HQLpNEhu1x4wii2c4BRfc3LLwxRE_e9VlUO0Up1Q?e=KOKdMi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 Nombre: Carlo Rebagliati<br>
@@ -2628,6 +2614,20 @@ Personalidad: Emotiva<br>
 En resumen, Maricarmen Tejada, empleada del hotel, considera que "Sweet Manager" tiene un diseño moderno e intuitivo que refleja adecuadamente una imagen profesional, aunque sugiere mejoras en la personalización y navegación. Destaca la funcionalidad de seguimiento de ingresos y gastos en tiempo real y el módulo de gestión de inventarios como características impresionantes. Recomienda una mayor integración con sistemas de gestión existentes y funciones avanzadas de análisis de datos. Maricarmen cree que el software puede simplificar tareas administrativas, permitiendo a los trabajadores centrarse más en la atención al cliente, y mejorar la eficiencia en la gestión financiera y de inventarios, reduciendo costos y mejorando la experiencia de los huéspedes.<br>
 
 **Entrevista 2 (Empleados)**<br>
+Url del vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a322_upc_edu_pe/EczrJsdi7XNInGUVNizucxMBObC5sREaY0dy9rhYLkSnrA?e=oYG2Ye&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D<br>
+Nombre: Catalina Bustamante<br>
+Edad: 21<br>
+Sexo: Femenino<br>
+Lugar donde vive: Cusco, Peru<br>
+Ocupación: Empleado de hotel<br>
+Duración de la entrevista: 0:05 - 8:09<br>
+Personalidad: Analítica<br>
+
+![Imagen de entrevista](https://i.imgur.com/UF3WIov.png)<br>  
+En resumen, Catalina Bustamante menciona que la aplicación cumplió con sus requisitos y resalta que la interfaz es agradable y refleja bien la imagen del hotel. Por otra parte, menciona que los gráficos individuales deben ser más grandes para una mejor visualización y que los reportes estadísticos podrían mejorar permitiendo comparaciones entre diferentes periodos. También sugiere que la lista de trabajadores y la información de las habitaciones sean claras y relevantes, con las notificaciones en una sección aparte. En conclusión, Catalina Bustamante aprueba el avance del producto pero considera que se deben mejorar las observaciones mencionadas.<br>
+
+
+**Entrevista 3 (Empleados)**<br>
 URL del vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210192_upc_edu_pe/ETiyU-jnCRxLp328a4uiz0oB8qeJdh1-k-XWDiIYjsbp9A?e=UWT2iA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D <br>
 Nombre:Ariana Valdivia<br>
 Edad: 25 años<br>
