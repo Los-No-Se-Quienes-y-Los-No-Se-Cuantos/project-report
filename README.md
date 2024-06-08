@@ -3123,12 +3123,20 @@ Link del trello: https://trello.com/invite/b/Mhe8mN9K/ATTI885419c49e4654f0ef95f5
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 En el alcance del sprint 2 se ha desarrollado el frontend de la aplicación web, el testing que hemos usado para la validacion de endpoints fue postman y la interfaz de swagger:
 
+![](https://i.imgur.com/aC1Xwbl.jpeg)
+
+![](https://i.imgur.com/Sxzj5fZ.jpeg)
+
+![](https://i.imgur.com/u7rxxdX.jpeg)
+
 #### 5.2.3.5. Execution Evidence for Sprint Review
 Sprint 3: En este entregable, hemos logrado desarrollar un Web Services Application de Sweet Manager.
 
 El link localhost del Web Services Application es: http://localhost:8080
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+![](https://i.imgur.com/aC1Xwbl.jpeg)
 
 <b>SweetManager API</b>
 
