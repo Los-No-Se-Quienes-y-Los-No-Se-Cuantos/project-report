@@ -2566,18 +2566,64 @@ En resumen, Maricarmen Tejada, empleada del hotel, considera que "Sweet Manager"
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
-| HEURÍSTICA                                    | EVALUACIÓN ✅❌ | NOTA    |
-| --------------------------------------------- | ------------- | ------- |
-| Visibilidad del estado del sistema            |               | {texto} |
-| Coincidencia entre el sistema y el mundo real |               | {texto} |
-| Control y libertad del usuario                |               | {texto} |
-| Consistencia y estándares                     |               | {texto} |
-| Prevención de errores                         |               | {texto} |
-| Mostrar antes que recordar                    |               | {texto} |
-| Flexibilidad y eficiencia de uso              |               | {texto} |
-| Diseño estético y minimalista                 |               | {texto} |
-| Comunicar errores con facilidad               |               | {texto} |
-| Ayuda y documentación                         |               | {texto} |
+<b>SITE o APP a evaluar: Sweet Manager</b>
+
+<b>Tareas a Evaluar</b>
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+1. Registro de un usuario nuevo
+2. Registro de Dormitorios
+3. Registro de Productos a Bodega
+4. Inicio de sesión
+5. Registro de trabajadores
+6. Actualizar ingresos y egresos
+7. Administración de notificaciones
+8. Registro de pagos
+9. Selección de subscripción
+10. Registro ded Trabajadores
+11. Gestión de Proveedores
+12. Gestión de Clientes
+13. Filtrar gráficos
+14. Lista de productos
+15. Lista de Dormitorios
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1. Administración de Routes.
+2. Creación de subscripciones.
+3. Mensajes de alertas
+4. Proceso de pago
+5. Ver perfil
+
+<b>ESCALA DE SEVERIDAD</b>
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
+
+| **Nivel** | **Descripción** |
+|-----------|-----------------|
+| 1         | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2         | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3         | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4         | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+<b>TABLA RESUMEN</b>
+
+| **#** | **Problema** | **Escala de severidad**✅❌ | **Heurística/Principio violado** |
+|-------|--------------|-------------------------|----------------------------------|
+| 1     | No hay un control que permita regresar a la pantalla de título | 3 | Usability: Libertad y control del usuario |
+| 2     | No existe un mensaje de error cuando se intenta iniciar sesión con una cuenta no existente | 2 | Usability: Consistencia y estándares |
+| 3     | No existe la opción de ocultar la función de añadir un cuarto a manejar | 2 | Information Architecture: Is it findable?  |
+| 4     | No existe la opción de ocultar la función de añadir un inventario a manejar | 2 | Information Architecture: Is it findable? |
+| 5     | Inconsistencia en el formato de las fechas | 1 | Usability: Consistencia y estándares |
+| 6     | No existen opciones de filtro en el manejo de cuartos | 2 | Information Architecture: Is it findable? |
+| 7     | No existen opciones de filtro en el manejo de inventarios | 2 | Information Architecture: Is it findable? |
+| 8     | Inconsistencia de los formatos de letras | 2 | Usability: Consistencia y estándares |
+| 9     | Notificaciones no categorizadas, difícil de gestionar en masa | 3 | Usability: Consistencia y estándares |
+| 10    | Interfaz poco amigable para dispositivos móviles | 3 | Usability: Libertad y control del usuario |
+| 11    | No hay una opción clara para cambiar o cancelar la suscripción | 4 | Usability: Libertad y control del usuario. |
+| 12    | No se puede visualizar un historial de interacciones con proveedores | 3 | Information Architecture: Is it findable? |
+| 13    | Falta de administración de notificaciones | 3 | Information Architecture: Is it findable? |
+| 14    | No existen opciones de filtro para las estadísticas gráficas | 2 | Information Architecture: Is it findable? |
+| 15    | Falta de comparación clara entre diferentes planes de suscripción | 2 | Usability: Consitencia y estándares |
+
 
 ## 5.4. Video About-the-Product.
 
