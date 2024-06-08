@@ -3457,7 +3457,9 @@ En resumen, estamos orgullosos del trabajo realizado y confiamos en que nuestra 
 
 # Video About-the-Team.
 
-Link del Video: 
+![](https://i.imgur.com/YOL49R0.png)
+
+Link del Video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/EaIq-sNxfBtDpLl1QEszlmIB1lalLKXYkAk6cHPFo7VfdQ?e=sEOJfg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 # Bibliografía
 
