@@ -2525,6 +2525,18 @@ Personalidad: Analítica<br>
 ![Imagen de entrevista](https://i.imgur.com/4953oaZ.png)<br>  
 En resumen, Mathias Jave menciona que la aplicacion cumplio con sus requesitos y resalta que la interfaz de reportes ayuda a realizar un seguimiento financiero del hotel. Por otra parte, menciona que la lista de trabajadores debe mejorar es decir, que este mas claro la informacion y que este centrado de tal manera que pueda visualizar correctamente la informacion. Por ultimo, resalta que la aplicacion debe tener solamente informacion relevante de las habitaciones e inventario de productos para que sea mas facil de leer y que las notificaciones se encuentren en una seccion aparte. En conclusion, Mathias Jave aprueba el avance del producto pero que se tiene que mejorar en las observaciones mencionadas.<br>
 
+**Entrevista 2 (Gerentes)**
+Url del Vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/Ef9Qw-HQLpNEhu1x4wii2c4BRfc3LLwxRE_e9VlUO0Up1Q?e=KOKdMi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Nombre: Carlo Rebagliati<br>
+Edad: 45<br>
+Sexo: Masculino<br>
+Ocupación: Gerente de hotel<br>
+Lugar donde vive: Pueblo Libre, Lima<br>
+Duración de la entrevista: 0:37 - 12:15<br>
+Personalidad: Analítica<br>
+![Imagen de entrevista](https://i.imgur.com/OHC57qN.png)<br>  
+En resumen, Carlo Rebagliati es un gerente de hotel con un largo camino de experiencia. Él es una persona analítica, comunicativa, empática y profesional que le importan las estadísticas y los beneficios y consecuencias de cada decisión. Nos relata que sus canales de comunicación preferidos son Whatssap, Zoom y cara a cara; adicionalmente, su navegador más frecuente es Google Chrome y usa Smartphone Android. Los principales desafíos que tiene su hotel es el llamado a los turistas desde provincia, ya que la mayoría de la clientela que tiene son turistas. Afortunadamente, está manteniendo a sus trabajadores motivados para que las bajas ventas por temporadas no afecte su rendimiento. Adicionalmente, mencionó que tienen una plataforma web donde los clientes realizan sus reservas, también tienen un área contable y administrativa para el seguimiento de ganancia y recursos. Finalmente, cree necesario una aplicación o software que se concentre en la gestión de un hotel, tanto para la comunicación, administración, gestión y seguimiento de recursos.
+
 **Segmento 2**  
 **Entrevista 1 (Empleados)**<br>
 URL del vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211168_upc_edu_pe/EZcANjnXVHlBkLjr1GkKpVoByAPEdEnjJGy7eb-liJV3lw?e=Q9Fy4l&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D<br>
