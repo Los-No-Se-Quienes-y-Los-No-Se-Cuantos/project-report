@@ -2588,8 +2588,8 @@ Personalidad: Analítica<br>
 ![Imagen de entrevista](https://i.imgur.com/4953oaZ.png)<br>  
 En resumen, Mathias Jave menciona que la aplicacion cumplio con sus requesitos y resalta que la interfaz de reportes ayuda a realizar un seguimiento financiero del hotel. Por otra parte, menciona que la lista de trabajadores debe mejorar es decir, que este mas claro la informacion y que este centrado de tal manera que pueda visualizar correctamente la informacion. Por ultimo, resalta que la aplicacion debe tener solamente informacion relevante de las habitaciones e inventario de productos para que sea mas facil de leer y que las notificaciones se encuentren en una seccion aparte. En conclusion, Mathias Jave aprueba el avance del producto pero que se tiene que mejorar en las observaciones mencionadas.<br>
 
-**Entrevista 2 (Gerentes)**
-Url del Vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/Ef9Qw-HQLpNEhu1x4wii2c4BRfc3LLwxRE_e9VlUO0Up1Q?e=KOKdMi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+**Entrevista 2 (Gerentes)**<br>
+Url del Vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/Ef9Qw-HQLpNEhu1x4wii2c4BRfc3LLwxRE_e9VlUO0Up1Q?e=KOKdMi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D<br>
 Nombre: Carlo Rebagliati<br>
 Edad: 45<br>
 Sexo: Masculino<br>
