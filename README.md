@@ -2528,6 +2528,10 @@ Representa el network de los commits del repositorio Front-End Application.
 
 #### 5.2.3.2. Sprint Backlog 3
 
+![](https://i.imgur.com/zJkChey.png)
+Sprint Backlog 3
+
+Link del trello: https://trello.com/invite/b/Mhe8mN9K/ATTI885419c49e4654f0ef95f5cd63d3770f494D60BB/sprint-2
 
 #### 5.2.3.3. Development Evidence for Sprint Review
 
