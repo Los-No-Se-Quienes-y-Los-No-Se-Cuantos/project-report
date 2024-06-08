@@ -3493,7 +3493,8 @@ https://sergiotapia.net/arquitectura-ddddomain-driven-design/
 | Contenido | URL del Vídeo |
 |--------------|--------------|
 | Vídeo de Exposición TB1      | Link del Vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/EQteChIn4UVDlVx5Sc4PJWMBIr-9kjLxmjmIS_X4JlKSJA?e=3TsZIH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|  
-| VÍdeo de Exposición TP1      | Link del Vídeo: | 
+| VÍdeo de Exposición TP1      | Link del Vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211168_upc_edu_pe/Ed1zDEXVlt5Mr3HCzarNNPgBran_FFRdgHr8vnXSJjH-mg?e=tgs3KY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
+| Vídeo de Exposición TB2    | Link del Vídeo: | 
 
 
 ### Configuración de Docker (Anexo 2)
