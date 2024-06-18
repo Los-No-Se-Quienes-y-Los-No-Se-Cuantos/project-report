@@ -222,8 +222,10 @@
 
 
 # Project Report Collaboration Insights
+
+## TB1
 La entrega TB1 finalizó con éxito y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo: https://github.com/Los-No-Se-Quienes-y-Los-No-Se-Cuantos/project-report
-Durante el desarrollo del informe se tuvieron en cuenta los siguientes aspeectos: 
+Durante el desarrollo del informe se tuvieron en cuenta los siguientes aspectos: 
 - Se redactaron y estructuraron los contenidos asignados a cada miembro utilizando el formato Markdown. Luego, se realizaron commits para garantizar el avance en el repositorio.
 - Se crearon los artefactos necesarios utilizando las herramientas recomendadas y se obtuvieron el link de las imagenes a través de la carpeta assets o de una publicación desde Imgur (https://imgur.com/).
 - Se llevaron a cabo reuniones para coordinar el avance de los elementos del informe y para informar sobre los progresos del Sprint 1, centrado en la página de inicio (Landing Page).
@@ -235,6 +237,40 @@ Durante el desarrollo del informe se tuvieron en cuenta los siguientes aspeectos
 ![](https://i.imgur.com/wAAxe8W.jpeg)
 
 ![](https://i.imgur.com/n2Mpe3y.jpeg)
+
+## TP1
+La entrega TP1 finalizó con éxito y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo: https://github.com/Los-No-Se-Quienes-y-Los-No-Se-Cuantos/sweetmanager-frontend
+Durante el desarrollo del informe se tuvieron en cuenta los siguientes aspectos: 
+- Se desarrolló el front-end application con todas nuestras reglas de negocio e investigaciones que hemos realizado.
+- Se desplegó el front-end application en Netlify, con el siguiente Link: https://sweetmanager.netlify.app/
+- Se elaboró el Sprint Backlog 2 en conjunto, proveniente del siguiente link: https://trello.com/b/Mhe8mN9K/sprint-2
+
+![](https://i.imgur.com/pKzIBXx.png)
+
+![](https://i.imgur.com/Fwyb0yE.png)
+
+![](https://i.imgur.com/TyUT6wu.png)
+
+![](https://i.imgur.com/MyDvXZQ.png)
+
+![](https://i.imgur.com/y640FeY.png)
+
+
+## TB2
+La entrega TB2 finalizó con éxito y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo: https://github.com/Los-No-Se-Quienes-y-Los-No-Se-Cuantos/sweetmanager-web-services
+Durante el desarrollo del informe se tuvieron en cuenta los siguientes aspectos: 
+- Se desarrolló el web-services application con todas las restricciones y reglas de negocio que tenemos evaluadas.
+- Se desplegó el web-services application en el servidor de un integrante de nuestro equipo, Alex Avila Asto. El link del API es: http://sweetmanager-api.ryzeon.me/swagger/index.html
+
+![](https://i.imgur.com/UUnPIfU.png)
+
+![](https://i.imgur.com/xdnSQFo.png)
+
+![](https://i.imgur.com/4mquAEF.png)
+
+![](https://i.imgur.com/sASAKaW.png)
+
+![](https://i.imgur.com/rfvfVHr.png)
 
 # Contenido
 
