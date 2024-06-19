@@ -2560,7 +2560,10 @@ Representa el network de los commits del repositorio Front-End Application.
             <td>
         </tr>
         <tr>
-            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Goal & User Stories</td>
+            <td style="font-weight: bold;"> Sprint Goal and User Stories</td>
+<td>
+                El objetivo del Sprint 3 es desarrollar y optimizar el backend de SweetManager para garantizar una infraestructura robusta, escalable y segura. Esto incluye crear y documentar APIs para todas las funcionalidades clave, diseñar y optimizar la base de datos, implementar sistemas de autenticación y medidas de seguridad, desarrollar una arquitectura de microservicios para una integración eficiente, y realizar pruebas de carga y optimización de rendimiento. El éxito se medirá mediante la finalización y verificación de todas las funcionalidades del backend, asegurando su eficacia, seguridad y capacidad de manejar la carga esperada.
+            <td>
         </tr>
         <tr>
             <td style="font-weight: bold;"> Sprint 3 Velocity</td>
