@@ -837,6 +837,8 @@ Priorizar y ejecutar cambios basados en la retroalimentación del cliente y las 
 
 ## 2.2. Entrevistas.
 
+Las entrevistas son una herramienta fundamental para comprender las necesidades, deseos y desafíos de los usuarios, así como para validar las hipótesis y suposiciones del negocio. A través de las entrevistas, se pueden obtener valiosos conocimientos sobre las expectativas de los clientes, sus experiencias actuales y sus preferencias en cuanto a productos y servicios. En el caso de Sweet Manager, las entrevistas con propietarios, gerentes y personal de hoteles serán fundamentales para diseñar una solución que se adapte a las necesidades del mercado y ofrezca un valor significativo a los usuarios.
+
 ### 2.2.1. Diseño de entrevistas.
 
 **Preguntas complementarias generales**
@@ -982,6 +984,8 @@ Estas fichas de User Persona se basan en el análisis de entrevistas y en el est
 
 ### 2.3.2. User Task Matrix.
 
+En esta seccion se presenta el user task matrix, que es una herramienta que nos permite identificar las tareas más importantes y frecuentes que realizan los User Personas en su entorno laboral. A través de esta matriz, podemos comparar y contrastar las tareas realizadas por los gerentes y los trabajadores, identificando las diferencias y similitudes en términos de frecuencia e importancia. Esto nos ayuda a comprender mejor las necesidades y desafíos de nuestros usuarios y a priorizar las características y funcionalidades de nuestro producto en función de sus tareas críticas.
+
 | Task                                           | Carlos Rebagliati - Gerente (Frecuencia / Importancia)| Juan Guarnizo - Empleado (Frecuencia / Importancia)|
 |-------------------------------------------------|-----------------------------|---------------------------|
 | Supervisión del staff                           | Alta / Alta                 | Media / Alta              |
@@ -1037,6 +1041,8 @@ La elaboración de informes financieros y contables es una tarea de alta importa
 
 ### 2.3.3. User Journey Mapping.
 
+En esta sección se presentarán los User Journey Mapping para cada user persona, detallando las etapas clave de interacción con SweetManager, sus puntos de contacto, y las experiencias y emociones asociadas en cada paso. El objetivo es identificar oportunidades de mejora y optimizar la experiencia del usuario. A continuación se describen los User Journey Maps para cada perfil de usuario:
+
 User Journey Map - Carlos Rebagliati - Gerente (As-Is):<br>
 Inicio del día: El gerente comienza el día revisando los informes financieros y preparando la agenda para el día. Se siente estresado por la cantidad de tareas pendientes y la presión para garantizar que todo funcione sin problemas.<br>
 Gestión de inventarios: El gerente se enfrenta a la tarea de revisar el inventario y hacer pedidos a los proveedores según sea necesario. Se siente frustrado por la falta de un sistema integrado que facilite esta tarea, y aburrido por la tarea en sí.<br>
@@ -1070,7 +1076,8 @@ En resumen, los gerentes ven a su equipo de trabajadores desmotivados y estresad
 En resumen, los trabajadores ven a sus compañeros de trabajo cansados e incómodos de las herramientas del hotel; también escuchan a sus compañeros quejarse del ineficiente sistema del hotel. Por lo tanto, se sienten desmotivados y pierden rendimiento en su hora laboral. Sin embargo, tienen las esperanzas de tener a la mano un sistema hotelero robusto que los ayude a cumplir sus tareas laborales y recibir buenos comentarios.
 
 ### 2.3.5. As-is Scenario Mapping.
-En esta sección presentamos los 2 As-Is Scenario Mapping, 1 para cada segmento.<br>
+
+En esta seccion se presentan los Scenario Mapping para los segmentos de gerentes y trabajadores, que describen cómo son las experiencias actuales de los usuarios en sus tareas diarias.
 
 El link para ambos Scenario Mapping es: https://lucid.app/lucidspark/6d541f3f-440a-40fc-b3a7-1461742dc65e/edit?viewport_loc=2162%2C964%2C2846%2C1413%2C0_0&invitationId=inv_0e4e4622-20f9-43c4-ac8a-c034737fb585
 
@@ -1183,6 +1190,8 @@ Definition: The identification, assessment, and mitigation of risks when resourc
 
 ## 3.1. To-Be Scenario Mapping.
 
+En este apartado se presentan los To-Be Scenario Mapping para los segmentos de gerentes y trabajadores, que describen cómo serán las interacciones y tareas de los usuarios con el sistema de gestión hotelera una vez implementado. Estos mapas proporcionan una visión general de las funcionalidades y características que se espera que tenga el producto final, y sirven como guía para el diseño y desarrollo del sistema.
+
 Segmento 1:
 
 ![segmento-1](https://i.imgur.com/1ezWSFr.jpeg)
@@ -1196,6 +1205,8 @@ Segmento 2:
 El To-Be Scenario Mapping para el segmento Trabajadores.
 
 ## 3.2. User Stories.
+
+Redactamos las historias de usuario para el sistema de gestión hotelera basándonos en las necesidades y desafíos identificados en las entrevistas y el análisis de los segmentos de gerentes y trabajadores. Las historias de usuario describen las funcionalidades y características que los usuarios finales esperan del sistema, y se utilizan para guiar el diseño y desarrollo del producto.
 
 | Story ID | Título | Descripción | Criterios de Aceptación | Epic ID |
 |----------|--------|-------------|--------------------------|---------|
@@ -2566,12 +2577,21 @@ Representa el network de los commits del repositorio Front-End Application.
 
 #### 5.2.3.2. Sprint Backlog 3
 
+En esta seccion se presentara el sprint backlog del sprint 3, administrado principalmente en la plataforma de Trello. Se mostrara una tabla con las tareas designadas de los miembros del equipo y el estado de las mismas.
+
 ![](https://i.imgur.com/0rwOMR4.png)
 Sprint Backlog 3
 
 Link del trello: https://trello.com/invite/b/Mhe8mN9K/ATTI885419c49e4654f0ef95f5cd63d3770f494D60BB/sprint-2
 
 #### 5.2.3.3. Development Evidence for Sprint Review
+
+En esta seccion se incluyen los commits realizados a los repositorios de la organizacion de Github. 
+Mencionamos tambien los links de los repositorios de la organizacion de Github.
+
+Landing page: https://github.com/Los-No-Se-Quienes-y-Los-No-Se-Cuantos/landing-page
+Web Service: https://github.com/Los-No-Se-Quienes-y-Los-No-Se-Cuantos/sweetmanager-web-services
+API: https://github.com/Los-No-Se-Quienes-y-Los-No-Se-Cuantos/sweetmanager-fake-api
 
 <table>
   <thead>
@@ -3159,6 +3179,7 @@ Link del trello: https://trello.com/invite/b/Mhe8mN9K/ATTI885419c49e4654f0ef95f5
 </table>
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
 En el alcance del sprint 2 se ha desarrollado el frontend de la aplicación web, el testing que hemos usado para la validacion de endpoints fue postman y la interfaz de swagger:
 
 ![](https://i.imgur.com/aC1Xwbl.jpeg)
@@ -3168,6 +3189,9 @@ En el alcance del sprint 2 se ha desarrollado el frontend de la aplicación web,
 ![](https://i.imgur.com/u7rxxdX.jpeg)
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
+
+A continuacion, se muestra la evidencia de la ejecución de la aplicación web en el navegador:
+
 Sprint 3: En este entregable, hemos logrado desarrollar un Web Services Application de Sweet Manager.
 
 El link del Web Services Application es: http://sweetmanager-api.ryzeon.me/swagger/index.html
@@ -3314,6 +3338,8 @@ Miembro: Piero Periche
 
 ## 5.3. Validation Interviews.
 
+Tras la finalización del sprint 3, se llevaron a cabo entrevistas de validación con los usuarios de los segmentos de trabajadores y gerentes de hotel para obtener retroalimentación sobre el diseño visual y la usabilidad de la aplicación en desarrollo. A continuación, se presentan los detalles de las entrevistas realizadas, incluyendo el diseño de las preguntas y los registros de las respuestas de los usuarios.
+
 ### 5.3.1. Diseño de Entrevistas.
 
 **Preguntas generales:**
@@ -3344,6 +3370,8 @@ Miembro: Piero Periche
 
 
 ### 5.3.2. Registro de Entrevistas.
+
+En esta sección se presentan los registros de las entrevistas realizadas a los usuarios de los segmentos de trabajadores y gerentes de hotel. Se incluye un resumen de las respuestas y las impresiones generales de los entrevistados sobre el software en desarrollo.
 
 **Segmento 1**  
 **Entrevista 1 (Gerentes)**<br>
@@ -3411,6 +3439,8 @@ Personalidad: Emotiva<br>
 En la entrevista con Ariana, quedó patente su entusiasmo y aprobación respecto al software que hemos estado desarrollando. Su satisfacción es evidente, especialmente en lo que respecta al aspecto visual y a las múltiples opciones de tarea que ofrece InnControl. Ariana expresó claramente la utilidad que encontrará en la plataforma y el máximo provecho que planea sacarle para mejorar y optimizar la gestión interna del hotel. Destacó la importancia de la herramienta para su equipo y la forma en que facilitará sus operaciones diarias. Además, Ariana señaló de manera constructiva un punto de mejora en el aspecto visual del frontend, el cual estamos comprometidos a implementar una vez que el programa esté terminado. Esta retroalimentación nos permite afinar aún más nuestra solución y asegurarnos de que cumpla con las expectativas más exigentes de nuestros clientes. En resumen, nos complace enormemente haber cumplido con las expectativas de Ariana y su equipo con el software desarrollado. Estamos comprometidos a seguir trabajando para ofrecerles una herramienta que no solo satisfaga sus necesidades actuales, sino que también les brinde un valor agregado significativo en su gestión hotelera.<br>
 
 ### 5.3.3. Evaluaciones según heurísticas.
+
+En base a las entrevistas realizadas, se han identificado los siguientes problemas y sugerencias de mejora:
 
 <b>SITE o APP a evaluar: Sweet Manager</b>
 
