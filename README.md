@@ -588,25 +588,27 @@ Nos enfocamos inicialmente en hoteles independientes y pequeñas cadenas hoteler
 
 - **Hipótesis 1:**
 
-**Creemos que** al ofrecer una plataforma integral y fácil de usar para la gestión hotelera, aumentaremos la eficiencia operativa y la rentabilidad de los hoteles. **Se cumplirá si** los propietarios y gerentes **persiban** una disminución visible en el tiempo dedicado a tareas administrativas manuales y un aumento en la utilización activa de Sweet Manager.
+Creemos que los gerentes del sector hotelero buscan herramientas tecnológicas para simplificar y optimizar la gestión interna del hotel. Sabremos que hemos tenido éxito cuando el número de clientes de SweetManager sea elevado y los usuarios ya no experimenten problemas en la gestión interna del hotel, dejando de usar herramientas tradicionales.
 
 - **Hipótesis 2:**
 
-**Creemos que** al proporcionar herramientas de análisis en tiempo real para la toma de decisiones informadas, mejoraremos la gestión estratégica de los hoteles. **Se cumplirá si** los empleados **persiban** una mayor implementación de cambios basados en datos en la gestión hotelera y una mejora significativa en la eficiencia operativa.
+Creemos que al ofrecer una plataforma integral y fácil de usar para la gestión hotelera, aumentaremos la eficiencia operativa y la rentabilidad de los hoteles. Sabremos que tuvimos exito  cuando los propietarios y gerentes perciban una disminución visible en el tiempo dedicado a tareas administrativas manuales y un aumento en la utilización activa de Sweet Manager.
 
 - **Hipótesis 3:**
 
-**Creemos que** al optimizar la gestión de inventarios y recursos humanos a través de Sweet Manager, mejoraremos la experiencia del cliente en los hoteles. **Se cumplirá si** los propietarios y gerentes **obtengan** un aumento en las calificaciones y comentarios positivos de los huéspedes, así como una mayor fidelización y repetición de negocios.
-
+Creemos que al proporcionar herramientas de análisis en tiempo real para la toma de decisiones informadas, mejoraremos la gestión estratégica de los hoteles. Sabremos que hemos tenido éxito cuando los empleados perciban una mayor implementación de cambios basados en datos en la gestión hotelera y se observe una mejora significativa en la eficiencia operativa.
 - **Hipótesis 4:**
 
-**Creemos que** al facilitar la comunicación y la colaboración entre el personal del hotel mediante Sweet Manager, mejoraremos la coordinación operativa y la satisfacción laboral. **Se cumplirá si** los trabajodes del hotel **noten** una reducción en los malentendidos y errores de comunicación interna, así como un aumento en la productividad y el compromiso del personal.
-
+Creemos que al optimizar la gestión de inventarios y recursos humanos a través de SweetManager, mejoraremos significativamente la experiencia del cliente en los hoteles. Sabremos que hemos tenido éxito cuando los propietarios y gerentes reporten un aumento en las calificaciones y comentarios positivos de los huéspedes, así como una mayor fidelización y repetición de negocios.
 - **Hipótesis 5:**
 
-**Creemos que** al ofrecer una experiencia transparente de usuario, que mantenga un seguimiento claro de las transacciones y reservas del hotel, aumentaremos la adopción y retención de usuarios. **Se cumplirá si** los propietarios y gerentes **observen** una disminución en la tasa de abandono de la plataforma y un aumento en el número de usuarios activos que utilizan regularmente todas las características disponibles.
+Creemos que al facilitar la comunicación y la colaboración entre el personal del hotel mediante SweetManager, mejoraremos la coordinación operativa y la satisfacción laboral. Sabremos que hemos tenido éxito cuando los empleados del hotel reporten una reducción en los malentendidos y errores de comunicación interna, junto con un aumento en la productividad y el compromiso del personal.
+- **Hipótesis 6:**
 
-#### 1.2.2.4. Lean UX Canvas.
+Creemos que al ofrecer una experiencia de usuario transparente y un seguimiento claro de las transacciones y reservas del hotel, aumentaremos la adopción y retención de usuarios. Sabremos que hemos tenido éxito cuando los propietarios y gerentes observen una disminución en la tasa de abandono de la plataforma y un aumento en el número de usuarios activos que utilizan regularmente todas las características disponibles.
+- **Hipótesis 7:**
+
+Creemos que ofrecer el software a un precio accesible, será un factor determinante para la adopción de Sweet Manager. Sabremos que tuvimos exito cuando nuestra clientela este conformada por empresas medianas y pequeñas, que buscan soluciones asequibles y eficientes para optimizar sus operaciones.
 
 <TABLE BORDER>
 	<TR>
