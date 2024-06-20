@@ -3510,7 +3510,10 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
 
 ## 5.4. Video About-the-Product.
 
-Por el momento vacía.
+En esta seccion, mostraremos un video sobre nuestro producto, en el cual se navegará por la interfaz diseñada.
+![](https://i.imgur.com/rFeYNZh.jpeg)
+
+Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/EXgvvOsHJQFAhwKeRSaWZxwBqTb8onS5O0G18B0l7XLktw?e=h1GzSU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 # Conclusiones
 
