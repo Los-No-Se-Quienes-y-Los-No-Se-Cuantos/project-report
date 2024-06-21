@@ -610,6 +610,8 @@ Creemos que al ofrecer una experiencia de usuario transparente y un seguimiento 
 
 Creemos que ofrecer el software a un precio accesible, será un factor determinante para la adopción de Sweet Manager. Sabremos que tuvimos exito cuando nuestra clientela este conformada por empresas medianas y pequeñas, que buscan soluciones asequibles y eficientes para optimizar sus operaciones.
 
+#### 1.2.2.4. Lean UX Canvas.
+
 <TABLE BORDER>
 	<TR>
 		<TD ROWSPAN=2>
