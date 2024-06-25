@@ -315,7 +315,7 @@ Durante el desarrollo del informe se tuvieron en cuenta los siguientes aspectos:
 
 [2.4. Ubiquitous Language](#24-ubiquitous-language)
 
-[Capítulo III: Requirements Specificatio](#capítulo-iii-requirements-specification)
+[Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
 
 [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
 
@@ -325,7 +325,7 @@ Durante el desarrollo del informe se tuvieron en cuenta los siguientes aspectos:
 
 [3.4. Product Backlog](#34-product-backlog)
 
-[Capítulo IV: Product Desig](#capítulo-iv-product-design)
+[Capítulo IV: Product Design](#capítulo-iv-product-design)
 
 [4.1. Style Guidelines](#41-style-guidelines)  
 [4.1.1. General Style Guidelines](#411-general-style-guidelines)  
@@ -449,6 +449,8 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 # Capítulo I: Introducción
 
+Este capítulo se centrará en introducir nuestro proyecto, contando con el Startup Profile, y la introducción de los miembros de equipo. El problema que presentamos, junto a nuestra solución, el Lean UX Process y los segmentos objetivos.
+
 ## 1.1. Startup Profile
 
 La gestión eficiente de un hotel es fundamental para garantizar una experiencia excepcional para los huéspedes y maximizar los ingresos. Con este fin, presentamos “Sweet Manager”, una aplicación de gestión de procesos hoteleros diseñada para simplificar y optimizar todas las operaciones relacionadas con la administración de un hotel de tal manera que se puede brindar una estancia cómoda y de calidad a los clientes que frecuentan el hotel.
@@ -496,6 +498,8 @@ Además, la falta de herramientas adecuadas de gestión puede llevar a pérdidas
 En este contexto, la necesidad de soluciones innovadoras y eficientes para la gestión hotelera es más evidente que nunca. Los hoteles deben adaptarse rápidamente a las demandas del mercado y aprovechar las herramientas tecnológicas disponibles para optimizar sus operaciones y mantenerse competitivos en un entorno en constante cambio.
 
 **Problemática**
+
+Reconoceremos nuestra problemática mediante el método 5W y 2H.
 
 **What:** Sweet Manager es una solución integral diseñada para abordar estas complejidades al proporcionar una plataforma única para la gestión de todos los aspectos de un hotel, desde las finanzas hasta los recursos humanos.
 
@@ -548,7 +552,12 @@ Nos enfocamos inicialmente en hoteles independientes y pequeñas cadenas hoteler
 
 #### 1.2.2.2. Lean UX Assumptions.
 
+En esta sección, veremos los Assumptions que podemos esperar de nuestra solución, desde los Features que debe tener, hasta los Outcomes en nuestra perspectiva y la de los usuarios.
+
 **Features:**
+
+Aqui veremos las herramientas que planeamos implementar en nuestra solución.
+
 - **Seguimiento de Ingresos y Gastos en Tiempo Real:** Herramienta para registrar y analizar los flujos financieros del hotel, proporcionando una visión instantánea de la situación económica.
 - **Gestión de Inventarios y Relaciones con Proveedores:** Funcionalidades para mantener un control preciso de los suministros del hotel y facilitar la comunicación con los proveedores para realizar pedidos de manera eficiente.
 - **Módulos de Gestión de Personal:** Herramientas para gestionar horarios, nóminas y evaluaciones de desempeño del personal, optimizando así la gestión de recursos humanos.
@@ -556,17 +565,27 @@ Nos enfocamos inicialmente en hoteles independientes y pequeñas cadenas hoteler
 - **Integración con Sistemas de Gestión Hotelera Existentes:** Capacidad para integrarse sin problemas con sistemas de gestión hotelera ya implementados, asegurando una transición suave y una experiencia completa para los usuarios.
 
 **Business Outcomes:**
-- **Aumento de la Eficiencia Operativa:** Tras la implementación de Sweet Manager, se espera una reducción del 30% en el tiempo dedicado a tareas administrativas como la gestión de inventarios y recursos humanos, lo que se traducirá en una mejora tangible en la eficiencia operativa del hotel.
-- **Mejora en la Rentabilidad:** Anticipamos un aumento del 15% en el margen de beneficio neto del hotel dentro de seis meses, gracias a una gestión más efectiva de ingresos y recursos que optimiza los costos operativos y maximiza los ingresos.
-- **Mayor Satisfacción del Cliente:** Esperamos ver un aumento de 0.5 puntos en la calificación promedio de satisfacción del cliente en las reseñas en línea después de la implementación de Sweet Manager, lo que reflejará la mejora en la experiencia del cliente debido a una gestión más eficiente y una atención más personalizada.
-- **Retención de los clientes:** Prevemos un aumento del 20% en el número de clientes que realizan reservas repetidas dentro de un año, lo que indica una mayor fidelización gracias a una gestión más efectiva y una experiencia de calidad para los huéspedes.
-- **Reducción de costos:** Esperamos una disminución del 25% en los costos operativos totales del hotel, gracias a la reducción de desperdicios y la optimización de procesos facilitada por la automatización y centralización de la información.
+
+Aqui nos centraremos en, tanto lo que queremos lograr como solución de la gestión hotelera, como lo que debemos ver para saber que nuestra solución fue exitosa y tuvo el impacto que deseamos.
+
+- **Referente de Soluciones Tecnológicas para la Gestión Hotelera:** Queremos ser reconocidos como uno de los mayores referentes en el mercado de soluciones de software para la gestión hotelera, incorporando constantemente nuevas tecnologías, teniendo un sistema eficiente y productivo para el cliente, con funcionalidades que anticipen, o se adapten, y respondan a sus necesidades.
+- **Aumento de la Eficiencia Operativa:** Tras la implementación de Sweet Manager, esperamos una reducción del 30% en el tiempo dedicado a tareas administrativas como la gestión de inventarios y recursos humanos, lo que se traducirá en una mejora tangible en la eficiencia operativa del hotel.
+- **Mejora en la Rentabilidad:** Con el uso de Sweet Manager, anticipamos un aumento del 15% en el margen de beneficio neto del hotel dentro de seis meses, gracias a una gestión más efectiva de ingresos y recursos que optimiza los costos operativos y maximiza los ingresos.
+- **Mayor Satisfacción del Cliente:** Gracias a Sweet Manager, esperamos ver un aumento de 0.5 puntos en la calificación promedio de satisfacción del cliente en las reseñas en línea, lo que reflejaría la mejora en la experiencia del cliente, gracias a una gestión más eficiente y una atención más personalizada.
+- **Retención de los clientes:** Mediante el uso de Sweet Manager, prevemos un aumento del 20% en el número de clientes que realizan reservas repetidas dentro de un año, lo que indica una mayor fidelización gracias a una gestión más efectiva y una experiencia de calidad para los huéspedes.
+- **Reducción de costos:** Sabremos que nuestra solución es efectiva, cuando veamos una disminución del 25% en los costos operativos totales del hotel, gracias a la reducción de desperdicios y la optimización de procesos facilitada por la automatización y centralización de la información.
 
 **Users:**
+
+Estos son los usuarios a los que van dirigido nuestra solución.
+
 - **Propietarios y Gerentes de Hoteles:** Buscan soluciones tecnológicas para optimizar la gestión de sus establecimientos y mejorar la rentabilidad.
 - **Personal de Trabajo:** Encargado de tareas específicas dentro del hotel, como contabilidad, compras o recursos humanos, quienes buscan herramientas que simplifiquen y agilicen sus responsabilidades diarias.
 
 **User Outcomes & Benefits:**
+
+Estos son los beneficios inmediatos que obtendran los usuarios con nuestra solución.
+
 - **Acceso Conveniente a la Plataforma:** Los usuarios pueden acceder fácilmente a todas las herramientas necesarias para la gestión hotelera desde una sola plataforma.
 - **Toma de Decisiones Basada en Datos en Tiempo Real:** La disponibilidad de información actualizada permite a los usuarios tomar decisiones informadas y estratégicas en el momento adecuado.
 - **Reducción del estrés y la Carga de Trabajo:** Al automatizar procesos y simplificar tareas, Sweet Manager ayuda a reducir la carga de trabajo y el estrés asociado con la gestión manual de procesos.
@@ -575,6 +594,9 @@ Nos enfocamos inicialmente en hoteles independientes y pequeñas cadenas hoteler
 - **Transparencia de acciones y mayor confianza:** Generando una experiencia sin contratiempos que satisface a los huéspedes, especialmente en las transacciones y las reservas.
 
 **Business Assumptions:**
+
+Estos son los puntos que podemos asumir de nuestro negocio.
+
 1. Creemos que los hoteles tienen una necesidad creciente de soluciones tecnológicas que mejoren la eficiencia operativa y la rentabilidad del negocio.
 2. Esta necesidad puede ser abordada con éxito mediante Sweet Manager, que ofrece una plataforma integral y fácil de usar para la gestión hotelera.
 3. El valor principal que nuestros clientes buscan es una solución que simplifique la gestión diaria del hotel y mejore la experiencia del cliente.
@@ -586,31 +608,39 @@ Nos enfocamos inicialmente en hoteles independientes y pequeñas cadenas hoteler
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
+Usando la información recolectada en los Business Outcomes, Usuarios, Beneficios y Features. Podemos formular nuestras hipótesis, cada una centrada en un Feature a desarrollar.
+
 - **Hipótesis 1:**
 
-Creemos que los gerentes del sector hotelero buscan herramientas tecnológicas para simplificar y optimizar la gestión interna del hotel. Sabremos que hemos tenido éxito cuando el número de clientes de SweetManager sea elevado y los usuarios ya no experimenten problemas en la gestión interna del hotel, dejando de usar herramientas tradicionales.
+Creemos que podemos ser reconocidos como un referente de soluciones tecnológicas para la gestión hotelera, cuando los propietarios y gerentes de hoteles obtengan una experiencia de usuario fluida y personalizada mediante nuestra interfaz intuitiva y personalizable.
 
 - **Hipótesis 2:**
 
-Creemos que al ofrecer una plataforma integral y fácil de usar para la gestión hotelera, aumentaremos la eficiencia operativa y la rentabilidad de los hoteles. Sabremos que tuvimos exito  cuando los propietarios y gerentes perciban una disminución visible en el tiempo dedicado a tareas administrativas manuales y un aumento en la utilización activa de Sweet Manager.
+Creemos que obtendremos un aumento en la eficiencia operativa, si los gerentes y propietarios de hoteles obtienen datos financieros precisos y en tiempo real, mediante el seguimiento de ingresos y gastos en tiempo real.
 
 - **Hipótesis 3:**
 
-Creemos que al proporcionar herramientas de análisis en tiempo real para la toma de decisiones informadas, mejoraremos la gestión estratégica de los hoteles. Sabremos que hemos tenido éxito cuando los empleados perciban una mayor implementación de cambios basados en datos en la gestión hotelera y se observe una mejora significativa en la eficiencia operativa.
+Creemos que la mejora en la rentabilidad se logrará si los gerentes de hotel obtienen una gestión optimizada de inventarios y proveedores, mediante la función de gestión de inventarios y relaciones con proveedores de nuestra solución.
+
 - **Hipótesis 4:**
 
-Creemos que al optimizar la gestión de inventarios y recursos humanos a través de SweetManager, mejoraremos significativamente la experiencia del cliente en los hoteles. Sabremos que hemos tenido éxito cuando los propietarios y gerentes reporten un aumento en las calificaciones y comentarios positivos de los huéspedes, así como una mayor fidelización y repetición de negocios.
+Creemos que obtendremos la mayor satisfacción del cliente, si los gerentes de hotel obtienen una administración más eficiente del personal, que podría lograrse mediante nuestros módulos de gestión de personal de nuestra solución.
+
 - **Hipótesis 5:**
 
-Creemos que al facilitar la comunicación y la colaboración entre el personal del hotel mediante SweetManager, mejoraremos la coordinación operativa y la satisfacción laboral. Sabremos que hemos tenido éxito cuando los empleados del hotel reporten una reducción en los malentendidos y errores de comunicación interna, junto con un aumento en la productividad y el compromiso del personal.
+Creemos que la retención de los clientes se logrará, si los gerentes y propietarios de hoteles obtienen una mejor experiencia de gestión centralizada y eficiente, mediante la integración nativa con otros sistemas de gestión hotelera existentes.
+
 - **Hipótesis 6:**
 
-Creemos que al ofrecer una experiencia de usuario transparente y un seguimiento claro de las transacciones y reservas del hotel, aumentaremos la adopción y retención de usuarios. Sabremos que hemos tenido éxito cuando los propietarios y gerentes observen una disminución en la tasa de abandono de la plataforma y un aumento en el número de usuarios activos que utilizan regularmente todas las características disponibles.
+Creemos que la reducción de costos operativos, se conseguirá si los gerentes de hotel obtienen una coordinación y control eficiente de inventarios, mediante la función de gestión de inventarios y relaciones con proveedores de nuestra solución.
+
 - **Hipótesis 7:**
 
-Creemos que ofrecer el software a un precio accesible, será un factor determinante para la adopción de Sweet Manager. Sabremos que tuvimos exito cuando nuestra clientela este conformada por empresas medianas y pequeñas, que buscan soluciones asequibles y eficientes para optimizar sus operaciones.
+Creemos que la expansión de nuestra presencia en el mercado se logrará si los hoteles de diferentes tamaños obtienen una solución adaptable a sus necesidades específicas con la interfaz intuitiva y personalizable.
 
 #### 1.2.2.4. Lean UX Canvas.
+
+A partir de todo lo que hemos investigado, creamos el Lean UX Canvas.
 
 <TABLE BORDER>
 	<TR>
@@ -645,12 +675,13 @@ La gestión eficiente de hoteles presenta desafíos significativos, incluyendo l
 
 **2. Business Outcomes:**
 
-- **Aumento de la Eficiencia Operativa:** Tras la implementación de Sweet Manager, se espera una reducción del 30% en el tiempo dedicado a tareas administrativas como la gestión de inventarios y recursos humanos, lo que se traducirá en una mejora tangible en la eficiencia operativa del hotel.
-- **Mejora en la Rentabilidad:** Anticipamos un aumento del 15% en el margen de beneficio neto del hotel dentro de seis meses, gracias a una gestión más efectiva de ingresos y recursos que optimiza los costos operativos y maximiza los ingresos.
-- **Mayor Satisfacción del Cliente:** Esperamos ver un aumento de 0.5 puntos en la calificación promedio de satisfacción del cliente en las reseñas en línea después de la implementación de Sweet Manager, lo que reflejará la mejora en la experiencia del cliente debido a una gestión más eficiente y una atención más personalizada.
-- **Retención de los clientes:** Prevemos un aumento del 20% en el número de clientes que realizan reservas repetidas dentro de un año, lo que indica una mayor fidelización gracias a una gestión más efectiva y una experiencia de calidad para los huéspedes.
-- **Reducción de costos:** Esperamos una disminución del 25% en los costos operativos totales del hotel, gracias a la reducción de desperdicios y la optimización de procesos facilitada por la automatización y centralización de la información.
-</TD> 
+- **Referente de Soluciones Tecnológicas para la Gestión Hotelera:** Queremos ser reconocidos como uno de los mayores referentes en el mercado de soluciones de software para la gestión hotelera, incorporando constantemente nuevas tecnologías, teniendo un sistema eficiente y productivo para el cliente, con funcionalidades que anticipen, o se adapten, y respondan a sus necesidades.
+- **Aumento de la Eficiencia Operativa:** Tras la implementación de Sweet Manager, esperamos una reducción del 30% en el tiempo dedicado a tareas administrativas como la gestión de inventarios y recursos humanos, lo que se traducirá en una mejora tangible en la eficiencia operativa del hotel.
+- **Mejora en la Rentabilidad:** Con el uso de Sweet Manager, anticipamos un aumento del 15% en el margen de beneficio neto del hotel dentro de seis meses, gracias a una gestión más efectiva de ingresos y recursos que optimiza los costos operativos y maximiza los ingresos.
+- **Mayor Satisfacción del Cliente:** Gracias a Sweet Manager, esperamos ver un aumento de 0.5 puntos en la calificación promedio de satisfacción del cliente en las reseñas en línea, lo que reflejaría la mejora en la experiencia del cliente, gracias a una gestión más eficiente y una atención más personalizada.
+- **Retención de los clientes:** Mediante el uso de Sweet Manager, prevemos un aumento del 20% en el número de clientes que realizan reservas repetidas dentro de un año, lo que indica una mayor fidelización gracias a una gestión más efectiva y una experiencia de calidad para los huéspedes.
+- **Reducción de costos:** Sabremos que nuestra solución es efectiva, cuando veamos una disminución del 25% en los costos operativos totales del hotel, gracias a la reducción de desperdicios y la optimización de procesos facilitada por la automatización y centralización de la información.
+</TD>
 	</TR>
 	<TR>
 		<TD >
@@ -665,16 +696,20 @@ La gestión eficiente de hoteles presenta desafíos significativos, incluyendo l
 		<TD ROWSPAN=2>
 
 **6. Hypotheses**
-        
-- **Creemos que** al ofrecer una plataforma integral y fácil de usar para la gestión hotelera, aumentaremos la eficiencia operativa y la rentabilidad de los hoteles. **Se cumplirá si** los propietarios y gerentes **persiban** una disminución visible en el tiempo dedicado a tareas administrativas manuales y un aumento en la utilización activa de Sweet Manager.
+  
+- Creemos que podemos ser reconocidos como un referente de soluciones tecnológicas para la gestión hotelera, cuando los propietarios y gerentes de hoteles obtengan una experiencia de usuario fluida y personalizada mediante nuestra interfaz intuitiva y personalizable.
 
-- **Creemos que** al proporcionar herramientas de análisis en tiempo real para la toma de decisiones informadas, mejoraremos la gestión estratégica de los hoteles. **Se cumplirá si** los empleados **persiban** una mayor implementación de cambios basados en datos en la gestión hotelera y una mejora significativa en la eficiencia operativa.
+- Creemos que obtendremos un aumento en la eficiencia operativa, si los gerentes y propietarios de hoteles obtienen datos financieros precisos y en tiempo real, mediante el seguimiento de ingresos y gastos en tiempo real.
 
-- **Creemos que** al optimizar la gestión de inventarios y recursos humanos a través de Sweet Manager, mejoraremos la experiencia del cliente en los hoteles. **Se cumplirá si** los propietarios y gerentes **obtengan** un aumento en las calificaciones y comentarios positivos de los huéspedes, así como una mayor fidelización y repetición de negocios.
+- Creemos que la mejora en la rentabilidad se logrará si los gerentes de hotel obtienen una gestión optimizada de inventarios y proveedores, mediante la función de gestión de inventarios y relaciones con proveedores de nuestra solución.
 
-- **Creemos que** al facilitar la comunicación y la colaboración entre el personal del hotel mediante Sweet Manager, mejoraremos la coordinación operativa y la satisfacción laboral. **Se cumplirá si** los trabajodes del hotel **noten** una reducción en los malentendidos y errores de comunicación interna, así como un aumento en la productividad y el compromiso del personal.
+- Creemos que obtendremos la mayor satisfacción del cliente, si los gerentes de hotel obtienen una administración más eficiente del personal, que podría lograrse mediante nuestros módulos de gestión de personal de nuestra solución.
 
-- **Creemos que** al ofrecer una experiencia transparente de usuario, que mantenga un seguimiento claro de las transacciones y reservas del hotel, aumentaremos la adopción y retención de usuarios. **Se cumplirá si** los propietarios y gerentes **observen** una disminución en la tasa de abandono de la plataforma y un aumento en el número de usuarios activos que utilizan regularmente todas las características disponibles.</TD>
+- Creemos que la retención de los clientes se logrará, si los gerentes y propietarios de hoteles obtienen una mejor experiencia de gestión centralizada y eficiente, mediante la integración nativa con otros sistemas de gestión hotelera existentes.
+
+- Creemos que la reducción de costos operativos, se conseguirá si los gerentes de hotel obtienen una coordinación y control eficiente de inventarios, mediante la función de gestión de inventarios y relaciones con proveedores de nuestra solución.
+
+- Creemos que la expansión de nuestra presencia en el mercado se logrará si los hoteles de diferentes tamaños obtienen una solución adaptable a sus necesidades específicas con la interfaz intuitiva y personalizable.</TD>
 
 <TD ROWSPAN=2>
 
@@ -727,6 +762,8 @@ Definir claramente los objetivos y métricas de éxito: Antes de avanzar en el d
 
 ## 1.3. Segmentos objetivo.
 
+A partir de nuestros usuarios asumidos, logramos encontrar nuestros segmentos objetivos a los que va dirigido nuestra solución.
+
 **Usuarios:**
 
 - **Propietarios y Gerentes de Hoteles:** 
@@ -747,7 +784,11 @@ Definir claramente los objetivos y métricas de éxito: Antes de avanzar en el d
 
 # Capítulo II: Requirements Elicitation & Analysis
 
+En este capítulo, nos centraremos en los requerimientos que necesita cumplir nuestra solución para que sea viable, y los análisis necesarios.
+
 ## 2.1. Competidores.
+
+Empezando con los competidores a los que nos enfrentaremos con nuestra solución, su análisis competitivo, junto a nuestras estrategias y tácticas para hacerlas frente.
 
 Facebook (Indirecto): <br>
 En Facebook, los usuarios pueden crear perfiles personales, agregar amigos, publicar actualizaciones de estado, compartir fotos y videos, unirse a grupos y páginas, enviar mensajes privados, participar en eventos, jugar juegos y muchas otras actividades. La plataforma se ha expandido enormemente con el tiempo, integrando funciones como Facebook Marketplace (un mercado en línea), Facebook Watch (una plataforma de vídeo), y Facebook Messenger (una aplicación de mensajería instantánea). Lo cual implica que los gerentes de hoteles busquen empresas que brinden soluciones por medio de publicaciones en dicha plataforma.
@@ -843,6 +884,8 @@ Las entrevistas son una herramienta fundamental para comprender las necesidades,
 
 ### 2.2.1. Diseño de entrevistas.
 
+En esta sección, se documentarán las preguntas que se utilizaron en nuestras entrevistas, contiendo las preguntas generales que se comparten entre los segmentos objetivos, y las preguntas que fueron creadas específicamente para cada una.
+
 **Preguntas complementarias generales**
 - ¿Qué navegador usas con más frecuencia?<br>
 - ¿Qué dispositivo tecnológico usas con más frecuencia?<br>
@@ -881,6 +924,8 @@ Las entrevistas son una herramienta fundamental para comprender las necesidades,
 
 
 ### 2.2.2. Registro de entrevistas.
+
+A continuación, se registraron todas las entrevistas realizadas para nuestra solución, categorizadas según su segmento objetivo, y con un resumen que destaca las características y críticas realizadas sobre nuestro proyecto.
 
 **Entrevista 1 (Gerentes)**  
 URL del Vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/EWoNpMhrd09Epsgdo-svB8EBZ-qMZUkK4yBkZVo10PFfYg?e=4nV4OI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D<br>
@@ -956,6 +1001,8 @@ Personalidad: Emotiva<br>
 Propone mejoras en el sistema de gestión hotelera para facilitar la comunicación y el acceso a la información entre el personal. Además comentó una capacitación continua para mejorar las habilidades del equipo. Sugiere la automatización de procesos de registro de huéspedes para ahorrar tiempo y evitar errores, así como la implementación de herramientas adicionales, como sistemas de seguimiento de solicitudes de huéspedes, para mejorar la experiencia general en el hotel.
 
 ### 2.2.3. Análisis de entrevistas.
+
+Para concluir, en el apartado de análisis, usamos métricas obtenidas a partir de las preguntas que fueron respondidas, y la frecuencia de ciertas respuestas encontradas en las entrevistas.
 
 **Preguntas complementarias generales**
 
@@ -1095,6 +1142,8 @@ En resumen, Juan Perez (User Persona) del segmento trabajadores, realiza los esc
 
 ## 2.4. Ubiquitous Language.
 
+En esta sección, nos centraremos en definir el significado de ciertos términos utilizados en el ambiente de nuestra solución en la gestión hotelera.
+
 Check - In :
 Definition: Process by which a guest registers their arrival at the hotel, provides the necessary information and receives the key to their room.<br>
 
@@ -1190,6 +1239,8 @@ Definition: The identification, assessment, and mitigation of risks when resourc
 
 # Capítulo III: Requirements Specification
 
+En este capítulo, nos centraremos en definir los requerimientos que debemos cumplir para el exito de nuestra solución.
+
 ## 3.1. To-Be Scenario Mapping.
 
 En este apartado se presentan los To-Be Scenario Mapping para los segmentos de gerentes y trabajadores, que describen cómo serán las interacciones y tareas de los usuarios con el sistema de gestión hotelera una vez implementado. Estos mapas proporcionan una visión general de las funcionalidades y características que se espera que tenga el producto final, y sirven como guía para el diseño y desarrollo del sistema.
@@ -1274,6 +1325,8 @@ Claro, aquí están las historias de usuario modificadas para usar el formato "D
 
 ## 3.3. Impact Mapping.
 
+En esta sección se explican y se presentan los Impact Mappings. Creados a partir de los User Personas, incluyendo los Business Goals de cada uno, para obtener los features que ayudarán a producir los Deliverables identificados.
+
 ![Impact Mapping-1](assets/impact-mapping-1.png)
 
 ![Impact Mapping-2](assets/impact-mapping-2.png)
@@ -1344,7 +1397,12 @@ A continuación, se mostrara el Product Backlog creado a partir de las Historias
 
 # Capítulo IV: Product Design
 
+En este capítulo, nos centraremos en los aspectos de diseño de nuestra solución. Dividido en Style Guidelines, la Information Architecture, el UI Design de la Landing Page y Web Applications, un Prototype de Web Application, la arquitectura Domain Driven Design del software, el Object Oriented Design y la Database Design.
+
 ## 4.1. Style Guidelines.
+
+Aquí definimos las reglas o guías generales a seguir con el aspecto del proyecto, para que pueda ser identificado fácilmente y crear la imagen pública que queremos percibir.
+
 |Aspecto|Directrices|
 |----|----|
 |Nombre de la aplicación|Sweet Manager|
@@ -1363,6 +1421,8 @@ A continuación, se mostrara el Product Backlog creado a partir de las Historias
                                                                     
 ### 4.1.1. General Style Guidelines.
 
+Guías generales de estilo a seguir.
+
 |Aspecto|Directrices|
 |----|----|
 |Tipografía| Se optara por fuentes fáciles de leer y que den un aspecto profesional. Se priorizará la legibilidad del texto antes de que sea llamativo.Debería optarse por una fuente Sans Serif|
@@ -1371,6 +1431,8 @@ A continuación, se mostrara el Product Backlog creado a partir de las Historias
 
 
 ### 4.1.2. Web Style Guidelines.
+
+Guías sobre el estilo web de la solución.
 
 |Aspecto|Directrices|
 |----|----| 
@@ -1389,6 +1451,8 @@ Luego del registro, las empresas pagarán una suscripción para poder acceder al
 
 ### 4.2.1. Organization Systems.
 
+Estos son los sistemas de organización a seguir.
+
 Organización visual de contenidos
 Se desarrollará una organización visual del contenido de forma jerárquica en el Landing Page y en las secciones principales de la web para resaltar la información importante, como pueden ser la información y control de los recursos, insumos e información actualizada de los proveedores.
 
@@ -1400,16 +1464,17 @@ Recursos: Seguimiento de los recursos para poder llevar un mejor control de las 
 
 ### 4.2.2. Labeling Systems.
 
+Estos son los sistemas de etiquetado a seguir.
+
 Claridad y simplicidad: Se emplea términos no muy complicados, los cuales puedan ser confusos para los usuarios. Sin embargo, habrá algunos términos los cuales serán más técnicos, debido a los insumos que se puedan utilizar en el hotel.
 Brevedad: Se emplea la menor cantidad de palabras para facilitar la navegación de los usuarios.
 Imágenes ilustrativas: Se emplea imágenes las cuales ayudan a la ubicación de opciones.
 Uso de iconos y símbolos: Se emplea iconos para ayudar a que los usuarios puedan reconocer una función. Esto se emplea principalmente en la barra de herramientas.
 
 
-
 ### 4.2.3. SEO Tags and Meta Tags
 
-
+Aquí, se presentan las reglas de los Tags a utilizar en la codificación de la página web.
 
 * Titulo: ```<title> El Control Que Necesitas | Software de Gestión de hoteles/hostales </title> ```
 * Descripcion: ```<meta name = "description" content = "Controla tus cuartos, empleados e inventario en un solo lugar, La solucion que buscas para cualquier tamaño"/> ```
@@ -1417,11 +1482,14 @@ Uso de iconos y símbolos: Se emplea iconos para ayudar a que los usuarios pueda
 
 ### 4.2.4. Searching Systems.
 
+Aquí se explica los sistemas de búsqueda que se implementaran en nuestro proyecto.
+
 En la página principal se incluirá una opción de búsqueda general, en donde permitirá al usuario acceder a todo el contenido de la aplicación.
 Como búsqueda avanzada se implementará en la parte proveedores e insumos, debido a que se permitirá hacer una búsqueda más específica por apartado.
 
-
 ### 4.2.5. Navigation Systems.
+
+Este sería el sistema de navegación que usara el usuario durante su uso del proyecto.
 
 El usuario será bienvenido con una patnalla para registrar su empresa.
 Luego que el usuario inicie sesión se mostrará en la parte inferior de la aplicación una barra de herramientas para que el usuario pueda navegar por toda la aplicación de manera satisfactoria.
@@ -1429,6 +1497,8 @@ Te puedes desplazar y navegar por el panel de control donde podrás ver perfil, 
 
 
 ## 4.3. Landing Page UI Design.
+
+En esta sección, se mostrarán los diseños de nuestra Landing Page. Divididos entre las secciones simplistas de Wireframe, y el Mock-Up creado para servir como guía visual para la verdadera Landing Page.
 
 ### 4.3.1. Landing Page Wireframe.
 
@@ -1450,6 +1520,8 @@ Te puedes desplazar y navegar por el panel de control donde podrás ver perfil, 
 ![Landing page mockup](https://i.imgur.com/K2KrTQi.png)
 
 ## 4.4. Web Applications UX/UI Design.
+
+En esta sección, se mostrarán los diseños de nuestras Web Applications. Divididos entre las secciones simplistas de Wireframe, y el Mock-Up creado para servir como guía visual para las versiones reales. Ademas de contar con las guías visuales sobre la experiencia del usuario en la solución.
 
 ### 4.4.1. Web Applications Wireframes.
 
@@ -1495,19 +1567,17 @@ Facilidad de Uso y Claridad: Se buscó que la navegación en la aplicación fuer
 
 ## 4.6. Domain-Driven Software Architecture.
 
+En esta sección, se mostrarán los múltiples diagramas creados para la arquitectura de nuestro software, específicamente, contamos con el Context Diagram, los Container Diagrams y los Components Diagrams.
+
 ### 4.6.1. Software Architecture Context Diagram.
 
-1.  ![Landing page mockup](https://i.imgur.com/HoiXnlc.png)
-
-
+   ![Landing page mockup](https://i.imgur.com/HoiXnlc.png)  
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
    ![Landing page mockup](https://i.imgur.com/nKB7rb1.png)
 
 ### 4.6.3. Software Architecture Components Diagrams.
-
-
 
    ![Landing page mockup](https://i.imgur.com/RYS7wb1.png)
    ![Landing page mockup](https://i.imgur.com/SzqfByi.png)
@@ -1521,6 +1591,9 @@ Facilidad de Uso y Claridad: Se buscó que la navegación en la aplicación fuer
  
 
 ## 4.7. Software Object-Oriented Design.
+
+En esta sección, se mostrará todo lo relacionado con la representación de los objetos utilizados en el software de la solución. Comenzando con el Class Diagram, y sus partes divididas, y terminando con un diccionario que explica lo que representa cada atributo de cada una de las clases.
+
 
 ### 4.7.1. Class Diagrams.
 
@@ -1808,6 +1881,8 @@ Facilidad de Uso y Claridad: Se buscó que la navegación en la aplicación fuer
 
 ## 4.8. Database Design.
 
+En esta sección, se mostrarán los diagramas de la base de datos.
+
 ### 4.8.1. Database Diagram.
 
 ![Landing page mockup](https://i.imgur.com/IOSQez5.jpeg)
@@ -1831,6 +1906,8 @@ Facilidad de Uso y Claridad: Se buscó que la navegación en la aplicación fuer
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
+En este último capítulo, nos centraremos en la implementación, validación y despliegue de nuestro proyecto. Al igual que explicar los puntos y pasos necesarios que hemos tomado para lograr su realización.
+
 ## 5.1. Software Configuration Management.
 
 Durante el desarrollo del proyecto utilizaremos las siguientes convenciones o reglas para mantener consistencia en todo momento:
@@ -1849,6 +1926,8 @@ Durante el desarrollo del proyecto utilizaremos las siguientes convenciones o re
 
 ### 5.1.1. Software Development Environment Configuration.
 
+En esta sección, se explican los softwares utilziados para el desarrollo de nuestra solución.
+
 | Nombre de Producto | Descripcion | Propósito de Uso | Ruta Descarga o Link |
 |-----------|-----------|-----------|-----------|
 | Rider JetBrains |Rider es un entorno de desarrollo integrado (IDE) desarrollado por JetBrains, conocido por su enfoque en la productividad y la eficiencia en el desarrollo de software. Está diseñado específicamente para el desarrollo de aplicaciones .NET y .NET Core, incluyendo aplicaciones de escritorio, web y móviles. | Nuestro propósito de uso de Rider gira en torno al desarrollo  de aplicaciones web, específicamente de WebServices, a base de código C#, tecnología .NET. Puesto que .NET es recomendado para el desarrollo de servicios web o backend debido a su rendimiento, escalabilidad, seguridad, productividad y compatibilidad multiplataforma, así como su amplio soporte para diversos tipos de servicios. | Link de descarga: https://www.jetbrains.com/es-es/toolbox-app/. Se descarga Toolbox JetBrains donde se encuentran distintos frameworks de muchos lenguajes, entre ellos Rider.|
@@ -1859,6 +1938,8 @@ Durante el desarrollo del proyecto utilizaremos las siguientes convenciones o re
 | Github | GitHub es una plataforma de desarrollo colaborativo de software que utiliza el sistema de control de versiones Git. Permite a los desarrolladores trabajar juntos en proyectos, facilitando la gestión y colaboración en el código fuente. Los usuarios pueden cargar su código, realizar seguimientos de cambios, proponer modificaciones (mediante solicitudes de extracción), realizar revisiones de código, y gestionar problemas y tareas, entre otras funciones. Adicionalmente, también permite alojar documentación.  | Nuestro propósito de uso de Github (Web) es facilitar la colaboración en proyectos de desarrollo de software. Utilizaremos GitHub para mantener un control de versiones efectivo de mi código, lo que nos permite realizar un seguimiento de los cambios a lo largo del tiempo y revertirlos si es necesario. Además, aprovecharemos las funciones de GitHub para trabajar en equipo de manera eficiente, creando ramas para desarrollar nuevas características o corregir errores sin interferir con el código principal. También valoramos la capacidad de revisión de código que ofrece GitHub, ya que me permite colaborar con mis compañeros de equipo, revisar sus cambios y proporcionar retroalimentación para mejorar la calidad del código. | Link de Servicio: https://github.com/ Github es un Software de escritorio y Saas. En este caso nosotros no instalaremos el Github Desktop, por lo tanto usaremos su aplicación de la Web.|
 
 ### 5.1.2. Source Code Management.
+
+En esta sección, explicamos la forma en la que estamos manejando los diferentes aspectos de nuestro proyecto, con links que contienen diferentes aspectos del proyecto.
 
 Link Repositorio Web Services Proyecto: https://github.com/Los-No-Se-Quienes-y-Los-No-Se-CuantosSweetManager-WebServices
 
@@ -1872,6 +1953,8 @@ Nosotros crearemos una rama para cada capítulo, es decir una rama para Chapter 
 
 
 ### 5.1.3. Source Code Style Guide & Conventions.
+
+Esta sección explica e indica las referencias que se adoptarán para nombrar los elementos y programar en los lenguajes que hemos elegido para nuestra solución.
 
 **Lenguaje C#**
 
@@ -1927,9 +2010,15 @@ Aún no porque estamos en el Sprint 1.
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
+Esta sección explicara la metodología Sprint que hemos implementado a lo largo del desarrollo de nuestro proyecto.
+
 ### 5.2.1. Sprint 1
 
+Este Sprint se centralizo en el desarrollo de la Landing Page de nuestro StartUp, y del desarrollo inicial del informe.
+
 #### 5.2.1.1. Sprint Planning 1.
+
+Aqui se registran los detallos de la planeación del Sprint 1.
 
 <table>
     <thead>
@@ -1994,10 +2083,14 @@ Aún no porque estamos en el Sprint 1.
 
 #### 5.2.1.2. Sprint Backlog 1.
 
+Aquí se presenta el backlog desarrollado a partir del Sprint 1.
+
 ![SprintBacklog 1](https://i.imgur.com/5b02ahu.jpeg)
 
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
+
+Esta sección registra las evidencias del desarrollo del Sprint.
 
 <table>
     <thead>
@@ -2152,7 +2245,12 @@ El equipo construyó la página de aterrizaje utilizando ramas para cada caracte
 ![network](https://i.imgur.com/sUFRirP.jpeg)
 
 ### 5.2.2. Sprint 2
+
+Este Sprint se centralizo en el desarrollo del Frontend de nuestro StartUp, y de las correciones del informe.
+
 #### 5.2.2.1. Sprint Planning 2
+
+Aqui se registran los detallos de la planeación del Sprint 2.
 
 <table>
     <thead>
@@ -2217,9 +2315,14 @@ El equipo construyó la página de aterrizaje utilizando ramas para cada caracte
 
 #### 5.2.2.2. Sprint Backlog 2
 
+Aquí se presenta el backlog desarrollado a partir del Sprint 2.
+
 ![](https://i.imgur.com/aLLTSkF.jpeg)
 
 #### 5.2.2.3. Development Evidence for Sprint Review
+
+Esta sección registra las evidencias del desarrollo del Sprint.
+
 <table>
     <thead>
     <tr>
@@ -2520,7 +2623,12 @@ Representa el network de los commits del repositorio Front-End Application.
 
 ### 5.2.3. Sprint 3
 
+Este Sprint se centralizo en el desarrollo del de nuestro StartUp, y del desarrollo inicial del informe.
+
 #### 5.2.3.1. Sprint Planning 3
+
+Aqui se registran los detallos de la planeación del Sprint 3.
+
 <table>
     <thead>
         <tr>
@@ -3219,6 +3327,8 @@ Imagen publicada en DockerHub
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+En esta sección, se documentan las evidencias de los servicios funcionando.
+
 ![](https://i.imgur.com/aC1Xwbl.jpeg)
 
 <b>SweetManager API</b>
@@ -3352,6 +3462,8 @@ Tras la finalización del sprint 3, se llevaron a cabo entrevistas de validació
 
 ### 5.3.1. Diseño de Entrevistas.
 
+En el diseño de entrevistas, se incluyen las preguntas generales que se usaran para ambos segmentos objetivos, y preguntas específicas hacía cada segmento.
+
 **Preguntas generales:**
 
 1. ¿Qué opinión tiene sobre el diseño visual y la apariencia general de la aplicación en su estado actual?
@@ -3450,7 +3562,7 @@ En la entrevista con Ariana, quedó patente su entusiasmo y aprobación respecto
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
-En base a las entrevistas realizadas, se han identificado los siguientes problemas y sugerencias de mejora:
+En base a las entrevistas realizadas, se han identificado los siguientes problemas y sugerencias de mejorar:
 
 <b>SITE o APP a evaluar: Sweet Manager</b>
 
