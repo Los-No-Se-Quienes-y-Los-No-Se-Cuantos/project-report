@@ -272,6 +272,16 @@ Durante el desarrollo del informe se tuvieron en cuenta los siguientes aspectos:
 
 ![](https://i.imgur.com/rfvfVHr.png)
 
+## TF1
+La entrega TF1 finalizo con éxito y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo: https://github.com/Los-No-Se-Quienes-y-Los-No-Se-Cuantos/sweetmanager-web-services
+Durante el desarrollo del informe se tuvieron en cuenta los siguientes aspectos: 
+- Se desarrolló el web-services application con todas las restricciones y reglas de negocio que tenemos evaluadas.
+- Se desplegó el web-services application en el servidor de un integrante de nuestro equipo, Alex Avila Asto. El link del API es: http://sweetmanager-api.ryzeon.me/swagger/index.html
+- Se consumió el web-services application en el front-ent application, cuyo link es el siguiente: https://sweetmanager.netlify.app/
+
+
+
+
 # Contenido
 
 [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
@@ -400,7 +410,9 @@ Durante el desarrollo del informe se tuvieron en cuenta los siguientes aspectos:
 [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 
 [5.2.3. Sprint 3](#523-sprint-3)
+
 <br>
+
 [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
 
 [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
@@ -416,6 +428,24 @@ Durante el desarrollo del informe se tuvieron en cuenta los siguientes aspectos:
 [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
 
 [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+
+<br>
+
+[5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+
+[5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+
+[5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+
+[5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+
+[5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+
+[5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+
+[5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+
+[5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
 
 
 [5.3. Validation Interviews](#53-validation-interviews)  
@@ -3309,6 +3339,135 @@ Miembro: Leonardo Linares
 ![](https://i.imgur.com/w3mQi2K.png)
 
 Miembro: Piero Periche
+
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4.
+
+<table>
+    <thead>
+        <tr>
+            <th> Sprint #</th>
+            <th> Sprint 4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Planing Background</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Date</td>
+            <td> 24/06/2024 </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Time</td>
+            <td> 00:5 4am horas (GMT-5)</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Location</td>
+            <td> Lima, Reunion virtual por Discord
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Prepared By</td>
+            <td> Mauricio Abraham Rivo Rojas Sánchez
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
+            <td> Acuña Alarcon, Aaron Elías / Periche Quiroga, Piero / Avila Asto, Alex / Linares Tejada, Leonardo Félix 
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Review Summary</td>
+            <td> Sprint 3: En el anterior Sprint hemos desarrollado el web services application que cumple con nuestras reglas de negocio establecidas. Hemos abarcado distintos bounded
+                context, como por ejemplo: payment, dashboard, iam, profiles, communication, monitoring, supplies.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary</td>
+            <td>
+                Sprint 3: En el anterior sprint hemos desarrollado el web-services de nuestro start-up. Al incio, tuvimos fallas en nuestra organización. Sin embargo, al pasar de las semanas hemos mejorado 
+                la comunicación y logramos resolver todos los problemas y puntos débiles que tuvimos hasta ese momento. De esta manera, llegando al objetivo del Sprint 3.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint 4 Velocity</td>
+            <td> 10
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sum of Story Points</td>
+            <td> 45
+            <td>
+        </tr>
+    </tbody>
+</table>
+
+#### 5.2.4.2. Sprint Backlog 4.
+
+
+
+#### 5.2.4.3. Development Evidence for Sprint Review.
+
+<table>
+    <thead>
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit Id</th>
+        <th>Commit Message</th>
+        <th>Commit Message Body</th>
+        <th>Committed on (Date)</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td rowspan="1000">landing-page</td>
+    </tr>
+    <tr>
+        <td rowspan="4">develop</td>
+    </tr>
+    <tr>
+        <td>5d9f0b6b4f75610201d5eaab0441c26b473c183a</td>
+        <td>Merge pull request #2 from Los-No-Se-Quienes-y-Los-No-Se-Cuantos/feature/readme</td>
+        <td></td>
+        <td> 13/04/2024</td>
+    </tr>
+    <tr>
+        <td>ed08ead42eafa4514eb32d2d72562857a2b53374</td>
+        <td>Merge pull request #1 from Los-No-Se-Quienes-y-Los-No-Se-Cuantos/feature/styles-footer</td>
+        <td></td>
+        <td> 13/04/2024 </td>
+    </tr>
+    </tbody>
+</table>
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+
+Al ser un landing page, no se requiere de una suite de pruebas para su desarrollo.
+
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+
+**Sprint 1:**
+En este entregable, hemos logrado desarrollar la Landing Page para nuestra StartUp Sweet Manager.
+El link de la Landing Page es el siguiente: https://sweet-manager.netlify.app/
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+En este sprint se cumplió el objetivo de desarrollar la Landing Page; sin embargo, al ser Landing Page no requiere de documentación relacionada a Web Services.
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+En este sprint, se completó el desarrollo del landing page y se utilizó un conjunto de herramientas para su despliegue:
+
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+
 
 ## 5.3. Validation Interviews.
 
