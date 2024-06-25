@@ -275,6 +275,8 @@
 
 # Project Report Collaboration Insights
 
+En esta sección, regirstraremos los cambios y logros que se completaron en cada entrega del reporte.
+
 ## TB1
 La entrega TB1 finalizó con éxito y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo: https://github.com/Los-No-Se-Quienes-y-Los-No-Se-Cuantos/project-report
 Durante el desarrollo del informe se tuvieron en cuenta los siguientes aspectos: 
@@ -328,11 +330,23 @@ Durante el desarrollo del informe se tuvieron en cuenta los siguientes aspectos:
 La entrega TF1 finalizo con éxito y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo: https://github.com/Los-No-Se-Quienes-y-Los-No-Se-Cuantos/sweetmanager-web-services
 Durante el desarrollo del informe se tuvieron en cuenta los siguientes aspectos: 
 - Se desarrolló el web-services application con todas las restricciones y reglas de negocio que tenemos evaluadas.
+- Se implementaron correcciones en el informe, a partir de críticas pasadas.
 - Se desplegó el web-services application en el servidor de un integrante de nuestro equipo, Alex Avila Asto. El link del API es: http://sweetmanager-api.ryzeon.me/swagger/index.html
 - Se consumió el web-services application en el front-ent application, cuyo link es el siguiente: https://sweetmanager.netlify.app/
 
+Reporte del Web Services:<br>
+![](https://i.imgur.com/RsoFjl4.png)
+![](https://i.imgur.com/UAGG7e1.png)
+![](https://i.imgur.com/uMAUCGo.png)
+![](https://i.imgur.com/VrXiT8Y.png)
+![]()
 
-
+Reporte del Informe:<br>
+![](https://i.imgur.com/7V67FdZ.png)
+![](https://i.imgur.com/6gBFUps.png)
+![](https://i.imgur.com/oLWuVsl.png)
+![](https://i.imgur.com/AKHtI26.png)
+![]()
 
 # Contenido
 
