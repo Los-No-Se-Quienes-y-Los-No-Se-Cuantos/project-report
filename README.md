@@ -339,14 +339,14 @@ Reporte del Web Services:<br>
 ![](https://i.imgur.com/UAGG7e1.png)
 ![](https://i.imgur.com/uMAUCGo.png)
 ![](https://i.imgur.com/VrXiT8Y.png)
-![]()
+![](https://i.imgur.com/8tJowvm.png)
 
 Reporte del Informe:<br>
 ![](https://i.imgur.com/7V67FdZ.png)
 ![](https://i.imgur.com/6gBFUps.png)
 ![](https://i.imgur.com/oLWuVsl.png)
 ![](https://i.imgur.com/AKHtI26.png)
-![]()
+![](https://i.imgur.com/CLICJ45.png)
 
 # Contenido
 
@@ -3609,48 +3609,110 @@ En esta seccion, se registran los detalles del backlog del Sprint 4, mediante el
     </thead>
     <tbody>
     <tr>
-        <td rowspan="1000">landing-page</td>
+        <td rowspan="1000">web-services</td>
     </tr>
     <tr>
         <td rowspan="4">develop</td>
     </tr>
     <tr>
-        <td>5d9f0b6b4f75610201d5eaab0441c26b473c183a</td>
-        <td>Merge pull request #2 from Los-No-Se-Quienes-y-Los-No-Se-Cuantos/feature/readme</td>
+        <td>eac046433118d59a59d455e2ff57a30407797c24</td>
+        <td>feat(payment): added db context.</td>
         <td></td>
-        <td> 13/04/2024</td>
+        <td> 18/06/2024</td>
     </tr>
     <tr>
-        <td>ed08ead42eafa4514eb32d2d72562857a2b53374</td>
-        <td>Merge pull request #1 from Los-No-Se-Quienes-y-Los-No-Se-Cuantos/feature/styles-footer</td>
+        <td>e13a13724c21e77d142db2077b82ece944489b6f</td>
+        <td>feat(payment): configure payments into db context.</td>
         <td></td>
-        <td> 13/04/2024 </td>
+        <td> 18/06/2024 </td>
+    </tr>
+    <tr>
+        <td>7db214ab2ca6a4f6f9870df8d8f144976403de42</td>
+        <td>Merge pull request #10 from Los-No-Se-Quienes-y-Los-No-Se-Cuantos/feature/payments</td>
+        <td></td>
+        <td> 25/06/2024 </td>
+    </tr>
+    <tr>
+        <td>3adc2a50dbc9ffc4fe4541f9c4d38f480ef04f3d</td>
+        <td>feat(iam): added iam from origin.</td>
+        <td></td>
+        <td> 25/06/2024 </td>
+    </tr>
+    <tr>
+        <td>da8b22e36048235b8d298bfaa29ecad8e8b0014e</td>
+        <td>feat(db): configured db context.</td>
+        <td></td>
+        <td> 25/06/2024 </td>
+    </tr>
+    <tr>
+        <td>a55276eae57df3661a493b8d30f18cef8f7ab239</td>
+        <td>feat(iam): added references.</td>
+        <td></td>
+        <td> 25/06/2024 </td>
+    </tr>
+    <tr>
+        <td>75ac2852272d80f67a5a2b9d416a9b1b86b7a3b1</td>
+        <td>Merge pull request #11 from Los-No-Se-Quienes-y-Los-No-Se-Cuantos/feature/iam</td>
+        <td></td>
+        <td> 25/06/2024 </td>
     </tr>
     </tbody>
 </table>
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review.
 
-Al ser un landing page, no se requiere de una suite de pruebas para su desarrollo.
+En el Sprint 3, hemos desarrollado el backend, aqui tenemos la version actualizada de este:
+
+![](https://i.imgur.com/nbOONKF.png)
+![](https://i.imgur.com/2EnGmxd.png)
+![](https://i.imgur.com/HLmiSG2.png)
+![](https://i.imgur.com/0PwHlLI.png)
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 
-**Sprint 1:**
-En este entregable, hemos logrado desarrollar la Landing Page para nuestra StartUp Sweet Manager.
-El link de la Landing Page es el siguiente: https://sweet-manager.netlify.app/
+A continuacion, se muestra la evidencia de la ejecución de la aplicación web en el navegador:
+
+Sprint 4: En este entregable, se aplicaron correcciones en el Web Services Application de Sweet Manager.
+
+El link del Web Services Application es: http://sweetmanager-api.ryzeon.me/swagger/index.html
+
+![](https://i.imgur.com/nbOONKF.png)
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
-En este sprint se cumplió el objetivo de desarrollar la Landing Page; sin embargo, al ser Landing Page no requiere de documentación relacionada a Web Services.
+En esta sección, se evidencia la funcionalidad de los servicios.
+
+![](https://i.imgur.com/UU9E4v2.png)
+
+La documentación sigue siendo la misma que el del sprint 3.
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
-En este sprint, se completó el desarrollo del landing page y se utilizó un conjunto de herramientas para su despliegue:
+Durante este sprint, se completó el desarrollo de la aplicación de servicios web, utilizando un conjunto de herramientas clave para su despliegue:
+
+- Git: Sirvió como sistema de control de versiones, facilitando la colaboración del equipo en el desarrollo de la página de aterrizaje.
+- GitFlow: Implementado como un flujo de trabajo estructurado para gestionar el progreso individual de cada miembro del equipo en el desarrollo de la página de aterrizaje.
+- GitHub: Usado como plataforma colaborativa para el almacenamiento de versiones del proyecto, lo que facilitó el trabajo conjunto del equipo.
+- Docker: Utilizado para contenerizar y desplegar tanto nuestro servicio MySQL como la aplicación web, proporcionando un entorno de despliegue consistente y portable.
 
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
 
+A continuación se mostrará, todoas las contribuciones de los participantes de nuestra organización de github: Link de la organización - https://github.com/Los-No-Se-Quienes-y-Los-No-Se-Cuantos
 
+Reporte del Web Services:<br>
+![](https://i.imgur.com/RsoFjl4.png)
+![](https://i.imgur.com/UAGG7e1.png)
+![](https://i.imgur.com/uMAUCGo.png)
+![](https://i.imgur.com/VrXiT8Y.png)
+![](https://i.imgur.com/8tJowvm.png)
+
+Reporte del Informe:<br>
+![](https://i.imgur.com/7V67FdZ.png)
+![](https://i.imgur.com/6gBFUps.png)
+![](https://i.imgur.com/oLWuVsl.png)
+![](https://i.imgur.com/AKHtI26.png)
+![](https://i.imgur.com/CLICJ45.png)
 
 ## 5.3. Validation Interviews.
 
