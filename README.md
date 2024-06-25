@@ -3810,6 +3810,165 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
 | 14    | No existen opciones de filtro para las estadísticas gráficas | 2 | Information Architecture: Is it findable? |
 | 15    | Falta de comparación clara entre diferentes planes de suscripción | 2 | Usability: Consitencia y estándares |
 
+### PROBLEMA #1: No hay un control que permita regresar a la pantalla de título
+- **Severidad:** 3
+- **Heurística violada:** Control y libertad del usuario
+- **Problema:**
+  Al momento de ingresar a otras secciones de la aplicación, no podemos regresar a la pantalla de título. Esto obliga al usuario a navegar de manera compleja para volver al inicio, aumentando el esfuerzo y frustración del usuario.
+- **Recomendación:**
+  Incluir un botón visible en todas las secciones de la aplicación que permita regresar a la pantalla de título en cualquier momento.
+
+
+---
+
+### PROBLEMA #2: No existe un mensaje de error cuando se intenta iniciar sesión con una cuenta no existente
+- **Severidad:** 2
+- **Heurística violada:** Comunicar errores con facilidad
+- **Problema:**
+  Cuando se intenta iniciar sesión con una cuenta que no existe, no se muestra ningún mensaje de error. Esto puede confundir al usuario, haciéndole pensar que hay un problema técnico en lugar de entender que la cuenta no existe.
+- **Recomendación:**
+  Implementar un mensaje de error claro que informe al usuario que la cuenta no existe.
+
+---
+
+### PROBLEMA #3: No existe la opción de ocultar la función de añadir un cuarto a manejar
+- **Severidad:** 2
+- **Heurística violada:** Diseño estético y minimalista
+- **Problema:**
+  La opción de añadir un cuarto está siempre visible y no se puede ocultar. Esto puede saturar la interfaz con opciones no necesarias para el usuario en ese momento.
+- **Recomendación:**
+  Implementar la opción de ocultar/mostrar esta función según las necesidades del usuario.
+
+---
+
+### PROBLEMA #4: No existe la opción de ocultar la función de añadir un inventario a manejar
+- **Severidad:** 2
+- **Heurística violada:** Diseño estético y minimalista
+- **Problema:**
+  La opción de añadir un inventario está siempre visible y no se puede ocultar, lo cual puede resultar en una interfaz desordenada.
+- **Recomendación:**
+  Incluir la opción de ocultar/mostrar la función de añadir inventario según la necesidad del usuario.
+
+
+---
+
+### PROBLEMA #5: Inconsistencia en el formato de las fechas
+- **Severidad:** 1
+- **Heurística violada:** Consistencia y estándares
+- **Problema:**
+  Las fechas se muestran en diferentes formatos a lo largo de la aplicación, lo cual puede confundir al usuario.
+- **Recomendación:**
+  Establecer y aplicar un formato de fecha uniforme en toda la aplicación.
+
+
+---
+
+### PROBLEMA #6: No existen opciones de filtro en el manejo de cuartos
+- **Severidad:** 2
+- **Heurística violada:** Flexibilidad y eficiencia de uso
+- **Problema:**
+  La ausencia de filtros para gestionar cuartos hace que la búsqueda de información específica sea difícil y tediosa para el usuario.
+- **Recomendación:**
+  Implementar opciones de filtro para facilitar la búsqueda y gestión de cuartos.
+
+
+---
+
+### PROBLEMA #7: No existen opciones de filtro en el manejo de inventarios
+- **Severidad:** 2
+- **Heurística violada:** Flexibilidad y eficiencia de uso
+- **Problema:**
+  La falta de filtros para gestionar inventarios complica la tarea de encontrar información específica, aumentando el tiempo y esfuerzo del usuario.
+- **Recomendación:**
+  Añadir filtros en la sección de inventarios para mejorar la navegación y gestión de información.
+
+
+---
+
+### PROBLEMA #8: Inconsistencia de los formatos de letras
+- **Severidad:** 2
+- **Heurística violada:** Consistencia y estándares
+- **Problema:**
+  Los formatos de letra varían en diferentes secciones de la aplicación, lo que puede causar una experiencia de usuario inconsistente y confusa.
+- **Recomendación:**
+  Uniformar los formatos de letras en toda la aplicación para mantener la consistencia visual y mejorar la usabilidad.
+
+---
+
+### PROBLEMA #9: Notificaciones no categorizadas, difícil de gestionar en masa
+- **Severidad:** 3
+- **Heurística violada:** Consistencia y estándares
+- **Problema:**
+  Las notificaciones no están categorizadas, lo que dificulta su gestión cuando se acumulan en gran cantidad.
+- **Recomendación:**
+  Implementar una categorización de notificaciones que permita al usuario gestionarlas de manera más eficiente.
+
+
+---
+
+### PROBLEMA #10: Interfaz poco amigable para dispositivos móviles
+- **Severidad:** 3
+- **Heurística violada:** Diseño estético y minimalista
+- **Problema:**
+  La interfaz no está optimizada para dispositivos móviles, lo que dificulta la navegación y uso de la aplicación desde estos dispositivos.
+- **Recomendación:**
+  Rediseñar la interfaz para que sea responsive y amigable en dispositivos móviles.
+
+---
+
+### PROBLEMA #11: No hay una opción clara para cambiar o cancelar la suscripción
+- **Severidad:** 4
+- **Heurística violada:** Control y libertad del usuario
+- **Problema:**
+  La opción para cambiar o cancelar la suscripción no es clara, lo que puede frustrar al usuario que desea modificar su suscripción.
+- **Recomendación:**
+  Incluir una opción visible y accesible para cambiar o cancelar la suscripción en cualquier momento.
+
+
+---
+
+### PROBLEMA #12: No se puede visualizar un historial de interacciones con proveedores
+- **Severidad:** 3
+- **Heurística violada:** Mostrar antes que recordar
+- **Problema:**
+  La ausencia de un historial de interacciones con proveedores impide al usuario rastrear y gestionar sus comunicaciones de manera efectiva.
+- **Recomendación:**
+  Implementar una sección de historial de interacciones con proveedores accesible y detallada.
+
+---
+
+### PROBLEMA #13: Falta de administración de notificaciones
+- **Severidad:** 3
+- **Heurística violada:** Flexibilidad y eficiencia de uso
+- **Problema:**
+  No existe una herramienta que permita administrar las notificaciones de manera eficiente, lo cual puede resultar en una sobrecarga de información para el usuario.
+- **Recomendación:**
+  Desarrollar un sistema de administración de notificaciones que permita a los usuarios configurar sus preferencias de manera sencilla.
+
+
+---
+
+### PROBLEMA #14: No existen opciones de filtro para las estadísticas gráficas
+- **Severidad:** 2
+- **Heurística violada:** Flexibilidad y eficiencia de uso
+- **Problema:**
+  La falta de filtros en las estadísticas gráficas dificulta la personalización y análisis de datos específicos por parte del usuario.
+- **Recomendación:**
+  Añadir opciones de filtro en las estadísticas gráficas para una mejor personalización y análisis de datos.
+
+
+---
+
+### PROBLEMA #15: Falta de comparación clara entre diferentes planes de suscripción
+- **Severidad:** 2
+- **Heurística violada:** Consistencia y estándares
+- **Problema:**
+  No se proporciona una comparación clara entre los diferentes planes de suscripción, lo cual puede dificultar la toma de decisiones del usuario.
+- **Recomendación:**
+  Implementar una tabla comparativa que resalte las diferencias y beneficios de cada plan de suscripción de manera clara y comprensible.
+
+
+
 
 ## 5.4. Video About-the-Product.
 
