@@ -3612,7 +3612,7 @@ En esta seccion, se registran los detalles del backlog del Sprint 4, mediante el
         <td rowspan="1000">web-services</td>
     </tr>
     <tr>
-        <td rowspan="4">develop</td>
+        <td rowspan="95">develop</td>
     </tr>
     <tr>
         <td>eac046433118d59a59d455e2ff57a30407797c24</td>
