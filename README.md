@@ -3584,6 +3584,8 @@ Aqui se registran los detallos de la planeación del Sprint 4.
 
 #### 5.2.4.2. Sprint Backlog 4.
 
+En esta seccion, se registran los detalles del backlog del Sprint 4, mediante el uso de la herramienta trello, se registran las tareas a realizar en el sprint 4.   
+![](https://i.imgur.com/1GSI4sK.png)
 
 
 #### 5.2.4.3. Development Evidence for Sprint Review.
