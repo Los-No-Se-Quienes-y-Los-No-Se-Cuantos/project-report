@@ -2121,7 +2121,9 @@ Aqui se registran los detallos de la planeación del Sprint 1.
             <td>
         </tr>
         <tr>
-            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Goal & User Stories</td>
+          <td style="font-weight: bold;"> Sprint Goal & User Stories</td>
+<td> Diseñar, desarrollar y desplegar una landing page efectiva que capture la atención de los visitantes y los motive a realizar acciones específicas.
+            <td>
         </tr>
         <tr>
             <td style="font-weight: bold;"> Sprint 1 Velocity</td>
@@ -2353,7 +2355,9 @@ Aqui se registran los detallos de la planeación del Sprint 2.
             <td>
         </tr>
         <tr>
-            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Goal & User Stories</td>
+            <td style="font-weight: bold;"> Sprint Goal & User Stories</td>
+<td> Desarrollar y completar el frontend de la aplicación, asegurando una interfaz de usuario intuitiva y funcional que cumpla con los requisitos y especificaciones establecidas.
+            <td>
         </tr>
         <tr>
             <td style="font-weight: bold;"> Sprint 2 Velocity</td>
