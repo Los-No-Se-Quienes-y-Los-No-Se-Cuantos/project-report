@@ -2705,7 +2705,7 @@ Representa el network de los commits del repositorio Front-End Application.
 
 ### 5.2.3. Sprint 3
 
-Este Sprint se centralizo en el desarrollo del de nuestro StartUp, y del desarrollo inicial del informe.
+Este Sprint se centralizo en el desarrollo del Backend de nuestro StartUp, y de las correciones del informe.
 
 #### 5.2.3.1. Sprint Planning 3
 
@@ -3540,7 +3540,11 @@ Miembro: Piero Periche
 
 ### 5.2.4. Sprint 4
 
+Este Sprint se centralizo en el desarrollo de los elementos restantes de nuestro StartUp, y de las correciones del informe.
+
 #### 5.2.4.1. Sprint Planning 4.
+
+Aqui se registran los detallos de la planeación del Sprint 4.
 
 <table>
     <thead>
