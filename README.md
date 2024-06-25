@@ -3567,7 +3567,9 @@ Aqui se registran los detallos de la planeación del Sprint 4.
             <td>
         </tr>
         <tr>
-            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Goal & User Stories</td>
+            <td style="font-weight: bold;">  Sprint Goal & User Stories</td>
+<td> Desarrollar e implementar nuevas funcionalidades clave en nuestra aplicación web-services para mejorar la experiencia del usuario y preparar la plataforma para el lanzamiento, implementando front-end y back-end.
+            <td>
         </tr>
         <tr>
             <td style="font-weight: bold;"> Sprint 4 Velocity</td>
